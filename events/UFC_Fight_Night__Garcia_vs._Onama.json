@@ -1,0 +1,775 @@
+{
+    "name": "UFC Fight Night: Garcia vs. Onama",
+    "date": "November 01, 2025",
+    "location": "Las Vegas, Nevada, USA",
+    "link": "http://ufcstats.com/event-details/0e2c2daf11b5d8f2",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Steve Garcia",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 145.0,
+                        "reach": 75.0,
+                        "stance": "Southpaw",
+                        "dob": "May 22, 1992",
+                        "wins": 19,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 5.39,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 2.12,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 0.86,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 88.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.8889,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "David Onama",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 145.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 07, 1994",
+                        "wins": 14,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.07,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 4.89,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 1.05,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 52.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.1667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Steve Garcia"
+        },
+        {
+            "fighter_a": {
+                "name": "Waldo Cortes Acosta",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 260.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 03, 1991",
+                        "wins": 16,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.55,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 3.53,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.35,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ante Delija",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 239.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 07, 1990",
+                        "wins": 26,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.81,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.65,
+                        "career_str_def": 38.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Waldo Cortes Acosta"
+        },
+        {
+            "fighter_a": {
+                "name": "Jeremiah Wells",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 170.0,
+                        "reach": 74.0,
+                        "stance": "Switch",
+                        "dob": "Oct 30, 1986",
+                        "wins": 13,
+                        "losses": 4,
+                        "draws": 1,
+                        "career_splm": 2.35,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 1.28,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 3.06,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 1.3,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.2,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Themba Gorimbo",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 23, 1991",
+                        "wins": 14,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 2.72,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 1.32,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 5.07,
+                        "career_td_acc": 65.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Jeremiah Wells"
+        },
+        {
+            "fighter_a": {
+                "name": "Yadier del Valle",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Southpaw",
+                        "dob": "Jul 29, 1996",
+                        "wins": 10,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 6.25,
+                        "career_str_acc": 67.0,
+                        "career_sapm": 2.87,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 2.08,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 3.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.6667,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Isaac Dulgarian",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 04, 1996",
+                        "wins": 7,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.99,
+                        "career_str_acc": 63.0,
+                        "career_sapm": 1.65,
+                        "career_str_def": 40.0,
+                        "career_td_avg": 4.57,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 1.8,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.5,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Yadier del Valle"
+        },
+        {
+            "fighter_a": {
+                "name": "Charles Radtke",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 09, 1990",
+                        "wins": 11,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 2.8,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 2.63,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 1.32,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.25,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Daniel Frunza",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 13, 1994",
+                        "wins": 9,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.25,
+                        "career_str_acc": 38.0,
+                        "career_sapm": 4.32,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Charles Radtke"
+        },
+        {
+            "fighter_a": {
+                "name": "Allan Nascimento",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 125.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 11, 1991",
+                        "wins": 22,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 3.06,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 2.53,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 1.26,
+                        "career_td_acc": 23.0,
+                        "career_td_def": 37.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Cody Durden",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 29, 1991",
+                        "wins": 17,
+                        "losses": 9,
+                        "draws": 1,
+                        "career_splm": 3.66,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 4.47,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 3.99,
+                        "career_td_acc": 47.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.1667,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "unknown",
+            "title_fight": 0,
+            "fight_description": "Allan Nascimento"
+        },
+        {
+            "fighter_a": {
+                "name": "Billy Elekana",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "May 28, 1995",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.66,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 3.28,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 0.55,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kevin Christian",
+                "dataset": [
+                    {
+                        "height": 79,
+                        "weight": 205.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 21, 1995",
+                        "wins": 9,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 1.64,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 2.65,
+                        "career_str_def": 44.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 2.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Billy Elekana"
+        },
+        {
+            "fighter_a": {
+                "name": "Timmy Cuamba",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 135.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 08, 1999",
+                        "wins": 10,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.77,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 3.58,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 1.31,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "ChangHo Lee",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "May 09, 1994",
+                        "wins": 11,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.88,
+                        "career_str_acc": 66.0,
+                        "career_sapm": 2.13,
+                        "career_str_def": 37.0,
+                        "career_td_avg": 3.2,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 40.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Timmy Cuamba"
+        },
+        {
+            "fighter_a": {
+                "name": "Donte Johnson",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 185.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 25, 1999",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 3.34,
+                        "career_str_acc": 64.0,
+                        "career_sapm": 1.87,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 6.01,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 2.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.5,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sedriques Dumas",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 06, 1995",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.0,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 2.41,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.34,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 33.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.25,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Donte Johnson"
+        },
+        {
+            "fighter_a": {
+                "name": "Norma Dumont",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 01, 1990",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.89,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.12,
+                        "career_str_def": 65.0,
+                        "career_td_avg": 1.56,
+                        "career_td_acc": 56.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ketlen Vieira",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 26, 1991",
+                        "wins": 15,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 2.76,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 3.75,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.33,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 90.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.1111,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Norma Dumont"
+        },
+        {
+            "fighter_a": {
+                "name": "Alice Ardelean",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 115.0,
+                        "reach": 62.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 19, 1992",
+                        "wins": 11,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 7.35,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 5.2,
+                        "career_str_def": 62.0,
+                        "career_td_avg": 1.0,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Montserrat Conejo Ruiz",
+                "dataset": [
+                    {
+                        "height": 60,
+                        "weight": 115.0,
+                        "reach": 61.0,
+                        "stance": "Southpaw",
+                        "dob": "Feb 03, 1993",
+                        "wins": 10,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 2.21,
+                        "career_str_acc": 29.0,
+                        "career_sapm": 6.19,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 1.75,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 44.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Alice Ardelean"
+        },
+        {
+            "fighter_a": {
+                "name": "Seokhyeon Ko",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 24, 1993",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.73,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 1.42,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 4.0,
+                        "career_td_acc": 63.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Phil Rowe",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 18, 1990",
+                        "wins": 11,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 3.5,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 4.12,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.52,
+                        "career_td_acc": 36.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Seokhyeon Ko"
+        },
+        {
+            "fighter_a": {
+                "name": "Talita Alencar",
+                "dataset": [
+                    {
+                        "height": 61,
+                        "weight": 115.0,
+                        "reach": 58.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 17, 1990",
+                        "wins": 7,
+                        "losses": 1,
+                        "draws": 1,
+                        "career_splm": 2.91,
+                        "career_str_acc": 37.0,
+                        "career_sapm": 3.36,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 3.02,
+                        "career_td_acc": 26.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3333,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ariane Carnelossi",
+                "dataset": [
+                    {
+                        "height": 62,
+                        "weight": 115.0,
+                        "reach": 61.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 17, 1992",
+                        "wins": 15,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.63,
+                        "career_str_acc": 38.0,
+                        "career_sapm": 4.61,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 1.08,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 22.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Talita Alencar"
+        }
+    ]
+}

@@ -1,0 +1,716 @@
+{
+    "name": "UFC Fight Night: Bonfim vs. Brown",
+    "date": "November 08, 2025",
+    "location": "Las Vegas, Nevada, USA",
+    "link": "http://ufcstats.com/event-details/6436029b50a9c255",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Gabriel Bonfim",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 20, 1997",
+                        "wins": 19,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.61,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.68,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 3.6,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 1.4,
+                        "ko_rate": 0.1429,
+                        "sub_rate": 0.5714,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Randy Brown",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 08, 1990",
+                        "wins": 20,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.49,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 3.33,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 0.76,
+                        "career_td_acc": 39.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.2143,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Gabriel Bonfim"
+        },
+        {
+            "fighter_a": {
+                "name": "Joseph Morales",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 125.0,
+                        "reach": 69.0,
+                        "stance": "Switch",
+                        "dob": "Aug 22, 1994",
+                        "wins": 15,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.0,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 2.05,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 1.14,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 26.0,
+                        "career_sub_avg": 3.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Matt Schnell",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 125.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 15, 1990",
+                        "wins": 17,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 4.07,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 4.11,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.6,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 43.0,
+                        "career_sub_avg": 1.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.4286,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Joseph Morales"
+        },
+        {
+            "fighter_a": {
+                "name": "Uros Medic",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Apr 25, 1993",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.53,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 3.46,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.35,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Muslim Salikhov",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 09, 1984",
+                        "wins": 22,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 3.37,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 2.96,
+                        "career_str_def": 62.0,
+                        "career_td_avg": 1.07,
+                        "career_td_acc": 32.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5556,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Uros Medic"
+        },
+        {
+            "fighter_a": {
+                "name": "Chris Padilla",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 14, 1995",
+                        "wins": 17,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 4.78,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.87,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.18,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.25,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ismael Bonfim",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 28, 1995",
+                        "wins": 20,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 5.51,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.71,
+                        "career_str_def": 65.0,
+                        "career_td_avg": 1.06,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Chris Padilla"
+        },
+        {
+            "fighter_a": {
+                "name": "Christian Leroy Duncan",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Switch",
+                        "dob": "Jul 24, 1995",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.6,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 2.97,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.4,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.8333,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Marco Tulio",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 13, 1994",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 6.69,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 2.58,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 1.42,
+                        "career_td_acc": 26.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Christian Leroy Duncan"
+        },
+        {
+            "fighter_a": {
+                "name": "Jamall Emmers",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 145.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 24, 1989",
+                        "wins": 22,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 5.1,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.92,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.59,
+                        "career_td_acc": 53.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Hyder Amil",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "May 28, 1990",
+                        "wins": 11,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.81,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 3.95,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.56,
+                        "career_td_acc": 18.0,
+                        "career_td_def": 65.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Jamall Emmers"
+        },
+        {
+            "fighter_a": {
+                "name": "Raoni Barcelos",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "May 01, 1987",
+                        "wins": 21,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.92,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.4,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 2.22,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.2,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ricky Simon",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 31, 1992",
+                        "wins": 22,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 3.04,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 3.85,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 4.66,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.1818,
+                        "sub_rate": 0.2727,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Raoni Barcelos"
+        },
+        {
+            "fighter_a": {
+                "name": "Jacqueline Cavalcanti",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 29, 1997",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.65,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.17,
+                        "career_str_def": 68.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 88.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mayra Bueno Silva",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 135.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 22, 1991",
+                        "wins": 10,
+                        "losses": 6,
+                        "draws": 1,
+                        "career_splm": 3.71,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 4.9,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.51,
+                        "career_td_acc": 23.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 1.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.8333,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Jacqueline Cavalcanti"
+        },
+        {
+            "fighter_a": {
+                "name": "Josh Hokit",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 236.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 12, 1997",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 5.12,
+                        "career_str_acc": 69.0,
+                        "career_sapm": 1.42,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 12.8,
+                        "career_td_acc": 46.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Max Gimenis",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 256.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 14, 1993",
+                        "wins": 6,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.21,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 9.64,
+                        "career_str_def": 47.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Josh Hokit"
+        },
+        {
+            "fighter_a": {
+                "name": "Denise Gomes",
+                "dataset": [
+                    {
+                        "height": 62,
+                        "weight": 115.0,
+                        "reach": 63.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 30, 1999",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.43,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.16,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 1.45,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.4286,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Tecia Pennington",
+                "dataset": [
+                    {
+                        "height": 61,
+                        "weight": 115.0,
+                        "reach": 60.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 16, 1989",
+                        "wins": 15,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 4.73,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 3.48,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 0.56,
+                        "career_td_acc": 14.0,
+                        "career_td_def": 62.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.0909,
+                        "sub_rate": 0.0909,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Denise Gomes"
+        },
+        {
+            "fighter_a": {
+                "name": "Daniel Marcos",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 07, 1993",
+                        "wins": 18,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.9,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.79,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 1.35,
+                        "career_td_acc": 52.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.1667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Miles Johns",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 30, 1994",
+                        "wins": 15,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.36,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 2.99,
+                        "career_str_def": 65.0,
+                        "career_td_avg": 1.22,
+                        "career_td_acc": 26.0,
+                        "career_td_def": 77.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Daniel Marcos"
+        },
+        {
+            "fighter_a": {
+                "name": "Zach Reese",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Switch",
+                        "dob": "Mar 24, 1994",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.32,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 3.82,
+                        "career_str_def": 39.0,
+                        "career_td_avg": 3.41,
+                        "career_td_acc": 66.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 1.4,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jackson McVey",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 25, 1999",
+                        "wins": 6,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.87,
+                        "career_str_acc": 68.0,
+                        "career_sapm": 3.82,
+                        "career_str_def": 23.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "unknown",
+            "title_fight": 0,
+            "fight_description": "Zach Reese"
+        }
+    ]
+}

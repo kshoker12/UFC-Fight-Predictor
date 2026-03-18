@@ -1,0 +1,716 @@
+{
+    "name": "UFC 326: Holloway vs. Oliveira 2",
+    "date": "March 07, 2026",
+    "location": "Las Vegas, Nevada, USA",
+    "link": "http://ufcstats.com/event-details/15ec018d144710db",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Max Holloway",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 04, 1991",
+                        "wins": 27,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 7.2,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 4.74,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 0.24,
+                        "career_td_acc": 53.0,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.4783,
+                        "sub_rate": 0.087,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Charles Oliveira",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 17, 1989",
+                        "wins": 36,
+                        "losses": 11,
+                        "draws": 0,
+                        "career_splm": 3.35,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.24,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 2.22,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 54.0,
+                        "career_sub_avg": 2.6,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.7083,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Max Holloway"
+        },
+        {
+            "fighter_a": {
+                "name": "Caio Borralho",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 16, 1993",
+                        "wins": 17,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.44,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 2.5,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 1.28,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.2222,
+                        "sub_rate": 0.1111,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Reinier de Ridder",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 78.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 07, 1990",
+                        "wins": 21,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.2,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 2.04,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 2.68,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Caio Borralho"
+        },
+        {
+            "fighter_a": {
+                "name": "Rob Font",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 25, 1987",
+                        "wins": 22,
+                        "losses": 9,
+                        "draws": 0,
+                        "career_splm": 5.36,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.7,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.74,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 43.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0833,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Raul Rosas Jr.",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Switch",
+                        "dob": "Oct 08, 2004",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 1.51,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 1.37,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 4.01,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.3333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Rob Font"
+        },
+        {
+            "fighter_a": {
+                "name": "Drew Dober",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Oct 19, 1988",
+                        "wins": 28,
+                        "losses": 15,
+                        "draws": 0,
+                        "career_splm": 4.52,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 4.34,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.63,
+                        "career_td_acc": 16.0,
+                        "career_td_def": 58.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.7333,
+                        "sub_rate": 0.0667,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Michael Johnson",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Southpaw",
+                        "dob": "Jun 04, 1986",
+                        "wins": 25,
+                        "losses": 19,
+                        "draws": 0,
+                        "career_splm": 4.28,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 3.79,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 0.58,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Drew Dober"
+        },
+        {
+            "fighter_a": {
+                "name": "Gregory Rodrigues",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 17, 1992",
+                        "wins": 18,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 5.6,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.84,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.93,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Brunno Ferreira",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 185.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 04, 1992",
+                        "wins": 15,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.85,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 3.99,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 1.29,
+                        "career_td_acc": 23.0,
+                        "career_td_def": 61.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.5714,
+                        "sub_rate": 0.2857,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Gregory Rodrigues"
+        },
+        {
+            "fighter_a": {
+                "name": "Cody Garbrandt",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 07, 1991",
+                        "wins": 14,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 2.88,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 3.64,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 0.93,
+                        "career_td_acc": 27.0,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Xiao Long",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 13, 1998",
+                        "wins": 27,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 5.25,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 4.2,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.69,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 79.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Cody Garbrandt"
+        },
+        {
+            "fighter_a": {
+                "name": "Donte Johnson",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 185.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 25, 1999",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 3.34,
+                        "career_str_acc": 64.0,
+                        "career_sapm": 1.87,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 6.01,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 2.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.5,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Cody Brundage",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "May 16, 1994",
+                        "wins": 11,
+                        "losses": 8,
+                        "draws": 1,
+                        "career_splm": 2.29,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 3.03,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.87,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.6,
+                        "sub_rate": 0.2,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Donte Johnson"
+        },
+        {
+            "fighter_a": {
+                "name": "Ricky Turcios",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 05, 1993",
+                        "wins": 13,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.73,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 3.72,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.91,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 44.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Alberto Montes",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "May 31, 1994",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.98,
+                        "career_str_acc": 66.0,
+                        "career_sapm": 4.85,
+                        "career_str_def": 57.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 9.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Ricky Turcios"
+        },
+        {
+            "fighter_a": {
+                "name": "Cody Durden",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 29, 1991",
+                        "wins": 17,
+                        "losses": 9,
+                        "draws": 1,
+                        "career_splm": 3.66,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 4.47,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 3.99,
+                        "career_td_acc": 47.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.1667,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Nyamjargal Tumendemberel",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 22, 1998",
+                        "wins": 9,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.18,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 3.33,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 3.1,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 54.0,
+                        "career_sub_avg": 2.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.6667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Cody Durden"
+        },
+        {
+            "fighter_a": {
+                "name": "Sumudaerji",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 125.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 20, 1996",
+                        "wins": 18,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.48,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.39,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.16,
+                        "career_td_acc": 11.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jesus Aguilar",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 125.0,
+                        "reach": 62.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 13, 1996",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.65,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 1.85,
+                        "career_str_def": 62.0,
+                        "career_td_avg": 1.64,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 48.0,
+                        "career_sub_avg": 1.4,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Sumudaerji"
+        },
+        {
+            "fighter_a": {
+                "name": "Rafael Tobias",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 205.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 20, 2003",
+                        "wins": 14,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.45,
+                        "career_str_acc": 30.0,
+                        "career_sapm": 3.98,
+                        "career_str_def": 40.0,
+                        "career_td_avg": 3.98,
+                        "career_td_acc": 100.0,
+                        "career_td_def": null,
+                        "career_sub_avg": 4.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Diyar Nurgozhay",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 205.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Apr 22, 1997",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.04,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.99,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 2.54,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Rafael Tobias"
+        },
+        {
+            "fighter_a": {
+                "name": "Luke Fernandez",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 29, 1995",
+                        "wins": 6,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 32.0,
+                        "career_str_acc": 100.0,
+                        "career_sapm": null,
+                        "career_str_def": 100.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Rodolfo Bellato",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 05, 1996",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 1,
+                        "career_splm": 5.13,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 5.86,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 1.44,
+                        "career_td_acc": 35.0,
+                        "career_td_def": 94.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Luke Fernandez"
+        }
+    ]
+}

@@ -1,0 +1,834 @@
+{
+    "name": "UFC 323: Dvalishvili vs. Yan 2",
+    "date": "December 06, 2025",
+    "location": "Las Vegas, Nevada, USA",
+    "link": "http://ufcstats.com/event-details/bd92cf5da5413d2a",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Merab Dvalishvili",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 10, 1991",
+                        "wins": 21,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.33,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 2.55,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 6.4,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 82.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0714,
+                        "sub_rate": 0.0714,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Petr Yan",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Switch",
+                        "dob": "Feb 11, 1993",
+                        "wins": 19,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 5.12,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 4.14,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 1.58,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.3636,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 1,
+            "fight_description": "Merab Dvalishvili"
+        },
+        {
+            "fighter_a": {
+                "name": "Alexandre Pantoja",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 16, 1990",
+                        "wins": 30,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.36,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 3.88,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 2.8,
+                        "career_td_acc": 47.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.1429,
+                        "sub_rate": 0.4286,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Joshua Van",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 10, 2001",
+                        "wins": 15,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 8.86,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 6.36,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.85,
+                        "career_td_acc": 63.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 1,
+            "fight_description": "Alexandre Pantoja"
+        },
+        {
+            "fighter_a": {
+                "name": "Brandon Moreno",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 07, 1993",
+                        "wins": 23,
+                        "losses": 8,
+                        "draws": 2,
+                        "career_splm": 3.96,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 3.62,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 1.51,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 64.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.2727,
+                        "sub_rate": 0.2727,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Tatsuro Taira",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 27, 2000",
+                        "wins": 17,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 2.87,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 2.54,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 3.21,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 45.0,
+                        "career_sub_avg": 1.7,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.4286,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Brandon Moreno"
+        },
+        {
+            "fighter_a": {
+                "name": "Henry Cejudo",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 135.0,
+                        "reach": 64.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 09, 1987",
+                        "wins": 16,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.82,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 3.46,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 1.84,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Payton Talbott",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 135.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Sep 09, 1998",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 6.05,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.26,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 0.24,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.2,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Henry Cejudo"
+        },
+        {
+            "fighter_a": {
+                "name": "Jan Blachowicz",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 205.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 24, 1983",
+                        "wins": 29,
+                        "losses": 11,
+                        "draws": 1,
+                        "career_splm": 3.44,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.03,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 1.03,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.4167,
+                        "sub_rate": 0.1667,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Bogdan Guskov",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 12, 1992",
+                        "wins": 18,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.17,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 3.3,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.25,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Jan Blachowicz"
+        },
+        {
+            "fighter_a": {
+                "name": "Grant Dawson",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Switch",
+                        "dob": "Feb 20, 1994",
+                        "wins": 23,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 3.2,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.11,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 3.87,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.4167,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Manuel Torres",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Switch",
+                        "dob": "Mar 25, 1995",
+                        "wins": 16,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 7.87,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 4.2,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 2.0,
+                        "career_td_acc": 66.0,
+                        "career_td_def": 88.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.8,
+                        "sub_rate": 0.2,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Grant Dawson"
+        },
+        {
+            "fighter_a": {
+                "name": "Terrance McKinney",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Switch",
+                        "dob": "Sep 15, 1994",
+                        "wins": 17,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 5.78,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 2.58,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 3.59,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 77.0,
+                        "career_sub_avg": 2.2,
+                        "ko_rate": 0.5714,
+                        "sub_rate": 0.4286,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Chris Duncan",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "May 10, 1993",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.64,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 4.53,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 3.17,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.3333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Terrance McKinney"
+        },
+        {
+            "fighter_a": {
+                "name": "Maycee Barber",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Switch",
+                        "dob": "May 18, 1998",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.7,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 2.9,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 1.44,
+                        "career_td_acc": 43.0,
+                        "career_td_def": 53.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Karine Silva",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 02, 1993",
+                        "wins": 19,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 2.73,
+                        "career_str_acc": 38.0,
+                        "career_sapm": 2.89,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 2.37,
+                        "career_td_acc": 47.0,
+                        "career_td_def": 11.0,
+                        "career_sub_avg": 1.9,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.6667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Maycee Barber"
+        },
+        {
+            "fighter_a": {
+                "name": "Nazim Sadykhov",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Southpaw",
+                        "dob": "May 16, 1994",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 1,
+                        "career_splm": 5.55,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 5.89,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.29,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.8,
+                        "sub_rate": 0.2,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Fares Ziam",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 155.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 21, 1997",
+                        "wins": 17,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.85,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 1.62,
+                        "career_str_def": 64.0,
+                        "career_td_avg": 1.62,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.1429,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Nazim Sadykhov"
+        },
+        {
+            "fighter_a": {
+                "name": "Marvin Vettori",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 20, 1993",
+                        "wins": 19,
+                        "losses": 9,
+                        "draws": 1,
+                        "career_splm": 4.68,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 4.52,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 1.43,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 65.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.2222,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Brunno Ferreira",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 185.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 04, 1992",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.41,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 3.34,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 1.39,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.3333,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Marvin Vettori"
+        },
+        {
+            "fighter_a": {
+                "name": "Edson Barboza",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 21, 1986",
+                        "wins": 24,
+                        "losses": 13,
+                        "draws": 0,
+                        "career_splm": 4.14,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 4.6,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.43,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jalin Turner",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 155.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "May 18, 1995",
+                        "wins": 14,
+                        "losses": 9,
+                        "draws": 0,
+                        "career_splm": 5.53,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 4.55,
+                        "career_str_def": 41.0,
+                        "career_td_avg": 0.77,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.625,
+                        "sub_rate": 0.375,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Edson Barboza"
+        },
+        {
+            "fighter_a": {
+                "name": "Iwo Baraniewski",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 205.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 20, 1998",
+                        "wins": 6,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 12.0,
+                        "career_str_acc": 66.0,
+                        "career_sapm": 6.0,
+                        "career_str_def": 33.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ibo Aslan",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 23, 1996",
+                        "wins": 14,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.09,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 3.47,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 86.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Iwo Baraniewski"
+        },
+        {
+            "fighter_a": {
+                "name": "Mansur Abdul-Malik",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 07, 1997",
+                        "wins": 8,
+                        "losses": 0,
+                        "draws": 1,
+                        "career_splm": 4.27,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 3.49,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.49,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 82.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Antonio Trocoli",
+                "dataset": [
+                    {
+                        "height": 78,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 06, 1990",
+                        "wins": 12,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 1.29,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 5.79,
+                        "career_str_def": 23.0,
+                        "career_td_avg": 0.84,
+                        "career_td_acc": 11.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Mansur Abdul-Malik"
+        },
+        {
+            "fighter_a": {
+                "name": "Muhammad Naimov",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 07, 1994",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.61,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 3.45,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 1.69,
+                        "career_td_acc": 36.0,
+                        "career_td_def": 67.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mairon Santos",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 10, 2000",
+                        "wins": 17,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.53,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 2.38,
+                        "career_str_def": 66.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Muhammad Naimov"
+        }
+    ]
+}

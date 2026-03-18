@@ -1,0 +1,775 @@
+{
+    "name": "UFC Fight Night: De Ridder vs. Allen",
+    "date": "October 18, 2025",
+    "location": "Vancouver, British Columbia, Canada",
+    "link": "http://ufcstats.com/event-details/38e5d9dcb0fddc42",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Brendan Allen",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 28, 1995",
+                        "wins": 26,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 3.59,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.62,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 1.56,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 56.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.1333,
+                        "sub_rate": 0.5333,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Reinier de Ridder",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 78.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 07, 1990",
+                        "wins": 21,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.2,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 2.04,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 2.68,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Brendan Allen"
+        },
+        {
+            "fighter_a": {
+                "name": "Mike Malott",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 07, 1991",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 3.93,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 3.06,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 1.88,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 14.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.4286,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kevin Holland",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 81.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 05, 1992",
+                        "wins": 28,
+                        "losses": 15,
+                        "draws": 0,
+                        "career_splm": 4.26,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.22,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.83,
+                        "career_td_acc": 39.0,
+                        "career_td_def": 56.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.3125,
+                        "sub_rate": 0.375,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Mike Malott"
+        },
+        {
+            "fighter_a": {
+                "name": "Aiemann Zahabi",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 19, 1987",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.54,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 4.08,
+                        "career_str_def": 69.0,
+                        "career_td_avg": 0.12,
+                        "career_td_acc": 14.0,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Marlon Vera",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Dec 02, 1992",
+                        "wins": 23,
+                        "losses": 11,
+                        "draws": 1,
+                        "career_splm": 4.25,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 5.37,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 0.49,
+                        "career_td_acc": 39.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.4667,
+                        "sub_rate": 0.2667,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Aiemann Zahabi"
+        },
+        {
+            "fighter_a": {
+                "name": "Manon Fiorot",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 17, 1990",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.66,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 3.58,
+                        "career_str_def": 66.0,
+                        "career_td_avg": 1.05,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jasmine Jasudavicius",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 01, 1989",
+                        "wins": 14,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.7,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.71,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 2.59,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3333,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Manon Fiorot"
+        },
+        {
+            "fighter_a": {
+                "name": "Charles Jourdain",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Switch",
+                        "dob": "Nov 27, 1995",
+                        "wins": 17,
+                        "losses": 8,
+                        "draws": 1,
+                        "career_splm": 5.48,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 4.25,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.33,
+                        "career_td_acc": 21.0,
+                        "career_td_def": 47.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Davey Grant",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 18, 1985",
+                        "wins": 17,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 5.14,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 3.82,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.03,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.125,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Charles Jourdain"
+        },
+        {
+            "fighter_a": {
+                "name": "Kyle Nelson",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Switch",
+                        "dob": "Apr 20, 1991",
+                        "wins": 17,
+                        "losses": 6,
+                        "draws": 1,
+                        "career_splm": 3.6,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 4.48,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.18,
+                        "career_td_acc": 23.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Matt Frevola",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 11, 1990",
+                        "wins": 11,
+                        "losses": 6,
+                        "draws": 1,
+                        "career_splm": 3.3,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 3.76,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 2.34,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 40.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.1667,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Kyle Nelson"
+        },
+        {
+            "fighter_a": {
+                "name": "Drew Dober",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Oct 19, 1988",
+                        "wins": 28,
+                        "losses": 15,
+                        "draws": 0,
+                        "career_splm": 4.52,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 4.34,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.63,
+                        "career_td_acc": 16.0,
+                        "career_td_def": 58.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.7333,
+                        "sub_rate": 0.0667,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kyle Prepolec",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Aug 30, 1989",
+                        "wins": 18,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 3.25,
+                        "career_str_acc": 34.0,
+                        "career_sapm": 5.69,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 45.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Drew Dober"
+        },
+        {
+            "fighter_a": {
+                "name": "Aoriqileng",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 25, 1993",
+                        "wins": 26,
+                        "losses": 12,
+                        "draws": 0,
+                        "career_splm": 4.69,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 5.47,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 1.2,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 58.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Cody Gibson",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 135.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 11, 1987",
+                        "wins": 22,
+                        "losses": 12,
+                        "draws": 0,
+                        "career_splm": 3.63,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.22,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.12,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Aoriqileng"
+        },
+        {
+            "fighter_a": {
+                "name": "Bruno Silva",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 16, 1990",
+                        "wins": 15,
+                        "losses": 7,
+                        "draws": 2,
+                        "career_splm": 3.82,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 4.55,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 2.3,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.6,
+                        "sub_rate": 0.4,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "HyunSung Park",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 04, 1995",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.38,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 3.14,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.5,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 47.0,
+                        "career_sub_avg": 1.8,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.6,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Bruno Silva"
+        },
+        {
+            "fighter_a": {
+                "name": "Djorden Santos",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 01, 1997",
+                        "wins": 11,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 7.0,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 5.98,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.67,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 86.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Danny Barlow",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Southpaw",
+                        "dob": "Aug 02, 1995",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.81,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.65,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Djorden Santos"
+        },
+        {
+            "fighter_a": {
+                "name": "Stephanie Luciano",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 115.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 16, 1999",
+                        "wins": 7,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 5.2,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 3.04,
+                        "career_str_def": 64.0,
+                        "career_td_avg": 1.3,
+                        "career_td_acc": 71.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ravena Oliveira",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 115.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 20, 1997",
+                        "wins": 7,
+                        "losses": 3,
+                        "draws": 1,
+                        "career_splm": 1.4,
+                        "career_str_acc": 29.0,
+                        "career_sapm": 2.8,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.08,
+                        "career_td_acc": 66.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Stephanie Luciano"
+        },
+        {
+            "fighter_a": {
+                "name": "Yousri Belgaroui",
+                "dataset": [
+                    {
+                        "height": 78,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 02, 1992",
+                        "wins": 9,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.82,
+                        "career_str_acc": 66.0,
+                        "career_sapm": 2.52,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 0.39,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Azamat Bekoev",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 30, 1995",
+                        "wins": 20,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.07,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 7.66,
+                        "career_str_def": 31.0,
+                        "career_td_avg": 4.49,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Yousri Belgaroui"
+        },
+        {
+            "fighter_a": {
+                "name": "Melissa Croden",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 12, 1991",
+                        "wins": 7,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 6.81,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 2.89,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 2.06,
+                        "career_td_acc": 66.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Tainara Lisboa",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 02, 1991",
+                        "wins": 7,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.01,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 2.88,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 1.67,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 53.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Melissa Croden"
+        }
+    ]
+}

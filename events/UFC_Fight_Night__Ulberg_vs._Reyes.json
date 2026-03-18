@@ -1,0 +1,716 @@
+{
+    "name": "UFC Fight Night: Ulberg vs. Reyes",
+    "date": "September 27, 2025",
+    "location": "Perth, Western Australia, Australia",
+    "link": "http://ufcstats.com/event-details/ed220e87bef0cc64",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Carlos Ulberg",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 205.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 07, 1990",
+                        "wins": 14,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 6.54,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 4.04,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.55,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.6,
+                        "sub_rate": 0.1,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Dominick Reyes",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 205.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 26, 1989",
+                        "wins": 15,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 5.39,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.49,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 0.29,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 82.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.1111,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Carlos Ulberg"
+        },
+        {
+            "fighter_a": {
+                "name": "Jimmy Crute",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 205.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 04, 1996",
+                        "wins": 14,
+                        "losses": 4,
+                        "draws": 2,
+                        "career_splm": 4.15,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 3.65,
+                        "career_str_def": 42.0,
+                        "career_td_avg": 4.39,
+                        "career_td_acc": 52.0,
+                        "career_td_def": 58.0,
+                        "career_sub_avg": 2.0,
+                        "ko_rate": 0.4286,
+                        "sub_rate": 0.5714,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ivan Erslan",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 205.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 15, 1991",
+                        "wins": 14,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 2.55,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 5.01,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 0.45,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 61.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Jimmy Crute"
+        },
+        {
+            "fighter_a": {
+                "name": "Jack Jenkins",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 68.0,
+                        "stance": "Switch",
+                        "dob": "Nov 03, 1993",
+                        "wins": 14,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.48,
+                        "career_str_acc": 61.0,
+                        "career_sapm": 2.95,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 1.98,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ramon Taveras",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 09, 1994",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.07,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 6.45,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Jack Jenkins"
+        },
+        {
+            "fighter_a": {
+                "name": "Neil Magny",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 03, 1987",
+                        "wins": 31,
+                        "losses": 14,
+                        "draws": 0,
+                        "career_splm": 3.41,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 2.44,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 2.18,
+                        "career_td_acc": 39.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.2917,
+                        "sub_rate": 0.125,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jake Matthews",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 19, 1994",
+                        "wins": 22,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 3.34,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 2.62,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 1.44,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 64.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.1333,
+                        "sub_rate": 0.4,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Neil Magny"
+        },
+        {
+            "fighter_a": {
+                "name": "Tom Nolan",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 08, 2000",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.87,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 4.73,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.74,
+                        "career_td_acc": 22.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 1.9,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.2,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Charlie Campbell",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 03, 1995",
+                        "wins": 9,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.23,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.17,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 2.45,
+                        "career_td_acc": 36.0,
+                        "career_td_def": 62.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Tom Nolan"
+        },
+        {
+            "fighter_a": {
+                "name": "Navajo Stirling",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 205.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 07, 1997",
+                        "wins": 8,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 6.13,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.6,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 1.15,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Rodolfo Bellato",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 05, 1996",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 1,
+                        "career_splm": 5.13,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 5.86,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 1.44,
+                        "career_td_acc": 35.0,
+                        "career_td_def": 94.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Navajo Stirling"
+        },
+        {
+            "fighter_a": {
+                "name": "Cam Rowston",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 185.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 19, 1995",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.39,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.37,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 0.73,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 28.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Andre Petroski",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 73.0,
+                        "stance": "Switch",
+                        "dob": "Jun 12, 1991",
+                        "wins": 13,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 2.81,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 2.79,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 3.15,
+                        "career_td_acc": 51.0,
+                        "career_td_def": 86.0,
+                        "career_sub_avg": 1.3,
+                        "ko_rate": 0.125,
+                        "sub_rate": 0.25,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Cam Rowston"
+        },
+        {
+            "fighter_a": {
+                "name": "Jamie Mullarkey",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 17, 1994",
+                        "wins": 18,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 4.2,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 4.34,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 2.4,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 78.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Rolando Bedoya",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 13, 1997",
+                        "wins": 14,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 6.23,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 5.5,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Jamie Mullarkey"
+        },
+        {
+            "fighter_a": {
+                "name": "Colby Thicknesse",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 23, 1999",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.33,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 2.8,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.0,
+                        "career_td_acc": 9.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Josias Musasa",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Oct 10, 1998",
+                        "wins": 8,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.19,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 4.39,
+                        "career_str_def": 36.0,
+                        "career_td_avg": 0.9,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Colby Thicknesse"
+        },
+        {
+            "fighter_a": {
+                "name": "Michelle Montague",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Southpaw",
+                        "dob": "Nov 25, 1993",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 2.73,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.2,
+                        "career_str_def": 41.0,
+                        "career_td_avg": 5.0,
+                        "career_td_acc": 71.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Luana Carolina",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 11, 1993",
+                        "wins": 11,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.65,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 3.46,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.3,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.1429,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Michelle Montague"
+        },
+        {
+            "fighter_a": {
+                "name": "Brando Pericic",
+                "dataset": [
+                    {
+                        "height": 77,
+                        "weight": 245.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 03, 1994",
+                        "wins": 5,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 15.13,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 1.57,
+                        "career_str_def": 66.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Elisha Ellison",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 238.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 05, 1997",
+                        "wins": 5,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 1.57,
+                        "career_str_acc": 33.0,
+                        "career_sapm": 15.13,
+                        "career_str_def": 40.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Brando Pericic"
+        },
+        {
+            "fighter_a": {
+                "name": "Alexia Thainara",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 115.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 20, 1995",
+                        "wins": 13,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.52,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 2.46,
+                        "career_str_def": 65.0,
+                        "career_td_avg": 3.91,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 1.7,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Loma Lookboonmee",
+                "dataset": [
+                    {
+                        "height": 61,
+                        "weight": 115.0,
+                        "reach": 61.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 18, 1996",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.67,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 2.52,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.81,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.1429,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Alexia Thainara"
+        }
+    ]
+}

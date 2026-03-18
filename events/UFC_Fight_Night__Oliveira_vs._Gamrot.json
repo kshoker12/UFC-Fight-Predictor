@@ -1,0 +1,716 @@
+{
+    "name": "UFC Fight Night: Oliveira vs. Gamrot",
+    "date": "October 11, 2025",
+    "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "http://ufcstats.com/event-details/9336e86cfd4ceaa1",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Charles Oliveira",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 17, 1989",
+                        "wins": 36,
+                        "losses": 11,
+                        "draws": 0,
+                        "career_splm": 3.35,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.24,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 2.22,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 54.0,
+                        "career_sub_avg": 2.6,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.7083,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mateusz Gamrot",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 11, 1990",
+                        "wins": 25,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.29,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 2.96,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 5.15,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.125,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Charles Oliveira"
+        },
+        {
+            "fighter_a": {
+                "name": "Deiveson Figueiredo",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 18, 1987",
+                        "wins": 25,
+                        "losses": 5,
+                        "draws": 1,
+                        "career_splm": 2.75,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.54,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.71,
+                        "career_td_acc": 35.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 1.3,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.2857,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Montel Jackson",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 135.0,
+                        "reach": 75.0,
+                        "stance": "Southpaw",
+                        "dob": "Apr 24, 1992",
+                        "wins": 15,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.09,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 1.4,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 3.0,
+                        "career_td_acc": 63.0,
+                        "career_td_def": 67.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.1,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Deiveson Figueiredo"
+        },
+        {
+            "fighter_a": {
+                "name": "Joel Alvarez",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 155.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 02, 1993",
+                        "wins": 23,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.78,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 3.07,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 0.19,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 47.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.375,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Vicente Luque",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 27, 1991",
+                        "wins": 23,
+                        "losses": 12,
+                        "draws": 1,
+                        "career_splm": 4.83,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 5.3,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.9,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 60.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.375,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Joel Alvarez"
+        },
+        {
+            "fighter_a": {
+                "name": "Mario Pinto",
+                "dataset": [
+                    {
+                        "height": 77,
+                        "weight": 265.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 14, 1998",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 3.39,
+                        "career_str_acc": 78.0,
+                        "career_sapm": 2.42,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 2.72,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 1.8,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jhonata Diniz",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 254.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 23, 1991",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.89,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 3.62,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Mario Pinto"
+        },
+        {
+            "fighter_a": {
+                "name": "Kaan Ofli",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 19, 1993",
+                        "wins": 13,
+                        "losses": 4,
+                        "draws": 1,
+                        "career_splm": 1.79,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 2.61,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.61,
+                        "career_td_acc": 14.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ricardo Ramos",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 01, 1995",
+                        "wins": 17,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 2.91,
+                        "career_str_acc": 36.0,
+                        "career_sapm": 3.97,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 2.51,
+                        "career_td_acc": 57.0,
+                        "career_td_def": 67.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.125,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Kaan Ofli"
+        },
+        {
+            "fighter_a": {
+                "name": "Michael Aswell Jr.",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 27, 2000",
+                        "wins": 11,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 9.56,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 7.79,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Lucas Almeida",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 31, 1991",
+                        "wins": 15,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.94,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 5.36,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 53.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Michael Aswell Jr."
+        },
+        {
+            "fighter_a": {
+                "name": "Jafel Filho",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "May 05, 1993",
+                        "wins": 17,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 1.85,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 1.62,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 2.52,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 2.2,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.75,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Clayton Carpenter",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 125.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 09, 1996",
+                        "wins": 8,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.66,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 2.57,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.99,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 37.0,
+                        "career_sub_avg": 1.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.6667,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Jafel Filho"
+        },
+        {
+            "fighter_a": {
+                "name": "Vitor Petrino",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 265.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 28, 1997",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.75,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 2.48,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 3.04,
+                        "career_td_acc": 51.0,
+                        "career_td_def": 79.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.4286,
+                        "sub_rate": 0.2857,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Thomas Petersen",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 264.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 30, 1995",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.38,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 2.95,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 3.71,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Vitor Petrino"
+        },
+        {
+            "fighter_a": {
+                "name": "Bia Mesquita",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 07, 1991",
+                        "wins": 6,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 4.98,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 0.83,
+                        "career_str_def": 73.0,
+                        "career_td_avg": 4.15,
+                        "career_td_acc": 66.0,
+                        "career_td_def": null,
+                        "career_sub_avg": 2.1,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Irina Alekseeva",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 27, 1990",
+                        "wins": 5,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.42,
+                        "career_str_acc": 38.0,
+                        "career_sapm": 5.02,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 0.38,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Bia Mesquita"
+        },
+        {
+            "fighter_a": {
+                "name": "Lucas Rocha",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 125.0,
+                        "reach": 64.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 12, 2000",
+                        "wins": 18,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.09,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.67,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 1.64,
+                        "career_td_acc": 75.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Stewart Nicoll",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 11, 1996",
+                        "wins": 8,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.0,
+                        "career_str_acc": 34.0,
+                        "career_sapm": 6.69,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 2.55,
+                        "career_td_acc": 14.0,
+                        "career_td_def": 25.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Lucas Rocha"
+        },
+        {
+            "fighter_a": {
+                "name": "Julia Polastri",
+                "dataset": [
+                    {
+                        "height": 62,
+                        "weight": 115.0,
+                        "reach": 64.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 05, 1998",
+                        "wins": 14,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 6.4,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 5.4,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.73,
+                        "career_td_acc": 80.0,
+                        "career_td_def": 60.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Karolina Kowalkiewicz",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 115.0,
+                        "reach": 64.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 15, 1985",
+                        "wins": 16,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 5.54,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 5.77,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.36,
+                        "career_td_acc": 23.0,
+                        "career_td_def": 74.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.1111,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Julia Polastri"
+        },
+        {
+            "fighter_a": {
+                "name": "Luan Lacerda",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 07, 1993",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.02,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 5.79,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 2.29,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Saimon Oliveira",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 135.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 21, 1991",
+                        "wins": 18,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 2.62,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 3.87,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 1.18,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 36.0,
+                        "career_sub_avg": 1.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Luan Lacerda"
+        }
+    ]
+}

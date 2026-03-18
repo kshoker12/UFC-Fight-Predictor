@@ -1,0 +1,834 @@
+{
+    "name": "UFC Fight Night: Strickland vs. Hernandez",
+    "date": "February 21, 2026",
+    "location": "Houston, Texas, USA",
+    "link": "http://ufcstats.com/event-details/79ab17db3b40831a",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Sean Strickland",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 27, 1991",
+                        "wins": 29,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 5.95,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 4.57,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.73,
+                        "career_td_acc": 64.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0625,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Anthony Hernandez",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 18, 1993",
+                        "wins": 15,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.59,
+                        "career_str_acc": 62.0,
+                        "career_sapm": 2.53,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 6.46,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 1.8,
+                        "ko_rate": 0.2222,
+                        "sub_rate": 0.5556,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Sean Strickland"
+        },
+        {
+            "fighter_a": {
+                "name": "Geoff Neal",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 75.0,
+                        "stance": "Southpaw",
+                        "dob": "Aug 28, 1990",
+                        "wins": 16,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 5.05,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 5.48,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.54,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.1111,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Uros Medic",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Apr 25, 1993",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.53,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 3.46,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.35,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Geoff Neal"
+        },
+        {
+            "fighter_a": {
+                "name": "Dan Ige",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 06, 1991",
+                        "wins": 19,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 3.64,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.56,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.89,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 56.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.4167,
+                        "sub_rate": 0.1667,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Melquizael Costa",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 14, 1996",
+                        "wins": 25,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.42,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.06,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 1.93,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 58.0,
+                        "career_sub_avg": 1.2,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.3333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Dan Ige"
+        },
+        {
+            "fighter_a": {
+                "name": "Serghei Spivac",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 260.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 24, 1995",
+                        "wins": 17,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 3.45,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 4.25,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 4.21,
+                        "career_td_acc": 62.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.375,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ante Delija",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 239.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 07, 1990",
+                        "wins": 26,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.81,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.65,
+                        "career_str_def": 38.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Serghei Spivac"
+        },
+        {
+            "fighter_a": {
+                "name": "Jacobe Smith",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 17, 1996",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 6.21,
+                        "career_str_acc": 66.0,
+                        "career_sapm": 2.86,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 7.42,
+                        "career_td_acc": 90.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.3333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Josiah Harrell",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 170.0,
+                        "reach": 68.0,
+                        "stance": "Southpaw",
+                        "dob": "Nov 13, 1998",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Jacobe Smith"
+        },
+        {
+            "fighter_a": {
+                "name": "Zach Reese",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Switch",
+                        "dob": "Mar 24, 1994",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.32,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 3.82,
+                        "career_str_def": 39.0,
+                        "career_td_avg": 3.41,
+                        "career_td_acc": 66.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 1.4,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Michel Pereira",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 06, 1993",
+                        "wins": 31,
+                        "losses": 14,
+                        "draws": 0,
+                        "career_splm": 4.49,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 4.35,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 1.13,
+                        "career_td_acc": 52.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.2222,
+                        "sub_rate": 0.3333,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Zach Reese"
+        },
+        {
+            "fighter_a": {
+                "name": "Chidi Njokuani",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 31, 1988",
+                        "wins": 25,
+                        "losses": 11,
+                        "draws": 0,
+                        "career_splm": 4.72,
+                        "career_str_acc": 62.0,
+                        "career_sapm": 2.64,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Carlos Leal",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "May 04, 1994",
+                        "wins": 22,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 9.57,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 7.61,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 0.75,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 90.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Chidi Njokuani"
+        },
+        {
+            "fighter_a": {
+                "name": "Alibi Idiris",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 22, 1994",
+                        "wins": 12,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.47,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 3.6,
+                        "career_str_def": 53.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 60.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ode Osbourne",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 73.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 09, 1992",
+                        "wins": 13,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 3.07,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 3.43,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 1.09,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.1667,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Alibi Idiris"
+        },
+        {
+            "fighter_a": {
+                "name": "Alden Coria",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 24, 1998",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.89,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 1.11,
+                        "career_str_def": 78.0,
+                        "career_td_avg": 2.78,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Luis Gurule",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 64.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 16, 1993",
+                        "wins": 10,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.93,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 4.53,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 0.41,
+                        "career_td_acc": 9.0,
+                        "career_td_def": 56.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Alden Coria"
+        },
+        {
+            "fighter_a": {
+                "name": "Joselyne Edwards",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 29, 1995",
+                        "wins": 17,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 4.73,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.28,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.29,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 61.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.25,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Nora Cornolle",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 06, 1989",
+                        "wins": 9,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.75,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 1.98,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 0.25,
+                        "career_td_acc": 11.0,
+                        "career_td_def": 47.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Joselyne Edwards"
+        },
+        {
+            "fighter_a": {
+                "name": "Punahele Soriano",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "Nov 22, 1992",
+                        "wins": 13,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.66,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.42,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 1.83,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 40.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ramiz Brahimaj",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 17, 1992",
+                        "wins": 13,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 2.23,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.42,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 1.74,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 48.0,
+                        "career_sub_avg": 2.0,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.8,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Punahele Soriano"
+        },
+        {
+            "fighter_a": {
+                "name": "Jean-Paul Lebosnoyani",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Switch",
+                        "dob": "Jan 27, 1999",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 9.71,
+                        "career_str_acc": 78.0,
+                        "career_sapm": 5.29,
+                        "career_str_def": 64.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Phil Rowe",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 18, 1990",
+                        "wins": 11,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 3.5,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 4.12,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.52,
+                        "career_td_acc": 36.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Jean-Paul Lebosnoyani"
+        },
+        {
+            "fighter_a": {
+                "name": "Jordan Leavitt",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Jun 02, 1995",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.49,
+                        "career_str_acc": 61.0,
+                        "career_sapm": 1.79,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.92,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 30.0,
+                        "career_sub_avg": 1.3,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.4286,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Yadier del Valle",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Southpaw",
+                        "dob": "Jul 29, 1996",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 6.25,
+                        "career_str_acc": 67.0,
+                        "career_sapm": 2.87,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 2.08,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 3.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.6667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Jordan Leavitt"
+        },
+        {
+            "fighter_a": {
+                "name": "Carli Judice",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 02, 1999",
+                        "wins": 6,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 10.73,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 8.08,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.7,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 77.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Juliana Miller",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "May 07, 1996",
+                        "wins": 5,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.73,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 3.78,
+                        "career_str_def": 36.0,
+                        "career_td_avg": 2.2,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 44.0,
+                        "career_sub_avg": 1.3,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Carli Judice"
+        }
+    ]
+}

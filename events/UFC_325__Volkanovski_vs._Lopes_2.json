@@ -1,0 +1,775 @@
+{
+    "name": "UFC 325: Volkanovski vs. Lopes 2",
+    "date": "January 31, 2026",
+    "location": "Sydney, New South Wales, Australia",
+    "link": "http://ufcstats.com/event-details/30ad2050273d016a",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Alexander Volkanovski",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 29, 1988",
+                        "wins": 27,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 6.18,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 3.36,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 1.67,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.3571,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Diego Lopes",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 30, 1994",
+                        "wins": 27,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.1,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 4.72,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 0.79,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 67.0,
+                        "career_sub_avg": 1.7,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.1667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 1,
+            "fight_description": "Alexander Volkanovski"
+        },
+        {
+            "fighter_a": {
+                "name": "Dan Hooker",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 75.0,
+                        "stance": "Switch",
+                        "dob": "Feb 13, 1990",
+                        "wins": 24,
+                        "losses": 13,
+                        "draws": 0,
+                        "career_splm": 4.89,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 4.73,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.71,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 77.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.1429,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Benoit Saint Denis",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 18, 1995",
+                        "wins": 16,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.07,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 4.21,
+                        "career_str_def": 42.0,
+                        "career_td_avg": 4.33,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 1.6,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.5,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Dan Hooker"
+        },
+        {
+            "fighter_a": {
+                "name": "Rafael Fiziev",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Switch",
+                        "dob": "Mar 05, 1993",
+                        "wins": 13,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.77,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 4.77,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.89,
+                        "career_td_acc": 72.0,
+                        "career_td_def": 90.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.4286,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mauricio Ruffy",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 17, 1996",
+                        "wins": 12,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.84,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 4.16,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 84.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Rafael Fiziev"
+        },
+        {
+            "fighter_a": {
+                "name": "Tai Tuivasa",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 264.0,
+                        "reach": 75.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 16, 1993",
+                        "wins": 15,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 3.77,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 5.18,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.875,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Tallison Teixeira",
+                "dataset": [
+                    {
+                        "height": 79,
+                        "weight": 258.0,
+                        "reach": 83.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 07, 1999",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 12.83,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 8.98,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Tai Tuivasa"
+        },
+        {
+            "fighter_a": {
+                "name": "Quillan Salkilld",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 28, 1999",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.49,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 3.5,
+                        "career_str_def": 43.0,
+                        "career_td_avg": 7.77,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jamie Mullarkey",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 17, 1994",
+                        "wins": 18,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 4.2,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 4.34,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 2.4,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 78.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Quillan Salkilld"
+        },
+        {
+            "fighter_a": {
+                "name": "Junior Tafa",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 21, 1996",
+                        "wins": 6,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.19,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 2.49,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Billy Elekana",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "May 28, 1995",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.66,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 3.28,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 0.55,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Junior Tafa"
+        },
+        {
+            "fighter_a": {
+                "name": "Cam Rowston",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 185.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 19, 1995",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.39,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.37,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 0.73,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 28.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Cody Brundage",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "May 16, 1994",
+                        "wins": 11,
+                        "losses": 7,
+                        "draws": 1,
+                        "career_splm": 2.2,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 2.72,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 2.05,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.6,
+                        "sub_rate": 0.2,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Cam Rowston"
+        },
+        {
+            "fighter_a": {
+                "name": "Jacob Malkoun",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 185.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 26, 1995",
+                        "wins": 8,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.86,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 2.48,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 6.62,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 20.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Torrez Finney",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 24, 1998",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 1.77,
+                        "career_str_acc": 68.0,
+                        "career_sapm": 1.74,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 9.31,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.25,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Jacob Malkoun"
+        },
+        {
+            "fighter_a": {
+                "name": "Jonathan Micallef",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 05, 1999",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.77,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 4.0,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 0.83,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Oban Elliott",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 19, 1997",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.5,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 2.24,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 1.7,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Jonathan Micallef"
+        },
+        {
+            "fighter_a": {
+                "name": "Kaan Ofli",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 19, 1993",
+                        "wins": 13,
+                        "losses": 4,
+                        "draws": 1,
+                        "career_splm": 1.79,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 2.61,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.61,
+                        "career_td_acc": 14.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Yizha",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 08, 1997",
+                        "wins": 26,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 2.97,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.81,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 3.51,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 54.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Kaan Ofli"
+        },
+        {
+            "fighter_a": {
+                "name": "Sangwook Kim",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 17, 1993",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.35,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 5.49,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 2.1,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 1.7,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.6667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Dom Mar Fan",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 19, 2000",
+                        "wins": 8,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.27,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 1.47,
+                        "career_str_def": 34.0,
+                        "career_td_avg": 2.5,
+                        "career_td_acc": 62.0,
+                        "career_td_def": 20.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Sangwook Kim"
+        },
+        {
+            "fighter_a": {
+                "name": "Keiichiro Nakamura",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 02, 1998",
+                        "wins": 7,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.22,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 3.39,
+                        "career_str_def": 66.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sebastian Szalay",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 145.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 03, 1994",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.25,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 1.27,
+                        "career_str_def": 71.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 84.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Keiichiro Nakamura"
+        },
+        {
+            "fighter_a": {
+                "name": "Lawrence Lui",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 04, 1996",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.9,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 3.03,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 4.13,
+                        "career_td_acc": 35.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sulangrangbo",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 135.0,
+                        "reach": 66.0,
+                        "stance": "Southpaw",
+                        "dob": "Jul 17, 2005",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.15,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 2.98,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Lawrence Lui"
+        }
+    ]
+}

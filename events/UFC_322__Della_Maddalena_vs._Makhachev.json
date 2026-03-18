@@ -1,0 +1,834 @@
+{
+    "name": "UFC 322: Della Maddalena vs. Makhachev",
+    "date": "November 15, 2025",
+    "location": "New York City, New York, USA",
+    "link": "http://ufcstats.com/event-details/8db1b36dde268ef6",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Islam Makhachev",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Oct 27, 1991",
+                        "wins": 28,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 2.45,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 1.45,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 3.1,
+                        "career_td_acc": 56.0,
+                        "career_td_def": 91.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.1765,
+                        "sub_rate": 0.4706,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jack Della Maddalena",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 73.0,
+                        "stance": "Switch",
+                        "dob": "Sep 10, 1996",
+                        "wins": 18,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.57,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 3.84,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 0.13,
+                        "career_td_acc": 10.0,
+                        "career_td_def": 64.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.4444,
+                        "sub_rate": 0.1111,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 1,
+            "fight_description": "Islam Makhachev"
+        },
+        {
+            "fighter_a": {
+                "name": "Valentina Shevchenko",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 66.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 07, 1988",
+                        "wins": 26,
+                        "losses": 4,
+                        "draws": 1,
+                        "career_splm": 3.04,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.0,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 2.65,
+                        "career_td_acc": 61.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.2667,
+                        "sub_rate": 0.1333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Zhang Weili",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 115.0,
+                        "reach": 63.0,
+                        "stance": "Switch",
+                        "dob": "Aug 13, 1989",
+                        "wins": 26,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.66,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.63,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.96,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.2,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 1,
+            "fight_description": "Valentina Shevchenko"
+        },
+        {
+            "fighter_a": {
+                "name": "Michael Morales",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 24, 1999",
+                        "wins": 19,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 5.68,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.26,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.04,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 89.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.625,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sean Brady",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 23, 1992",
+                        "wins": 18,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.96,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 3.05,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 3.53,
+                        "career_td_acc": 53.0,
+                        "career_td_def": 86.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Michael Morales"
+        },
+        {
+            "fighter_a": {
+                "name": "Carlos Prates",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 78.0,
+                        "stance": "Switch",
+                        "dob": "Aug 17, 1993",
+                        "wins": 23,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 3.77,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 4.53,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 0.21,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Leon Edwards",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 170.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Aug 25, 1991",
+                        "wins": 22,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 2.6,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 2.44,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 1.25,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.2143,
+                        "sub_rate": 0.0714,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Carlos Prates"
+        },
+        {
+            "fighter_a": {
+                "name": "Benoit Saint Denis",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 18, 1995",
+                        "wins": 16,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.07,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 4.21,
+                        "career_str_def": 42.0,
+                        "career_td_avg": 4.33,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 1.6,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.5,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Beneil Dariush",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "May 06, 1989",
+                        "wins": 23,
+                        "losses": 7,
+                        "draws": 1,
+                        "career_splm": 3.78,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 2.62,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.11,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 82.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.1765,
+                        "sub_rate": 0.2941,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Benoit Saint Denis"
+        },
+        {
+            "fighter_a": {
+                "name": "Bo Nickal",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 76.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 14, 1996",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.35,
+                        "career_str_acc": 61.0,
+                        "career_sapm": 2.07,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 3.1,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 2.5,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.5714,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Rodolfo Vieira",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 25, 1989",
+                        "wins": 11,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.55,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 4.38,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 2.7,
+                        "career_td_acc": 21.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.8333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Bo Nickal"
+        },
+        {
+            "fighter_a": {
+                "name": "Gregory Rodrigues",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 17, 1992",
+                        "wins": 18,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 5.6,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.84,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.93,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Roman Kopylov",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Southpaw",
+                        "dob": "May 04, 1992",
+                        "wins": 14,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.59,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 5.18,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 1.14,
+                        "career_td_acc": 47.0,
+                        "career_td_def": 88.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.8333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Gregory Rodrigues"
+        },
+        {
+            "fighter_a": {
+                "name": "Erin Blanchfield",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 125.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "May 04, 1999",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.24,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 4.25,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 1.96,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 78.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Tracy Cortez",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 10, 1993",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.86,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 3.01,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.15,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 59.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Erin Blanchfield"
+        },
+        {
+            "fighter_a": {
+                "name": "Ethyn Ewing",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 16, 1998",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.67,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 5.13,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 3.0,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Malcolm Wellmaker",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 135.0,
+                        "reach": 71.0,
+                        "stance": "Switch",
+                        "dob": "Jun 04, 1994",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.8,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 5.39,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Ethyn Ewing"
+        },
+        {
+            "fighter_a": {
+                "name": "Kyle Daukaus",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 76.0,
+                        "stance": "Southpaw",
+                        "dob": "Feb 27, 1993",
+                        "wins": 17,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.32,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 2.9,
+                        "career_str_def": 42.0,
+                        "career_td_avg": 2.08,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 82.0,
+                        "career_sub_avg": 2.1,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Gerald Meerschaert",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 18, 1987",
+                        "wins": 37,
+                        "losses": 21,
+                        "draws": 0,
+                        "career_splm": 3.01,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.52,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.82,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 42.0,
+                        "career_sub_avg": 1.4,
+                        "ko_rate": 0.0833,
+                        "sub_rate": 0.9167,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Kyle Daukaus"
+        },
+        {
+            "fighter_a": {
+                "name": "Pat Sabatini",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 09, 1990",
+                        "wins": 21,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 1.69,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 1.09,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 4.48,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 1.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.375,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Chepe Mariscal",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 27, 1992",
+                        "wins": 18,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.14,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 2.66,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 2.34,
+                        "career_td_acc": 39.0,
+                        "career_td_def": 59.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Pat Sabatini"
+        },
+        {
+            "fighter_a": {
+                "name": "Fatima Kline",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 115.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 12, 2000",
+                        "wins": 9,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.01,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.71,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.02,
+                        "career_td_acc": 58.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Angela Hill",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 115.0,
+                        "reach": 64.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 12, 1985",
+                        "wins": 18,
+                        "losses": 16,
+                        "draws": 0,
+                        "career_splm": 5.37,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 5.02,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.75,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.1538,
+                        "sub_rate": 0.0769,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Fatima Kline"
+        },
+        {
+            "fighter_a": {
+                "name": "Baisangur Susurkaev",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 08, 2001",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 4.56,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 3.78,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 2.76,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.3333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Eric McConico",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "May 09, 1990",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 1,
+                        "career_splm": 2.61,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 3.23,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 64.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Baisangur Susurkaev"
+        },
+        {
+            "fighter_a": {
+                "name": "Matheus Camilo",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 02, 2001",
+                        "wins": 10,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.19,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 3.25,
+                        "career_str_def": 64.0,
+                        "career_td_avg": 4.43,
+                        "career_td_acc": 53.0,
+                        "career_td_def": null,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Viacheslav Borshchev",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 08, 1992",
+                        "wins": 8,
+                        "losses": 7,
+                        "draws": 1,
+                        "career_splm": 5.1,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 4.46,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 43.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Matheus Camilo"
+        }
+    ]
+}
