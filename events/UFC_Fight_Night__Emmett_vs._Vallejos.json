@@ -61,7 +61,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Kevin Vallejos"
+            "fight_description": "Kevin Vallejos",
+            "winner": "Kevin Vallejos"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Gillian Robertson"
+            "fight_description": "Gillian Robertson",
+            "winner": "Gillian Robertson"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Jose Delgado"
+            "fight_description": "Jose Delgado",
+            "winner": "Jose Delgado"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Marwan Rahiki"
+            "fight_description": "Marwan Rahiki",
+            "winner": "Marwan Rahiki"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Ion Cutelaba"
+            "fight_description": "Ion Cutelaba",
+            "winner": "Ion Cutelaba"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Charles Johnson"
+            "fight_description": "Charles Johnson",
+            "winner": "Charles Johnson"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Myktybek Orolbai"
+            "fight_description": "Myktybek Orolbai",
+            "winner": "Myktybek Orolbai"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Vitor Petrino"
+            "fight_description": "Vitor Petrino",
+            "winner": "Vitor Petrino"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Elijah Smith"
+            "fight_description": "Elijah Smith",
+            "winner": "Elijah Smith"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Manoel Sousa"
+            "fight_description": "Manoel Sousa",
+            "winner": "Manoel Sousa"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Eryk Anders"
+            "fight_description": "Eryk Anders",
+            "winner": "Eryk Anders"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Bia Mesquita"
+            "fight_description": "Bia Mesquita",
+            "winner": "Bia Mesquita"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Hecher Sosa"
+            "fight_description": "Hecher Sosa",
+            "winner": "Hecher Sosa"
         },
         {
             "fighter_a": {
@@ -828,7 +841,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Piera Rodriguez"
+            "fight_description": "Piera Rodriguez",
+            "winner": "Piera Rodriguez"
         }
     ]
 }

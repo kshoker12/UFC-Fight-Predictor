@@ -61,7 +61,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Charles Oliveira"
+            "fight_description": "Charles Oliveira",
+            "winner": "Charles Oliveira"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Deiveson Figueiredo"
+            "fight_description": "Deiveson Figueiredo",
+            "winner": "Deiveson Figueiredo"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Joel Alvarez"
+            "fight_description": "Joel Alvarez",
+            "winner": "Joel Alvarez"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Mario Pinto"
+            "fight_description": "Mario Pinto",
+            "winner": "Mario Pinto"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Kaan Ofli"
+            "fight_description": "Kaan Ofli",
+            "winner": "Kaan Ofli"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Michael Aswell Jr."
+            "fight_description": "Michael Aswell Jr.",
+            "winner": "Michael Aswell Jr."
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Jafel Filho"
+            "fight_description": "Jafel Filho",
+            "winner": "Jafel Filho"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Vitor Petrino"
+            "fight_description": "Vitor Petrino",
+            "winner": "Vitor Petrino"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Bia Mesquita"
+            "fight_description": "Bia Mesquita",
+            "winner": "Bia Mesquita"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Lucas Rocha"
+            "fight_description": "Lucas Rocha",
+            "winner": "Lucas Rocha"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Julia Polastri"
+            "fight_description": "Julia Polastri",
+            "winner": "Julia Polastri"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Luan Lacerda"
+            "fight_description": "Luan Lacerda",
+            "winner": "Luan Lacerda"
         }
     ]
 }

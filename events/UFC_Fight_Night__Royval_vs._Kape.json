@@ -61,7 +61,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Brandon Royval"
+            "fight_description": "Brandon Royval",
+            "winner": "Manel Kape"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Giga Chikadze"
+            "fight_description": "Giga Chikadze",
+            "winner": "Kevin Vallejos"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Cesar Almeida"
+            "fight_description": "Cesar Almeida",
+            "winner": "Cezary Oleksiejczuk"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Melquizael Costa"
+            "fight_description": "Melquizael Costa",
+            "winner": "Melquizael Costa"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Kennedy Nzechukwu"
+            "fight_description": "Kennedy Nzechukwu",
+            "winner": "Draw"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "unknown",
             "title_fight": 0,
-            "fight_description": "King Green"
+            "fight_description": "King Green",
+            "winner": "King Green"
         },
         {
             "fighter_a": {
@@ -533,7 +539,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Neil Magny"
+            "fight_description": "Neil Magny",
+            "winner": "Yaroslav Amosov"
         },
         {
             "fighter_a": {
@@ -592,7 +599,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Sean Sharaf"
+            "fight_description": "Sean Sharaf",
+            "winner": "Steven Asplund"
         },
         {
             "fighter_a": {
@@ -651,7 +659,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Melissa Croden"
+            "fight_description": "Melissa Croden",
+            "winner": "Luana Santos"
         },
         {
             "fighter_a": {
@@ -710,7 +719,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Allen Frye Jr."
+            "fight_description": "Allen Frye Jr.",
+            "winner": "Guilherme Pat"
         },
         {
             "fighter_a": {
@@ -769,7 +779,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Jamey-Lyn Horth"
+            "fight_description": "Jamey-Lyn Horth",
+            "winner": "Jamey-Lyn Horth"
         }
     ]
 }

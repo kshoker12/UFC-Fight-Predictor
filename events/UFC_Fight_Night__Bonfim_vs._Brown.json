@@ -61,7 +61,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Gabriel Bonfim"
+            "fight_description": "Gabriel Bonfim",
+            "winner": "Gabriel Bonfim"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Joseph Morales"
+            "fight_description": "Joseph Morales",
+            "winner": "Joseph Morales"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Uros Medic"
+            "fight_description": "Uros Medic",
+            "winner": "Uros Medic"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Chris Padilla"
+            "fight_description": "Chris Padilla",
+            "winner": "Chris Padilla"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Christian Leroy Duncan"
+            "fight_description": "Christian Leroy Duncan",
+            "winner": "Christian Leroy Duncan"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Jamall Emmers"
+            "fight_description": "Jamall Emmers",
+            "winner": "Jamall Emmers"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Raoni Barcelos"
+            "fight_description": "Raoni Barcelos",
+            "winner": "Raoni Barcelos"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Jacqueline Cavalcanti"
+            "fight_description": "Jacqueline Cavalcanti",
+            "winner": "Jacqueline Cavalcanti"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Josh Hokit"
+            "fight_description": "Josh Hokit",
+            "winner": "Josh Hokit"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Denise Gomes"
+            "fight_description": "Denise Gomes",
+            "winner": "Denise Gomes"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Daniel Marcos"
+            "fight_description": "Daniel Marcos",
+            "winner": "Daniel Marcos"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "unknown",
             "title_fight": 0,
-            "fight_description": "Zach Reese"
+            "fight_description": "Zach Reese",
+            "winner": "Zach Reese"
         }
     ]
 }

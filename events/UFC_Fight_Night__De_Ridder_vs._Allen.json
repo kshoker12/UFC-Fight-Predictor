@@ -61,7 +61,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Brendan Allen"
+            "fight_description": "Brendan Allen",
+            "winner": "Brendan Allen"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Mike Malott"
+            "fight_description": "Mike Malott",
+            "winner": "Mike Malott"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Aiemann Zahabi"
+            "fight_description": "Aiemann Zahabi",
+            "winner": "Aiemann Zahabi"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Manon Fiorot"
+            "fight_description": "Manon Fiorot",
+            "winner": "Manon Fiorot"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Charles Jourdain"
+            "fight_description": "Charles Jourdain",
+            "winner": "Charles Jourdain"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Kyle Nelson"
+            "fight_description": "Kyle Nelson",
+            "winner": "Kyle Nelson"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Drew Dober"
+            "fight_description": "Drew Dober",
+            "winner": "Drew Dober"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Aoriqileng"
+            "fight_description": "Aoriqileng",
+            "winner": "Aoriqileng"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Bruno Silva"
+            "fight_description": "Bruno Silva",
+            "winner": "Bruno Silva"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Djorden Santos"
+            "fight_description": "Djorden Santos",
+            "winner": "Djorden Santos"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Stephanie Luciano"
+            "fight_description": "Stephanie Luciano",
+            "winner": "Stephanie Luciano"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Yousri Belgaroui"
+            "fight_description": "Yousri Belgaroui",
+            "winner": "Yousri Belgaroui"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Melissa Croden"
+            "fight_description": "Melissa Croden",
+            "winner": "Melissa Croden"
         }
     ]
 }

@@ -7,6 +7,7 @@ Predict UFC fight outcomes by scraping fighter and event data, transforming it t
 - Transforms event JSON into model-ready features using `transform_event_data.py` (age, stance normalization, win/loss ratios, career stats, finish rates, momentum, etc.).
 - Runs a trained stacking model to generate winner predictions and per-fighter win probabilities with `predict_event_fights.py`.
 - Saves lightweight CSV outputs in `predictions/` and an optional debug Excel of transformed features (`transformed_data_before_predictions.xlsx`).
+- Run the UI (Streamlit) with `streamlit run app.py`.
 
 ## Key pieces
 - **Scraper:** `ufc-analytics-scraper-simple.py` pulls event fights, fighter profiles, finish rates, and momentum. Produces event JSON in the expected schema.

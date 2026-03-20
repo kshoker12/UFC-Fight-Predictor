@@ -55,7 +55,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Arman Tsarukyan"
+            "fight_description": "Arman Tsarukyan",
+            "winner": "Arman Tsarukyan"
         },
         {
             "fighter_a": {
@@ -108,7 +109,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Ian Machado Garry"
+            "fight_description": "Ian Machado Garry",
+            "winner": "Ian Machado Garry"
         },
         {
             "fighter_a": {
@@ -161,7 +163,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Volkan Oezdemir"
+            "fight_description": "Volkan Oezdemir",
+            "winner": "Volkan Oezdemir"
         },
         {
             "fighter_a": {
@@ -214,7 +217,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Myktybek Orolbai"
+            "fight_description": "Myktybek Orolbai",
+            "winner": "Myktybek Orolbai"
         },
         {
             "fighter_a": {
@@ -267,7 +271,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Waldo Cortes Acosta"
+            "fight_description": "Waldo Cortes Acosta",
+            "winner": "Waldo Cortes Acosta"
         },
         {
             "fighter_a": {
@@ -320,7 +325,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Kyoji Horiguchi"
+            "fight_description": "Kyoji Horiguchi",
+            "winner": "Kyoji Horiguchi"
         },
         {
             "fighter_a": {
@@ -373,7 +379,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Luke Riley"
+            "fight_description": "Luke Riley",
+            "winner": "Luke Riley"
         },
         {
             "fighter_a": {
@@ -426,7 +433,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Nicolas Dalby"
+            "fight_description": "Nicolas Dalby",
+            "winner": "Nicolas Dalby"
         },
         {
             "fighter_a": {
@@ -479,7 +487,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Asu Almabayev"
+            "fight_description": "Asu Almabayev",
+            "winner": "Asu Almabayev"
         },
         {
             "fighter_a": {
@@ -532,7 +541,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Abdul Rakhman Yakhyaev"
+            "fight_description": "Abdul Rakhman Yakhyaev",
+            "winner": "Abdul Rakhman Yakhyaev"
         },
         {
             "fighter_a": {
@@ -585,7 +595,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Aleksandre Topuria"
+            "fight_description": "Aleksandre Topuria",
+            "winner": "Aleksandre Topuria"
         },
         {
             "fighter_a": {
@@ -638,7 +649,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Ismail Naurdiev"
+            "fight_description": "Ismail Naurdiev",
+            "winner": "Ismail Naurdiev"
         },
         {
             "fighter_a": {
@@ -691,7 +703,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Nurullo Aliev"
+            "fight_description": "Nurullo Aliev",
+            "winner": "Nurullo Aliev"
         },
         {
             "fighter_a": {
@@ -744,7 +757,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Denzel Freeman"
+            "fight_description": "Denzel Freeman",
+            "winner": "Denzel Freeman"
         }
     ]
 }

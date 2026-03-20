@@ -61,7 +61,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Max Holloway"
+            "fight_description": "Max Holloway",
+            "winner": "Charles Oliveira"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Caio Borralho"
+            "fight_description": "Caio Borralho",
+            "winner": "Caio Borralho"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Rob Font"
+            "fight_description": "Rob Font",
+            "winner": "Raul Rosas Jr."
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Drew Dober"
+            "fight_description": "Drew Dober",
+            "winner": "Drew Dober"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Gregory Rodrigues"
+            "fight_description": "Gregory Rodrigues",
+            "winner": "Gregory Rodrigues"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Cody Garbrandt"
+            "fight_description": "Cody Garbrandt",
+            "winner": "Cody Garbrandt"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Donte Johnson"
+            "fight_description": "Donte Johnson",
+            "winner": "Donte Johnson"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Ricky Turcios"
+            "fight_description": "Ricky Turcios",
+            "winner": "Alberto Montes"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Cody Durden"
+            "fight_description": "Cody Durden",
+            "winner": "Nyamjargal Tumendemberel"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Sumudaerji"
+            "fight_description": "Sumudaerji",
+            "winner": "Sumudaerji"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Rafael Tobias"
+            "fight_description": "Rafael Tobias",
+            "winner": "Diyar Nurgozhay"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Luke Fernandez"
+            "fight_description": "Luke Fernandez",
+            "winner": "Rodolfo Bellato"
         }
     ]
 }

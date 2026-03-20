@@ -61,7 +61,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Mario Bautista"
+            "fight_description": "Mario Bautista",
+            "winner": "Mario Bautista"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Amir Albazi"
+            "fight_description": "Amir Albazi",
+            "winner": "Kyoji Horiguchi"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Jailton Almeida"
+            "fight_description": "Jailton Almeida",
+            "winner": "Rizvan Kuniev"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Michal Oleksiejczuk"
+            "fight_description": "Michal Oleksiejczuk",
+            "winner": "Michal Oleksiejczuk"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Jean Matsumoto"
+            "fight_description": "Jean Matsumoto",
+            "winner": "Farid Basharat"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Dustin Jacoby"
+            "fight_description": "Dustin Jacoby",
+            "winner": "Dustin Jacoby"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Alex Morono"
+            "fight_description": "Alex Morono",
+            "winner": "Daniil Donchenko"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Nikolay Veretennikov"
+            "fight_description": "Nikolay Veretennikov",
+            "winner": "Nikolay Veretennikov"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Bruna Brasil"
+            "fight_description": "Bruna Brasil",
+            "winner": "Ketlen Souza"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Javid Basharat"
+            "fight_description": "Javid Basharat",
+            "winner": "Javid Basharat"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "unknown",
             "title_fight": 0,
-            "fight_description": "Wang Cong"
+            "fight_description": "Wang Cong",
+            "winner": "Wang Cong"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Muin Gafurov"
+            "fight_description": "Muin Gafurov",
+            "winner": "Jakub Wiklacz"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Klaudia Sygula"
+            "fight_description": "Klaudia Sygula",
+            "winner": "Klaudia Sygula"
         }
     ]
 }

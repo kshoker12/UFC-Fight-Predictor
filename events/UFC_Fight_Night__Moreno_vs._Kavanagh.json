@@ -61,7 +61,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Brandon Moreno"
+            "fight_description": "Brandon Moreno",
+            "winner": "Lone'er Kavanagh"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Marlon Vera"
+            "fight_description": "Marlon Vera",
+            "winner": "David Martinez"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Daniel Zellhuber"
+            "fight_description": "Daniel Zellhuber",
+            "winner": "King Green"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Edgar Chairez"
+            "fight_description": "Edgar Chairez",
+            "winner": "Edgar Chairez"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Imanol Rodriguez"
+            "fight_description": "Imanol Rodriguez",
+            "winner": "Imanol Rodriguez"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Santiago Luna"
+            "fight_description": "Santiago Luna",
+            "winner": "Santiago Luna"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Ryan Gandra"
+            "fight_description": "Ryan Gandra",
+            "winner": "Ryan Gandra"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Ailin Perez"
+            "fight_description": "Ailin Perez",
+            "winner": "Ailin Perez"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Cristian Quinonez"
+            "fight_description": "Cristian Quinonez",
+            "winner": "Cristian Quinonez"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Douglas Silva de Andrade"
+            "fight_description": "Douglas Silva de Andrade",
+            "winner": "Javier Reyes"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "unknown",
             "title_fight": 0,
-            "fight_description": "Regina Tarin"
+            "fight_description": "Regina Tarin",
+            "winner": "Regina Tarin"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Erik Silva"
+            "fight_description": "Erik Silva",
+            "winner": "Francis Marshall"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Damian Pinas"
+            "fight_description": "Damian Pinas",
+            "winner": "Damian Pinas"
         }
     ]
 }

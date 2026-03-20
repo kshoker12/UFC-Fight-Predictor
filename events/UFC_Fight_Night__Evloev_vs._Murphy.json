@@ -1,0 +1,848 @@
+{
+    "name": "UFC Fight Night: Evloev vs. Murphy",
+    "date": "March 21, 2026",
+    "location": "London, England, United Kingdom",
+    "link": "http://ufcstats.com/event-details/69108cb8b32efe04",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Movsar Evloev",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 11, 1994",
+                        "wins": 19,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 3.99,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 2.66,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 4.67,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 61.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Lerone Murphy",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 22, 1991",
+                        "wins": 17,
+                        "losses": 0,
+                        "draws": 1,
+                        "career_splm": 4.48,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 2.51,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 1.41,
+                        "career_td_acc": 54.0,
+                        "career_td_def": 51.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Movsar Evloev",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Luke Riley",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 30, 1999",
+                        "wins": 12,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 2.55,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 1.27,
+                        "career_str_def": 46.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 42.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Michael Aswell Jr.",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 27, 2000",
+                        "wins": 11,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 9.56,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 7.79,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Luke Riley",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Michael Page",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 79.0,
+                        "stance": "Switch",
+                        "dob": "Apr 07, 1987",
+                        "wins": 24,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.39,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 1.68,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.23,
+                        "career_td_acc": 16.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sam Patterson",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 30, 1996",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 3.89,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 3.93,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.39,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 33.0,
+                        "career_sub_avg": 2.8,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.6,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Michael Page",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Iwo Baraniewski",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 205.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 20, 1998",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 14.31,
+                        "career_str_acc": 68.0,
+                        "career_sapm": 17.61,
+                        "career_str_def": 42.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Austen Lane",
+                "dataset": [
+                    {
+                        "height": 78,
+                        "weight": 205.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 09, 1987",
+                        "wins": 13,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 2.74,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.23,
+                        "career_str_def": 40.0,
+                        "career_td_avg": 1.52,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 33.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Iwo Baraniewski",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Roman Dolidze",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 15, 1988",
+                        "wins": 15,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.41,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 3.72,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.99,
+                        "career_td_acc": 39.0,
+                        "career_td_def": 26.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.5556,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Christian Leroy Duncan",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Switch",
+                        "dob": "Jul 24, 1995",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.6,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 2.97,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.4,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.8333,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Roman Dolidze",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Kurtis Campbell",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Switch",
+                        "dob": "Jul 29, 2002",
+                        "wins": 8,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 5.25,
+                        "career_str_acc": 77.0,
+                        "career_sapm": 1.5,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 22.5,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Danny Silva",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Jan 30, 1997",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 6.67,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 7.47,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 2.0,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Kurtis Campbell",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Mason Jones",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 26, 1995",
+                        "wins": 17,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.71,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 4.47,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 4.17,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Axel Sola",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 17, 1997",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 1,
+                        "career_splm": 3.74,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 2.74,
+                        "career_str_def": 75.0,
+                        "career_td_avg": 1.25,
+                        "career_td_acc": 25.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Mason Jones",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Nathaniel Wood",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "May 08, 1993",
+                        "wins": 22,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 5.74,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 4.32,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 1.46,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Losene Keita",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 30, 1997",
+                        "wins": 16,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Nathaniel Wood",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Mario Pinto",
+                "dataset": [
+                    {
+                        "height": 77,
+                        "weight": 265.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 14, 1998",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 3.39,
+                        "career_str_acc": 78.0,
+                        "career_sapm": 2.42,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 2.72,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 1.8,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Felipe Franco",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 22, 2001",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 2.23,
+                        "career_str_acc": 71.0,
+                        "career_sapm": 2.84,
+                        "career_str_def": 35.0,
+                        "career_td_avg": 6.08,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Mario Pinto",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Mantas Kondratavicius",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 17, 1999",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.55,
+                        "career_str_acc": 33.0,
+                        "career_sapm": 3.64,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 13.64,
+                        "career_td_acc": 100.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Antonio Trocoli",
+                "dataset": [
+                    {
+                        "height": 77,
+                        "weight": 185.0,
+                        "reach": 80.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 06, 1990",
+                        "wins": 12,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 1.37,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 5.55,
+                        "career_str_def": 24.0,
+                        "career_td_avg": 0.79,
+                        "career_td_acc": 10.0,
+                        "career_td_def": 33.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Mantas Kondratavicius",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Louie Sutherland",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 264.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 08, 1994",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.14,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 3.57,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Brando Pericic",
+                "dataset": [
+                    {
+                        "height": 77,
+                        "weight": 245.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 03, 1994",
+                        "wins": 5,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 15.13,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 1.57,
+                        "career_str_def": 66.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Louie Sutherland",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Shem Rock",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Southpaw",
+                        "dob": "Nov 05, 1993",
+                        "wins": 12,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 2.93,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 3.4,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 1.0,
+                        "career_td_acc": 11.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Abdul-Kareem Al-Selwady",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 10, 1995",
+                        "wins": 15,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.14,
+                        "career_str_acc": 34.0,
+                        "career_sapm": 3.6,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 2.32,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 20.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Shem Rock",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Shanelle Dyer",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 115.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 23, 2001",
+                        "wins": 6,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 7.67,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 7.8,
+                        "career_str_def": 44.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ravena Oliveira",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 115.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 20, 1997",
+                        "wins": 7,
+                        "losses": 3,
+                        "draws": 1,
+                        "career_splm": 1.4,
+                        "career_str_acc": 29.0,
+                        "career_sapm": 2.8,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.08,
+                        "career_td_acc": 66.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Shanelle Dyer",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Melissa Mullins",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 23, 1991",
+                        "wins": 7,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.71,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 4.39,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 2.03,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Luana Carolina",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 11, 1993",
+                        "wins": 11,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.65,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 3.46,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.3,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.1429,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Melissa Mullins",
+            "winner": null
+        }
+    ]
+}

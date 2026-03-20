@@ -61,7 +61,8 @@
             },
             "division": "bantamweight",
             "title_fight": 1,
-            "fight_description": "Merab Dvalishvili"
+            "fight_description": "Merab Dvalishvili",
+            "winner": "Petr Yan"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "flyweight",
             "title_fight": 1,
-            "fight_description": "Alexandre Pantoja"
+            "fight_description": "Alexandre Pantoja",
+            "winner": "Joshua Van"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Brandon Moreno"
+            "fight_description": "Brandon Moreno",
+            "winner": "Tatsuro Taira"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Henry Cejudo"
+            "fight_description": "Henry Cejudo",
+            "winner": "Payton Talbott"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Jan Blachowicz"
+            "fight_description": "Jan Blachowicz",
+            "winner": "Draw"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Grant Dawson"
+            "fight_description": "Grant Dawson",
+            "winner": "Manuel Torres"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Terrance McKinney"
+            "fight_description": "Terrance McKinney",
+            "winner": "Chris Duncan"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Maycee Barber"
+            "fight_description": "Maycee Barber",
+            "winner": "Maycee Barber"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Nazim Sadykhov"
+            "fight_description": "Nazim Sadykhov",
+            "winner": "Fares Ziam"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Marvin Vettori"
+            "fight_description": "Marvin Vettori",
+            "winner": "Brunno Ferreira"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Edson Barboza"
+            "fight_description": "Edson Barboza",
+            "winner": "Jalin Turner"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Iwo Baraniewski"
+            "fight_description": "Iwo Baraniewski",
+            "winner": "Iwo Baraniewski"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Mansur Abdul-Malik"
+            "fight_description": "Mansur Abdul-Malik",
+            "winner": "Mansur Abdul-Malik"
         },
         {
             "fighter_a": {
@@ -828,7 +841,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Muhammad Naimov"
+            "fight_description": "Muhammad Naimov",
+            "winner": "Mairon Santos"
         }
     ]
 }

@@ -753,8 +753,18 @@ def get_event_fights(event_url):
             continue
         
         # Fighter names and URLs are in the second cell (index 1)
-        # First cell (index 0) is W/L result
+        # First cell (index 0) is W/L result (or "next" for upcoming bouts)
         fighter_cell = cells[1] if len(cells) > 1 else cells[0]
+        result_cell_text = ""
+        if len(cells) > 0:
+            try:
+                result_tag = cells[0].find('p', class_='b-fight-details__table-text')
+                if result_tag:
+                    result_cell_text = result_tag.get_text(strip=True)
+                else:
+                    result_cell_text = cells[0].get_text(" ", strip=True)
+            except Exception:
+                result_cell_text = cells[0].get_text(" ", strip=True)
         
         # Extract fighter links (more reliable than text)
         fighter_links = fighter_cell.find_all('a', class_='b-link_style_black')
@@ -810,6 +820,29 @@ def get_event_fights(event_url):
                       is_title_fight(fight_description) or 
                       is_title_fight(row_text) or 
                       is_title_fight(division))
+
+        # Extract the winner for this bout.
+        # - Upcoming fights have "next" in the W/L cell.
+        # - Draw/no-contest cases are treated as "Draw".
+        winner = None
+        result_norm = (result_cell_text or "").strip().lower()
+        if not result_norm or "next" in result_norm:
+            winner = None
+        elif result_norm in {"w", "win"} or "win" in result_norm:
+            winner = fighter_a
+        elif result_norm in {"l", "loss"} or "loss" in result_norm:
+            winner = fighter_b
+        elif (
+            "draw" in result_norm
+            or "nc" in result_norm
+            or "no contest" in result_norm
+            or "no-contest" in result_norm
+        ):
+            winner = "Draw"
+        else:
+            # If UFCStats uses an unexpected token that is not "next" and not win/loss,
+            # treat it as a no-winner outcome.
+            winner = "Draw"
         
         fights.append({
             'fighter_a': fighter_a,
@@ -818,7 +851,8 @@ def get_event_fights(event_url):
             'fighter_b_url': fighter_b_url,
             'division': division,
             'title_fight': 1 if title_fight else 0,
-            'fight_description': fight_description
+            'fight_description': fight_description,
+            'winner': winner,
         })
         print(f"  ✓ Fight {len(fights)}: {fighter_a} vs {fighter_b} ({division})" + (" [TITLE FIGHT]" if title_fight else ""))
         if fighter_a_url and fighter_b_url:
@@ -982,7 +1016,8 @@ def get_event_data(event_url):
             },
             'division': fight.get('division', 'unknown'),
             'title_fight': fight.get('title_fight', 0),
-            'fight_description': fight.get('fight_description', '')
+            'fight_description': fight.get('fight_description', ''),
+            'winner': fight.get('winner', None),
         })
         print(f"  ✓ Completed fight {idx}/{len(fights_data)}")
     

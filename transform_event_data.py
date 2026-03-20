@@ -88,6 +88,31 @@ def transform_event_to_ufc_format(event_json_path: Union[str, Path]) -> pd.DataF
     return df
 
 
+def transform_matchup_to_features(
+    fighter_a: Dict,
+    fighter_b: Dict,
+    *,
+    date_str: str = "",
+    division: str = "unknown",
+    title_fight: int = 0,
+    event_name: str = "Matchup",
+) -> pd.DataFrame:
+    fighter_a_data = extract_fighter_data(fighter_a, fighter_b, "a", date_str)
+    fighter_b_data = extract_fighter_data(fighter_b, fighter_a, "b", date_str)
+    fight_row = {
+        "date": date_str,
+        "division": division,
+        "title_fight": title_fight,
+        "event_name": event_name,
+        "r_name": fighter_a.get("name", "") if isinstance(fighter_a, dict) else "",
+        "b_name": fighter_b.get("name", "") if isinstance(fighter_b, dict) else "",
+        **fighter_a_data,
+        **fighter_b_data,
+    }
+    df = pd.DataFrame([fight_row])
+    return apply_feature_engineering(df)
+
+
 def extract_id_from_url(url: str) -> str:
     """Extract ID from UFC stats URL."""
     match = re.search(r'/([a-z0-9]+)$', url)

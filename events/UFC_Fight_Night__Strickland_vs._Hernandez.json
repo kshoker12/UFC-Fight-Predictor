@@ -61,7 +61,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Sean Strickland"
+            "fight_description": "Sean Strickland",
+            "winner": "Sean Strickland"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Geoff Neal"
+            "fight_description": "Geoff Neal",
+            "winner": "Uros Medic"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Dan Ige"
+            "fight_description": "Dan Ige",
+            "winner": "Melquizael Costa"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Serghei Spivac"
+            "fight_description": "Serghei Spivac",
+            "winner": "Serghei Spivac"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Jacobe Smith"
+            "fight_description": "Jacobe Smith",
+            "winner": "Jacobe Smith"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Zach Reese"
+            "fight_description": "Zach Reese",
+            "winner": "Michel Pereira"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Chidi Njokuani"
+            "fight_description": "Chidi Njokuani",
+            "winner": "Carlos Leal"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Alibi Idiris"
+            "fight_description": "Alibi Idiris",
+            "winner": "Alibi Idiris"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Alden Coria"
+            "fight_description": "Alden Coria",
+            "winner": "Alden Coria"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Joselyne Edwards"
+            "fight_description": "Joselyne Edwards",
+            "winner": "Joselyne Edwards"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Punahele Soriano"
+            "fight_description": "Punahele Soriano",
+            "winner": "Punahele Soriano"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Jean-Paul Lebosnoyani"
+            "fight_description": "Jean-Paul Lebosnoyani",
+            "winner": "Jean-Paul Lebosnoyani"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Jordan Leavitt"
+            "fight_description": "Jordan Leavitt",
+            "winner": "Jordan Leavitt"
         },
         {
             "fighter_a": {
@@ -828,7 +841,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Carli Judice"
+            "fight_description": "Carli Judice",
+            "winner": "Carli Judice"
         }
     ]
 }

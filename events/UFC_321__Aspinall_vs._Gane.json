@@ -61,7 +61,8 @@
             },
             "division": "heavyweight",
             "title_fight": 1,
-            "fight_description": "Tom Aspinall"
+            "fight_description": "Tom Aspinall",
+            "winner": "Draw"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "strawweight",
             "title_fight": 1,
-            "fight_description": "Mackenzie Dern"
+            "fight_description": "Mackenzie Dern",
+            "winner": "Mackenzie Dern"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Umar Nurmagomedov"
+            "fight_description": "Umar Nurmagomedov",
+            "winner": "Umar Nurmagomedov"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Alexander Volkov"
+            "fight_description": "Alexander Volkov",
+            "winner": "Alexander Volkov"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Azamat Murzakanov"
+            "fight_description": "Azamat Murzakanov",
+            "winner": "Azamat Murzakanov"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Quillan Salkilld"
+            "fight_description": "Quillan Salkilld",
+            "winner": "Quillan Salkilld"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Ikram Aliskerov"
+            "fight_description": "Ikram Aliskerov",
+            "winner": "Ikram Aliskerov"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Ludovit Klein"
+            "fight_description": "Ludovit Klein",
+            "winner": "Ludovit Klein"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Valter Walker"
+            "fight_description": "Valter Walker",
+            "winner": "Valter Walker"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Nathaniel Wood"
+            "fight_description": "Nathaniel Wood",
+            "winner": "Nathaniel Wood"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Hamdy Abdelwahab"
+            "fight_description": "Hamdy Abdelwahab",
+            "winner": "Hamdy Abdelwahab"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Mitch Raposo"
+            "fight_description": "Mitch Raposo",
+            "winner": "Mitch Raposo"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Mizuki"
+            "fight_description": "Mizuki",
+            "winner": "Mizuki"
         }
     ]
 }

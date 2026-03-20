@@ -61,7 +61,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Diego Lopes"
+            "fight_description": "Diego Lopes",
+            "winner": "Diego Lopes"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "David Martinez"
+            "fight_description": "David Martinez",
+            "winner": "David Martinez"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Rafa Garcia"
+            "fight_description": "Rafa Garcia",
+            "winner": "Rafa Garcia"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Kelvin Gastelum"
+            "fight_description": "Kelvin Gastelum",
+            "winner": "Kelvin Gastelum"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Alexander Hernandez"
+            "fight_description": "Alexander Hernandez",
+            "winner": "Alexander Hernandez"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Santiago Luna"
+            "fight_description": "Santiago Luna",
+            "winner": "Santiago Luna"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Dusko Todorovic"
+            "fight_description": "Dusko Todorovic",
+            "winner": "Dusko Todorovic"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Joaquim Silva"
+            "fight_description": "Joaquim Silva",
+            "winner": "Joaquim Silva"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Tatiana Suarez"
+            "fight_description": "Tatiana Suarez",
+            "winner": "Tatiana Suarez"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Jesus Aguilar"
+            "fight_description": "Jesus Aguilar",
+            "winner": "Jesus Aguilar"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Zach Reese"
+            "fight_description": "Zach Reese",
+            "winner": "Draw"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Alden Coria"
+            "fight_description": "Alden Coria",
+            "winner": "Alden Coria"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Montse Rendon"
+            "fight_description": "Montse Rendon",
+            "winner": "Montse Rendon"
         },
         {
             "fighter_a": {
@@ -828,7 +841,8 @@
             },
             "division": "welterweight",
             "title_fight": 1,
-            "fight_description": "Daniil Donchenko"
+            "fight_description": "Daniil Donchenko",
+            "winner": "Daniil Donchenko"
         }
     ]
 }

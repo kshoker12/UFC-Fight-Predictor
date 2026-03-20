@@ -61,7 +61,8 @@
             },
             "division": "lightweight",
             "title_fight": 1,
-            "fight_description": "Justin Gaethje"
+            "fight_description": "Justin Gaethje",
+            "winner": "Justin Gaethje"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Sean O'Malley"
+            "fight_description": "Sean O'Malley",
+            "winner": "Sean O'Malley"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Waldo Cortes Acosta"
+            "fight_description": "Waldo Cortes Acosta",
+            "winner": "Waldo Cortes Acosta"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Natalia Silva"
+            "fight_description": "Natalia Silva",
+            "winner": "Natalia Silva"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Arnold Allen"
+            "fight_description": "Arnold Allen",
+            "winner": "Jean Silva"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Umar Nurmagomedov"
+            "fight_description": "Umar Nurmagomedov",
+            "winner": "Umar Nurmagomedov"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Ateba Gautier"
+            "fight_description": "Ateba Gautier",
+            "winner": "Ateba Gautier"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Nikita Krylov"
+            "fight_description": "Nikita Krylov",
+            "winner": "Nikita Krylov"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Alex Perez"
+            "fight_description": "Alex Perez",
+            "winner": "Alex Perez"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Josh Hokit"
+            "fight_description": "Josh Hokit",
+            "winner": "Josh Hokit"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Ty Miller"
+            "fight_description": "Ty Miller",
+            "winner": "Ty Miller"
         }
     ]
 }

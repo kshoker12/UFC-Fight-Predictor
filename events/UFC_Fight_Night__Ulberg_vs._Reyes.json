@@ -61,7 +61,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Carlos Ulberg"
+            "fight_description": "Carlos Ulberg",
+            "winner": "Carlos Ulberg"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Jimmy Crute"
+            "fight_description": "Jimmy Crute",
+            "winner": "Jimmy Crute"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Jack Jenkins"
+            "fight_description": "Jack Jenkins",
+            "winner": "Jack Jenkins"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Neil Magny"
+            "fight_description": "Neil Magny",
+            "winner": "Neil Magny"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Tom Nolan"
+            "fight_description": "Tom Nolan",
+            "winner": "Tom Nolan"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Navajo Stirling"
+            "fight_description": "Navajo Stirling",
+            "winner": "Navajo Stirling"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Cam Rowston"
+            "fight_description": "Cam Rowston",
+            "winner": "Cam Rowston"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Jamie Mullarkey"
+            "fight_description": "Jamie Mullarkey",
+            "winner": "Jamie Mullarkey"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Colby Thicknesse"
+            "fight_description": "Colby Thicknesse",
+            "winner": "Colby Thicknesse"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Michelle Montague"
+            "fight_description": "Michelle Montague",
+            "winner": "Michelle Montague"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Brando Pericic"
+            "fight_description": "Brando Pericic",
+            "winner": "Brando Pericic"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Alexia Thainara"
+            "fight_description": "Alexia Thainara",
+            "winner": "Alexia Thainara"
         }
     ]
 }

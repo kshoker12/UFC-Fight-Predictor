@@ -61,7 +61,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 1,
-            "fight_description": "Alex Pereira"
+            "fight_description": "Alex Pereira",
+            "winner": "Alex Pereira"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "bantamweight",
             "title_fight": 1,
-            "fight_description": "Merab Dvalishvili"
+            "fight_description": "Merab Dvalishvili",
+            "winner": "Merab Dvalishvili"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Jiri Prochazka"
+            "fight_description": "Jiri Prochazka",
+            "winner": "Jiri Prochazka"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Youssef Zalal"
+            "fight_description": "Youssef Zalal",
+            "winner": "Youssef Zalal"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Joe Pyfer"
+            "fight_description": "Joe Pyfer",
+            "winner": "Joe Pyfer"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Ateba Gautier"
+            "fight_description": "Ateba Gautier",
+            "winner": "Ateba Gautier"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "unknown",
             "title_fight": 0,
-            "fight_description": "Daniel Santos"
+            "fight_description": "Daniel Santos",
+            "winner": "Daniel Santos"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Jakub Wiklacz"
+            "fight_description": "Jakub Wiklacz",
+            "winner": "Jakub Wiklacz"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Edmen Shahbazyan"
+            "fight_description": "Edmen Shahbazyan",
+            "winner": "Edmen Shahbazyan"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Punahele Soriano"
+            "fight_description": "Punahele Soriano",
+            "winner": "Punahele Soriano"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Yana Santos"
+            "fight_description": "Yana Santos",
+            "winner": "Yana Santos"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Farid Basharat"
+            "fight_description": "Farid Basharat",
+            "winner": "Farid Basharat"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Ramiz Brahimaj"
+            "fight_description": "Ramiz Brahimaj",
+            "winner": "Ramiz Brahimaj"
         },
         {
             "fighter_a": {
@@ -828,7 +841,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Veronica Hardy"
+            "fight_description": "Veronica Hardy",
+            "winner": "Veronica Hardy"
         }
     ]
 }

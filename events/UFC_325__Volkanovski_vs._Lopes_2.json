@@ -61,7 +61,8 @@
             },
             "division": "featherweight",
             "title_fight": 1,
-            "fight_description": "Alexander Volkanovski"
+            "fight_description": "Alexander Volkanovski",
+            "winner": "Alexander Volkanovski"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Dan Hooker"
+            "fight_description": "Dan Hooker",
+            "winner": "Benoit Saint Denis"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Rafael Fiziev"
+            "fight_description": "Rafael Fiziev",
+            "winner": "Mauricio Ruffy"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Tai Tuivasa"
+            "fight_description": "Tai Tuivasa",
+            "winner": "Tallison Teixeira"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Quillan Salkilld"
+            "fight_description": "Quillan Salkilld",
+            "winner": "Quillan Salkilld"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Junior Tafa"
+            "fight_description": "Junior Tafa",
+            "winner": "Billy Elekana"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Cam Rowston"
+            "fight_description": "Cam Rowston",
+            "winner": "Cam Rowston"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Jacob Malkoun"
+            "fight_description": "Jacob Malkoun",
+            "winner": "Jacob Malkoun"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Jonathan Micallef"
+            "fight_description": "Jonathan Micallef",
+            "winner": "Jonathan Micallef"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Kaan Ofli"
+            "fight_description": "Kaan Ofli",
+            "winner": "Kaan Ofli"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Sangwook Kim"
+            "fight_description": "Sangwook Kim",
+            "winner": "Dom Mar Fan"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Keiichiro Nakamura"
+            "fight_description": "Keiichiro Nakamura",
+            "winner": "Keiichiro Nakamura"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Lawrence Lui"
+            "fight_description": "Lawrence Lui",
+            "winner": "Lawrence Lui"
         }
     ]
 }

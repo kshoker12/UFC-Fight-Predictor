@@ -61,7 +61,8 @@
             },
             "division": "welterweight",
             "title_fight": 1,
-            "fight_description": "Islam Makhachev"
+            "fight_description": "Islam Makhachev",
+            "winner": "Islam Makhachev"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "flyweight",
             "title_fight": 1,
-            "fight_description": "Valentina Shevchenko"
+            "fight_description": "Valentina Shevchenko",
+            "winner": "Valentina Shevchenko"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Michael Morales"
+            "fight_description": "Michael Morales",
+            "winner": "Michael Morales"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Carlos Prates"
+            "fight_description": "Carlos Prates",
+            "winner": "Carlos Prates"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Benoit Saint Denis"
+            "fight_description": "Benoit Saint Denis",
+            "winner": "Benoit Saint Denis"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Bo Nickal"
+            "fight_description": "Bo Nickal",
+            "winner": "Bo Nickal"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Gregory Rodrigues"
+            "fight_description": "Gregory Rodrigues",
+            "winner": "Gregory Rodrigues"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Erin Blanchfield"
+            "fight_description": "Erin Blanchfield",
+            "winner": "Erin Blanchfield"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Ethyn Ewing"
+            "fight_description": "Ethyn Ewing",
+            "winner": "Ethyn Ewing"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Kyle Daukaus"
+            "fight_description": "Kyle Daukaus",
+            "winner": "Kyle Daukaus"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Pat Sabatini"
+            "fight_description": "Pat Sabatini",
+            "winner": "Pat Sabatini"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Fatima Kline"
+            "fight_description": "Fatima Kline",
+            "winner": "Fatima Kline"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Baisangur Susurkaev"
+            "fight_description": "Baisangur Susurkaev",
+            "winner": "Baisangur Susurkaev"
         },
         {
             "fighter_a": {
@@ -828,7 +841,8 @@
             },
             "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Matheus Camilo"
+            "fight_description": "Matheus Camilo",
+            "winner": "Matheus Camilo"
         }
     ]
 }

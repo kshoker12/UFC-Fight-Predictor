@@ -61,7 +61,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Steve Garcia"
+            "fight_description": "Steve Garcia",
+            "winner": "Steve Garcia"
         },
         {
             "fighter_a": {
@@ -120,7 +121,8 @@
             },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Waldo Cortes Acosta"
+            "fight_description": "Waldo Cortes Acosta",
+            "winner": "Waldo Cortes Acosta"
         },
         {
             "fighter_a": {
@@ -179,7 +181,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Jeremiah Wells"
+            "fight_description": "Jeremiah Wells",
+            "winner": "Jeremiah Wells"
         },
         {
             "fighter_a": {
@@ -238,7 +241,8 @@
             },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Yadier del Valle"
+            "fight_description": "Yadier del Valle",
+            "winner": "Yadier del Valle"
         },
         {
             "fighter_a": {
@@ -297,7 +301,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Charles Radtke"
+            "fight_description": "Charles Radtke",
+            "winner": "Charles Radtke"
         },
         {
             "fighter_a": {
@@ -356,7 +361,8 @@
             },
             "division": "unknown",
             "title_fight": 0,
-            "fight_description": "Allan Nascimento"
+            "fight_description": "Allan Nascimento",
+            "winner": "Allan Nascimento"
         },
         {
             "fighter_a": {
@@ -415,7 +421,8 @@
             },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Billy Elekana"
+            "fight_description": "Billy Elekana",
+            "winner": "Billy Elekana"
         },
         {
             "fighter_a": {
@@ -474,7 +481,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Timmy Cuamba"
+            "fight_description": "Timmy Cuamba",
+            "winner": "Timmy Cuamba"
         },
         {
             "fighter_a": {
@@ -533,7 +541,8 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Donte Johnson"
+            "fight_description": "Donte Johnson",
+            "winner": "Donte Johnson"
         },
         {
             "fighter_a": {
@@ -592,7 +601,8 @@
             },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Norma Dumont"
+            "fight_description": "Norma Dumont",
+            "winner": "Norma Dumont"
         },
         {
             "fighter_a": {
@@ -651,7 +661,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Alice Ardelean"
+            "fight_description": "Alice Ardelean",
+            "winner": "Alice Ardelean"
         },
         {
             "fighter_a": {
@@ -710,7 +721,8 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Seokhyeon Ko"
+            "fight_description": "Seokhyeon Ko",
+            "winner": "Seokhyeon Ko"
         },
         {
             "fighter_a": {
@@ -769,7 +781,8 @@
             },
             "division": "strawweight",
             "title_fight": 0,
-            "fight_description": "Talita Alencar"
+            "fight_description": "Talita Alencar",
+            "winner": "Talita Alencar"
         }
     ]
 }
