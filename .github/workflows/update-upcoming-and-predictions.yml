@@ -1,0 +1,80 @@
+name: Update upcoming event + predictions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */24 * * *" # every 24h (UTC)
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch next upcoming event
+        id: fetch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python query_data.py
+
+          NEW_EVENT_JSON="$(ls -t events/*.json 2>/dev/null | head -n 1 || true)"
+          if [[ -z "${NEW_EVENT_JSON}" ]]; then
+            echo "No events/*.json found after scraping. Skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+          echo "NEW_EVENT_JSON=${NEW_EVENT_JSON}" >> "$GITHUB_OUTPUT"
+          echo "Using newest event JSON: ${NEW_EVENT_JSON}"
+
+      - name: Compute predictions
+        if: steps.fetch.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python predict_event_fights.py "${{ steps.fetch.outputs.NEW_EVENT_JSON }}"
+
+          # This file is created by predict_event_fights.py for debugging.
+          rm -f transformed_data_before_predictions.xlsx || true
+
+      - name: Commit & push (if any changes)
+        if: steps.fetch.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git add events predictions || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore: update next event and predictions"
+
+          # Push back to the branch this workflow ran on.
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
