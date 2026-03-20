@@ -222,7 +222,18 @@ hero_html = f"""
 <div class="rounded-2xl border border-slate-800 bg-gradient-to-br from-slate-900 to-slate-950 p-8 shadow-xl">
   <p class="text-xs font-semibold uppercase tracking-widest text-amber-500/90 mb-2">UFC</p>
   <h1 class="text-3xl md:text-4xl font-bold text-white tracking-tight mb-2">Fight Predictor</h1>
-  <p class="text-slate-400 text-sm max-w-2xl mb-8">Stacking classifier using MLP, LightGBM, SVM, and Random Forest models. This model is not perfect, but it learns non-trivial patterns from historical UFC bouts. View model prediction on past UFC events or run inference with custom match-ups.</p>
+  <p class="text-slate-400 text-sm max-w-2xl mb-2">Stacking classifier using MLP, LightGBM, SVM, and Random Forest models. This model is not perfect, but it learns non-trivial patterns from historical UFC bouts. View model prediction on past UFC events or run inference with custom match-ups.</p>
+    <p class="text-slate-400 text-sm max-w-2xl mb-8">
+    GitHub:
+    <a
+        href="https://github.com/kshoker12/UFC-Fight-Predictor"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-amber-200 hover:underline"
+    >
+        kshoker12/UFC-Fight-Predictor
+    </a>
+</p>
   <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
     <div class="rounded-xl bg-slate-950/80 border border-slate-800 p-4">
       <p class="text-xs text-slate-500 uppercase tracking-wide mb-1">Accuracy</p>
