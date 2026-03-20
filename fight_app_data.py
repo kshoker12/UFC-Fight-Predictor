@@ -423,13 +423,16 @@ def predict_from_feature_frame(df: pd.DataFrame) -> Optional[Dict[str, Any]]:
     model = load_stacking_model()
     if model is None or df.empty:
         return None
+    st.session_state["last_inference_error"] = None
     metadata_cols = ["r_name", "b_name", "event_name"]
     feature_cols = [c for c in df.columns if c not in metadata_cols]
     X = df[feature_cols].copy()
     try:
         predictions = model.predict(X)
         probabilities = model.predict_proba(X)
-    except Exception:
+    except Exception as e:
+        # Keep the error available to the UI so deployment issues are debuggable.
+        st.session_state["last_inference_error"] = f"{type(e).__name__}: {e}"
         return None
     r_name = str(df.iloc[0].get("r_name", "") or "")
     b_name = str(df.iloc[0].get("b_name", "") or "")

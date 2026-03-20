@@ -339,8 +339,20 @@ with st.container(border=True):
 </div>
 """
             else:
-                result_html = """
-<div class="rounded-xl border border-red-900/40 bg-red-950/20 text-red-200 text-sm px-4 py-3 mb-2">Model inference failed. Check feature columns vs. saved model.</div>
+                err = st.session_state.get("last_inference_error")
+                details_html = ""
+                if err:
+                    # Keep details short but helpful; escape to avoid breaking HTML.
+                    details_html = f"""
+<div class="mt-2 text-xs text-slate-200/80 whitespace-pre-wrap">
+  Details: {html.escape(str(err))}
+</div>
+"""
+                result_html = f"""
+<div class="rounded-xl border border-red-900/40 bg-red-950/20 text-red-200 text-sm px-4 py-3 mb-2">
+  Model inference failed. Check feature columns vs. saved model.
+  {details_html}
+</div>
 """
             st_tw(text=result_html)
 

@@ -485,7 +485,14 @@ def apply_feature_engineering(df: pd.DataFrame) -> pd.DataFrame:
     missing_cols = [col for col in final_columns if col not in df.columns]
     if missing_cols:
         for col in missing_cols:
-            df[col] = None
+            df[col] = np.nan
+
+    # Ensure numeric feature columns are truly numeric.
+    # This avoids sklearn/preprocessor dtype issues on small/edge inputs.
+    numeric_final_cols = [col for col in final_columns if col not in ("r_stance", "b_stance")]
+    existing_numeric_cols = [c for c in numeric_final_cols if c in df.columns]
+    if existing_numeric_cols:
+        df[existing_numeric_cols] = df[existing_numeric_cols].apply(pd.to_numeric, errors="coerce")
     
     # Select only the final columns in the exact order expected by preprocessor
     # This ensures column order matches what the model was trained on
