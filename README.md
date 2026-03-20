@@ -41,6 +41,10 @@ The Streamlit UI reads CSVs using these columns:
 
 It also ensures the final feature columns are in the exact order expected by the trained preprocessor.
 
+## Data Sources
+- **UFC Stats (`ufcstats.com`)**: The scraper uses UFC Stats fighter profiles and event pages to build the structured event JSON in `events/` (see `ufc-analytics-scraper-simple.py`).
+- **Kaggle (training dataset)**: [UFC datasets (1994–2025)](https://www.kaggle.com/datasets/neelagiriaditya/ufc-datasets-1994-2025).
+
 ## Models in the stacking classifier
 The classifier is a stacking ensemble made from several models:
 - Base models: MLP, LightGBM, Logistic Regression, SVM, Random Forest
