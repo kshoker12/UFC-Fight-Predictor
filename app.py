@@ -302,7 +302,8 @@ with st.container(border=True):
                 text='<div class="rounded-xl border border-red-900/40 bg-red-950/20 text-red-200 text-sm px-4 py-3">Add <code class="bg-black/30 px-1 rounded">models/stacking_model.joblib</code> to run live predictions.</div>',
             )
         else:
-            pred = run_matchup_prediction(fa, fb)
+            with st.spinner("Running model inference..."):
+                pred = run_matchup_prediction(fa, fb)
             pa = fighter_profile_strip(fa)
             pb = fighter_profile_strip(fb)
             name_a = html.escape(str(fa.get("name", "")))

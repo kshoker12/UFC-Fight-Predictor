@@ -12,5 +12,5 @@ streamlit-tailwind
 pandas
 numpy
 joblib
-scikit-learn
-lightgbm
+scikit-learn==1.7.2
+lightgbm==4.6.0
