@@ -27,9 +27,26 @@ from fight_app_data import (
 )
 
 st.set_page_config(
-    page_title="UFC Fight Predictor",
+    page_title="UFC Fight Predictor - Fight Outcomes",
     layout="wide",
     initial_sidebar_state="collapsed",
+)
+
+st.markdown(
+    """
+    <meta property="og:title" content="UFC Fight Predictor" />
+    <meta property="og:description" content="Predict UFC fights with a stacking classifier model trained on historical UFC bouts (powered by UFC Stats data)." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ufc-fight-predictor-ks.streamlit.app/" />
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="UFC Fight Predictor" />
+    <meta name="twitter:description" content="Predict UFC fights with a stacking classifier model trained on historical UFC bouts (powered by UFC Stats data)." />
+    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" />
+    <link rel="canonical" href="https://ufc-fight-predictor-ks.streamlit.app/" />
+    """,
+    unsafe_allow_html=True,
 )
 
 st.markdown(
