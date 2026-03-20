@@ -1,35 +1,57 @@
-# MMA-Fight-Predictor
+# UFC Fight Predictor
 
-Predict UFC fight outcomes by scraping fighter and event data, transforming it to the model’s expected feature set, and running a trained stacking classifier.
+An end-to-end UFC fight outcome predictor, presented as a Streamlit app.
+
+The app can show:
+- Predicted results for upcoming and past events (precomputed predictions)
+- A “custom matchup” screen where you can enter two fighters and get live probabilities (when model artifacts are available)
+
+[Live demo](https://ufc-fight-predictor-ks.streamlit.app/)
 
 ## What this project does
-- Scrapes UFC event pages and fighter profiles (via `ufcstats.com`) to build structured event JSON files (see `events/`).
-- Transforms event JSON into model-ready features using `transform_event_data.py` (age, stance normalization, win/loss ratios, career stats, finish rates, momentum, etc.).
-- Runs a trained stacking model to generate winner predictions and per-fighter win probabilities with `predict_event_fights.py`.
-- Saves lightweight CSV outputs in `predictions/` and an optional debug Excel of transformed features (`transformed_data_before_predictions.xlsx`).
-- Run the UI (Streamlit) with `streamlit run app.py`.
+Behind the scenes, the prediction pipeline is:
+1. Scrape UFC data (fighters + events) and store it as event JSON in `events/`
+2. Transform that JSON into the feature format the model expects (`transform_event_data.py`)
+3. Run a trained stacking classifier to get a predicted winner + win probabilities (`predict_event_fights.py`)
+4. Save results as lightweight CSV files in `predictions/` for fast display in the UI (`app.py`)
 
-## Key pieces
-- **Scraper:** `ufc-analytics-scraper-simple.py` pulls event fights, fighter profiles, finish rates, and momentum. Produces event JSON in the expected schema.
-- **Transformation:** `transform_event_data.py` maps event JSON into the UFC.csv-like feature set, engineers features, orders columns to match the trained preprocessor, and drops unused metadata.
-- **Model loading & inference:** `evaluate_fights.py` / `predict_event_fights.py` load the saved preprocessor and stacking classifier from `models/` (joblib artifacts), run predictions, and print nicely formatted results.
-- **Notebooks:** `eda.ipynb` documents feature selection, preprocessing choices, and model training rationale.
+## How to use the app
+1. Open the Streamlit UI.
+2. Switch between `Upcoming` and `Past` to browse events.
+3. For each event, the app displays the predicted winner and win probabilities per bout.
+4. Use `Custom matchup` to pick two fighters and run live inference (only works if `models/stacking_model.joblib` exists).
 
-## Typical workflow
-1) Scrape event data  
-   - Use `ufc-analytics-scraper-simple.py` to fetch an event and write JSON to `events/`.
-2) Transform to model features  
-   - Run `transform_event_to_ufc_format(event_json_path)` (used inside `predict_event_fights.py`) to get the ordered feature frame the model expects.
-3) Predict outcomes  
-   - `python predict_event_fights.py events/<event_file>.json`  
-   - Outputs CSV to `predictions/` with per-fighter probabilities and predicted winner; prints a summary to stdout.
+## Where predictions come from
+Predictions are stored per event as CSV files under `predictions/`.
 
-## Inputs and outputs
-- **Input:** Event JSON with fights, each including `fighter_a` / `fighter_b` datasets (profile, career stats, finish rates, momentum, wins/losses, etc.).
-- **Output:** CSV per event with `fighter_1`, `fighter_2`, predicted winner, and win probabilities; optional Excel debug of transformed features.
+The Streamlit UI reads CSVs using these columns:
+- `fighter_1`
+- `fighter_2`
+- `fighter_1_probability`
+- `fighter_2_probability`
+- `predicted_winner`
 
-## Notes and limits
-- Model artifacts must exist in `models/` (`preprocessor.joblib`, `stacking_model.joblib`).
-- Scraper currently focuses on UFC Stats; missing or new fighters may yield sparse data that the transformer will impute/leave as null.
-- Some temporary behaviors (e.g., which events are scraped) may be toggled in the scraper’s main block. Adjust to target upcoming or past events as needed.
-# UFC-Fight-Predictor
+## Model inputs (high level)
+`transform_event_data.py` builds model features from the scraped fighter/event data, including things like:
+- Age at fight time (from DOB)
+- Win/loss ratios
+- Stance normalization (Orthodox/Southpaw)
+- Division normalization
+- Additional engineered performance rates (e.g., finish/KO/submission-related signals and momentum)
+
+It also ensures the final feature columns are in the exact order expected by the trained preprocessor.
+
+## Models in the stacking classifier
+The classifier is a stacking ensemble made from several models:
+- Base models: MLP, LightGBM, Logistic Regression, SVM, Random Forest
+- Final (meta) model: Logistic Regression (it combines the base models' predictions)
+
+## Automation (keeping it up to date)
+This repo includes a scheduled GitHub Action:
+- `.github/workflows/update-upcoming-and-predictions.yml`
+
+Every ~24 hours, it fetches the newest upcoming event, runs `predict_event_fights.py`, and commits updated `events/` and `predictions/` so the UI stays fresh.
+
+## Limitations
+- This is a statistical model, not a guarantee—fight outcomes can hinge on injuries, styles, and matchup-specific variables that won’t always be captured perfectly.
+- Scraping is sourced from UFC Stats; if data is missing or incomplete for a fighter, the feature transformer may produce sparse features.
