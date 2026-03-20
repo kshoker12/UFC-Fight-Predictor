@@ -34,17 +34,66 @@ st.set_page_config(
 
 st.markdown(
     """
-    <meta property="og:title" content="UFC Fight Predictor" />
-    <meta property="og:description" content="Predict UFC fights with a stacking classifier model trained on historical UFC bouts (powered by UFC Stats data)." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://ufc-fight-predictor-ks.streamlit.app/" />
-    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" />
+    <script>
+      (function () {
+        var OG_TITLE = "UFC Fight Predictor";
+        var OG_DESCRIPTION = "Predict UFC fights with a stacking classifier model trained on historical UFC bouts (powered by UFC Stats data).";
+        var OG_URL = "https://ufc-fight-predictor-ks.streamlit.app/";
+        var OG_IMAGE = "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png";
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="UFC Fight Predictor" />
-    <meta name="twitter:description" content="Predict UFC fights with a stacking classifier model trained on historical UFC bouts (powered by UFC Stats data)." />
-    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" />
-    <link rel="canonical" href="https://ufc-fight-predictor-ks.streamlit.app/" />
+        // Ensure the page has a title even if the initial HTML is minimal.
+        document.title = "UFC Fight Predictor - Fight Outcomes";
+
+        function upsertMetaByProperty(property, content) {
+          var sel = 'meta[property="' + property + '"]';
+          var tag = document.head.querySelector(sel);
+          if (!tag) {
+            tag = document.createElement("meta");
+            tag.setAttribute("property", property);
+            document.head.appendChild(tag);
+          }
+          tag.setAttribute("content", content);
+        }
+
+        function upsertMetaByName(name, content) {
+          var sel = 'meta[name="' + name + '"]';
+          var tag = document.head.querySelector(sel);
+          if (!tag) {
+            tag = document.createElement("meta");
+            tag.setAttribute("name", name);
+            document.head.appendChild(tag);
+          }
+          tag.setAttribute("content", content);
+        }
+
+        function upsertLinkCanonical(href) {
+          var sel = 'link[rel="canonical"]';
+          var link = document.head.querySelector(sel);
+          if (!link) {
+            link = document.createElement("link");
+            link.setAttribute("rel", "canonical");
+            document.head.appendChild(link);
+          }
+          link.setAttribute("href", href);
+        }
+
+        // Open Graph
+        upsertMetaByProperty("og:title", OG_TITLE);
+        upsertMetaByProperty("og:description", OG_DESCRIPTION);
+        upsertMetaByProperty("og:type", "website");
+        upsertMetaByProperty("og:url", OG_URL);
+        upsertMetaByProperty("og:image", OG_IMAGE);
+
+        // Twitter cards
+        upsertMetaByName("twitter:card", "summary_large_image");
+        upsertMetaByName("twitter:title", OG_TITLE);
+        upsertMetaByName("twitter:description", OG_DESCRIPTION);
+        upsertMetaByName("twitter:image", OG_IMAGE);
+
+        // Canonical
+        upsertLinkCanonical(OG_URL);
+      })();
+    </script>
     """,
     unsafe_allow_html=True,
 )
