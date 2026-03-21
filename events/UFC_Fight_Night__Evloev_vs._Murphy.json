@@ -336,9 +336,9 @@
                 "name": "Danny Silva",
                 "dataset": [
                     {
-                        "height": 71,
+                        "height": 67,
                         "weight": 145.0,
-                        "reach": 70.0,
+                        "reach": 69.0,
                         "stance": "Switch",
                         "dob": "Jan 30, 1997",
                         "wins": 10,
@@ -396,7 +396,7 @@
                 "name": "Axel Sola",
                 "dataset": [
                     {
-                        "height": 74,
+                        "height": 72,
                         "weight": 155.0,
                         "reach": 74.0,
                         "stance": "Southpaw",
@@ -782,66 +782,6 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Shanelle Dyer",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Melissa Mullins",
-                "dataset": [
-                    {
-                        "height": 67,
-                        "weight": 135.0,
-                        "reach": 68.0,
-                        "stance": "Orthodox",
-                        "dob": "Jul 23, 1991",
-                        "wins": 7,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 3.71,
-                        "career_str_acc": 50.0,
-                        "career_sapm": 4.39,
-                        "career_str_def": 52.0,
-                        "career_td_avg": 2.03,
-                        "career_td_acc": 42.0,
-                        "career_td_def": 85.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.5,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Luana Carolina",
-                "dataset": [
-                    {
-                        "height": 66,
-                        "weight": 135.0,
-                        "reach": 69.0,
-                        "stance": "Orthodox",
-                        "dob": "Jun 11, 1993",
-                        "wins": 11,
-                        "losses": 5,
-                        "draws": 0,
-                        "career_splm": 4.65,
-                        "career_str_acc": 51.0,
-                        "career_sapm": 3.46,
-                        "career_str_def": 51.0,
-                        "career_td_avg": 0.3,
-                        "career_td_acc": 37.0,
-                        "career_td_def": 68.0,
-                        "career_sub_avg": 0.6,
-                        "ko_rate": 0.1429,
-                        "sub_rate": 0.0,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "bantamweight",
-            "title_fight": 0,
-            "fight_description": "Melissa Mullins",
             "winner": null
         }
     ]
