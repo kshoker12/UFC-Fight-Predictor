@@ -62,7 +62,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Movsar Evloev",
-            "winner": null
+            "winner": "Movsar Evloev"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Luke Riley",
-            "winner": null
+            "winner": "Luke Riley"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Michael Page",
-            "winner": null
+            "winner": "Michael Page"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Iwo Baraniewski",
-            "winner": null
+            "winner": "Iwo Baraniewski"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Roman Dolidze",
-            "winner": null
+            "winner": "Christian Leroy Duncan"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Kurtis Campbell",
-            "winner": null
+            "winner": "Danny Silva"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Mason Jones",
-            "winner": null
+            "winner": "Mason Jones"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Nathaniel Wood",
-            "winner": null
+            "winner": "Nathaniel Wood"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Mario Pinto",
-            "winner": null
+            "winner": "Mario Pinto"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Mantas Kondratavicius",
-            "winner": null
+            "winner": "Mantas Kondratavicius"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Louie Sutherland",
-            "winner": null
+            "winner": "Brando Pericic"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Shem Rock",
-            "winner": null
+            "winner": "Abdul-Kareem Al-Selwady"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Shanelle Dyer",
-            "winner": null
+            "winner": "Shanelle Dyer"
         }
     ]
 }
