@@ -34,6 +34,7 @@ jobs:
         run: |
           set -euo pipefail
 
+          python update_event_winners.py
           python query_data.py
 
           NEW_EVENT_JSON="$(ls -t events/*.json 2>/dev/null | head -n 1 || true)"
@@ -58,7 +59,6 @@ jobs:
           rm -f transformed_data_before_predictions.xlsx || true
 
       - name: Commit & push (if any changes)
-        if: steps.fetch.outputs.skip != 'true'
         shell: bash
         run: |
           set -euo pipefail
