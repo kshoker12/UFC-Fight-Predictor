@@ -153,28 +153,28 @@
                 ]
             },
             "fighter_b": {
-                "name": "Carlston Harris",
+                "name": "Niko Price",
                 "dataset": [
                     {
                         "height": 72,
                         "weight": 170.0,
                         "reach": 76.0,
                         "stance": "Orthodox",
-                        "dob": "Jul 09, 1987",
-                        "wins": 19,
-                        "losses": 7,
+                        "dob": "Sep 29, 1989",
+                        "wins": 16,
+                        "losses": 10,
                         "draws": 0,
-                        "career_splm": 3.79,
+                        "career_splm": 5.13,
                         "career_str_acc": 43.0,
-                        "career_sapm": 3.46,
-                        "career_str_def": 54.0,
-                        "career_td_avg": 1.46,
-                        "career_td_acc": 22.0,
-                        "career_td_def": 55.0,
+                        "career_sapm": 5.61,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.98,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 50.0,
                         "career_sub_avg": 0.6,
-                        "ko_rate": 0.25,
-                        "sub_rate": 0.5,
-                        "momentum": 1,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.25,
+                        "momentum": 0,
                         "result": "win"
                     }
                 ]
@@ -782,66 +782,6 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Alexia Thainara",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Zhu Kangjie",
-                "dataset": [
-                    {
-                        "height": 68,
-                        "weight": 145.0,
-                        "reach": 70.0,
-                        "stance": "Orthodox",
-                        "dob": "Jan 16, 1996",
-                        "wins": 21,
-                        "losses": 4,
-                        "draws": 0,
-                        "career_splm": 2.89,
-                        "career_str_acc": 48.0,
-                        "career_sapm": 1.33,
-                        "career_str_def": 70.0,
-                        "career_td_avg": 0.33,
-                        "career_td_acc": 100.0,
-                        "career_td_def": 51.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 3,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Marcio Barbosa",
-                "dataset": [
-                    {
-                        "height": 66,
-                        "weight": 145.0,
-                        "reach": 70.0,
-                        "stance": "Orthodox",
-                        "dob": "May 22, 1998",
-                        "wins": 17,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 8.27,
-                        "career_str_acc": 47.0,
-                        "career_sapm": 7.56,
-                        "career_str_def": 50.0,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": 100.0,
-                        "career_sub_avg": null,
-                        "ko_rate": 1.0,
-                        "sub_rate": 0.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "featherweight",
-            "title_fight": 0,
-            "fight_description": "Zhu Kangjie",
             "winner": null
         }
     ]
