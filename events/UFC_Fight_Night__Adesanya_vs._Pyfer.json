@@ -516,9 +516,9 @@
                 "name": "Tyrell Fortune",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 72,
                         "weight": 259.0,
-                        "reach": null,
+                        "reach": 75.0,
                         "stance": "Orthodox",
                         "dob": "Jul 04, 1990",
                         "wins": 17,
