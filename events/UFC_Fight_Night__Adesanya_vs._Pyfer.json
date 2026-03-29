@@ -62,7 +62,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Israel Adesanya",
-            "winner": null
+            "winner": "Joe Pyfer"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Alexa Grasso",
-            "winner": null
+            "winner": "Alexa Grasso"
         },
         {
             "fighter_a": {
