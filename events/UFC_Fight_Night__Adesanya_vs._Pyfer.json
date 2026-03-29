@@ -182,7 +182,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Michael Chiesa",
-            "winner": null
+            "winner": "Michael Chiesa"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Julian Erosa",
-            "winner": null
+            "winner": "Lerryan Douglas"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Mansur Abdul-Malik",
-            "winner": null
+            "winner": "Yousri Belgaroui"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Terrance McKinney",
-            "winner": null
+            "winner": "Terrance McKinney"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Ignacio Bahamondes",
-            "winner": null
+            "winner": "Tofiq Musayev"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Chase Hooper",
-            "winner": null
+            "winner": "Lance Gibson Jr."
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Marcin Tybura",
-            "winner": null
+            "winner": "Tyrell Fortune"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Casey O'Neill",
-            "winner": null
+            "winner": "Casey O'Neill"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Navajo Stirling",
-            "winner": null
+            "winner": "Navajo Stirling"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Ricky Simon",
-            "winner": null
+            "winner": "Draw"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Alexia Thainara",
-            "winner": null
+            "winner": "Alexia Thainara"
         }
     ]
 }
