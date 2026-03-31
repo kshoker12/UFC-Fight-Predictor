@@ -306,66 +306,6 @@
         },
         {
             "fighter_a": {
-                "name": "Charles Radtke",
-                "dataset": [
-                    {
-                        "height": 69,
-                        "weight": 170.0,
-                        "reach": 72.0,
-                        "stance": "Orthodox",
-                        "dob": "Jul 09, 1990",
-                        "wins": 11,
-                        "losses": 5,
-                        "draws": 0,
-                        "career_splm": 2.8,
-                        "career_str_acc": 54.0,
-                        "career_sapm": 2.63,
-                        "career_str_def": 54.0,
-                        "career_td_avg": 1.32,
-                        "career_td_acc": 30.0,
-                        "career_td_def": 100.0,
-                        "career_sub_avg": 0.7,
-                        "ko_rate": 0.5,
-                        "sub_rate": 0.25,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Jose Henrique",
-                "dataset": [
-                    {
-                        "height": 75,
-                        "weight": 170.0,
-                        "reach": 79.0,
-                        "stance": "Orthodox",
-                        "dob": "May 23, 2002",
-                        "wins": 8,
-                        "losses": 1,
-                        "draws": 0,
-                        "career_splm": 3.45,
-                        "career_str_acc": 43.0,
-                        "career_sapm": 5.79,
-                        "career_str_def": 38.0,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": null,
-                        "career_sub_avg": null,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "welterweight",
-            "title_fight": 0,
-            "fight_description": "Charles Radtke",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Guilherme Pat",
                 "dataset": [
                     {
