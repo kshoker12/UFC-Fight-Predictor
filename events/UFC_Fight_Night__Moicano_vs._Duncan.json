@@ -306,66 +306,6 @@
         },
         {
             "fighter_a": {
-                "name": "Guilherme Pat",
-                "dataset": [
-                    {
-                        "height": 78,
-                        "weight": 265.0,
-                        "reach": 81.0,
-                        "stance": "Orthodox",
-                        "dob": "Apr 20, 1994",
-                        "wins": 6,
-                        "losses": 0,
-                        "draws": 0,
-                        "career_splm": 4.27,
-                        "career_str_acc": 64.0,
-                        "career_sapm": 2.2,
-                        "career_str_def": 61.0,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": null,
-                        "career_sub_avg": null,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Thomas Petersen",
-                "dataset": [
-                    {
-                        "height": 73,
-                        "weight": 250.0,
-                        "reach": 74.0,
-                        "stance": "Southpaw",
-                        "dob": "Mar 30, 1995",
-                        "wins": 10,
-                        "losses": 4,
-                        "draws": 0,
-                        "career_splm": 3.38,
-                        "career_str_acc": 58.0,
-                        "career_sapm": 2.95,
-                        "career_str_def": 55.0,
-                        "career_td_avg": 3.71,
-                        "career_td_acc": 50.0,
-                        "career_td_def": 87.0,
-                        "career_sub_avg": 0.5,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.3333,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "heavyweight",
-            "title_fight": 0,
-            "fight_description": "Guilherme Pat",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Jose Delano",
                 "dataset": [
                     {
@@ -422,6 +362,66 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Jose Delano",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Guilherme Pat",
+                "dataset": [
+                    {
+                        "height": 78,
+                        "weight": 265.0,
+                        "reach": 81.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 20, 1994",
+                        "wins": 6,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 4.27,
+                        "career_str_acc": 64.0,
+                        "career_sapm": 2.2,
+                        "career_str_def": 61.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Thomas Petersen",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 250.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 30, 1995",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.38,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 2.95,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 3.71,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Guilherme Pat",
             "winner": null
         },
         {
@@ -722,6 +722,66 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Dione Barbosa",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Kai Kamaka III",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 05, 1995",
+                        "wins": 17,
+                        "losses": 7,
+                        "draws": 1,
+                        "career_splm": 4.96,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 5.29,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.93,
+                        "career_td_acc": 58.0,
+                        "career_td_def": 52.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Dakota Hope",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "",
+                        "dob": "Jan 29, 1997",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Kai Kamaka III",
             "winner": null
         }
     ]
