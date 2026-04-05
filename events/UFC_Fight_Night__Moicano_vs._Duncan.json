@@ -182,7 +182,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Abdul Rakhman Yakhyaev",
-            "winner": null
+            "winner": "Abdul Rakhman Yakhyaev"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Ethyn Ewing",
-            "winner": null
+            "winner": "Ethyn Ewing"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Tommy McMillen",
-            "winner": null
+            "winner": "Tommy McMillen"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Jose Delano",
-            "winner": null
+            "winner": "Jose Delano"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Guilherme Pat",
-            "winner": null
+            "winner": "Thomas Petersen"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Alessandro Costa",
-            "winner": null
+            "winner": "Alessandro Costa"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Lando Vannata",
-            "winner": null
+            "winner": "Darrius Flowers"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Alice Pereira",
-            "winner": null
+            "winner": "Alice Pereira"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Azamat Bekoev",
-            "winner": null
+            "winner": "Tresean Gore"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Dione Barbosa",
-            "winner": null
+            "winner": "Dione Barbosa"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Kai Kamaka III",
-            "winner": null
+            "winner": "Kai Kamaka III"
         }
     ]
 }
