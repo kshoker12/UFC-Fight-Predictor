@@ -62,7 +62,7 @@
             "division": "light heavyweight",
             "title_fight": 1,
             "fight_description": "Jiri Prochazka",
-            "winner": null
+            "winner": "Carlos Ulberg"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Azamat Murzakanov",
-            "winner": null
+            "winner": "Paulo Costa"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Curtis Blaydes",
-            "winner": null
+            "winner": "Josh Hokit"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Dominick Reyes",
-            "winner": null
+            "winner": "Dominick Reyes"
         },
         {
             "fighter_a": {
