@@ -302,7 +302,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Cub Swanson",
-            "winner": null
+            "winner": "Cub Swanson"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Patricio Pitbull",
-            "winner": null
+            "winner": "Aaron Pico"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Kevin Holland",
-            "winner": null
+            "winner": "Kevin Holland"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Mateusz Gamrot",
-            "winner": null
+            "winner": "Mateusz Gamrot"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Tatiana Suarez",
-            "winner": null
+            "winner": "Tatiana Suarez"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Chris Padilla",
-            "winner": null
+            "winner": "Draw"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Kelvin Gastelum",
-            "winner": null
+            "winner": "Vicente Luque"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Charles Radtke",
-            "winner": null
+            "winner": "Charles Radtke"
         }
     ]
 }
