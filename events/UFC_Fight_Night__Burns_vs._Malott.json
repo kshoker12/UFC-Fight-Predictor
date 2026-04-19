@@ -122,7 +122,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Kyler Phillips",
-            "winner": null
+            "winner": "Charles Jourdain"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Mandel Nallo",
-            "winner": null
+            "winner": "Jai Herbert"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Jasmine Jasudavicius",
-            "winner": null
+            "winner": "Jasmine Jasudavicius"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Thiago Moises",
-            "winner": null
+            "winner": "Gauge Young"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Dennis Buzukja",
-            "winner": null
+            "winner": "Marcio Barbosa"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Julien Leblanc",
-            "winner": null
+            "winner": "Robert Valentin"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Tanner Boser",
-            "winner": null
+            "winner": "Gokhan Saricam"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Melissa Croden",
-            "winner": null
+            "winner": "Melissa Croden"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "JJ Aldrich",
-            "winner": null
+            "winner": "JJ Aldrich"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "unknown",
             "title_fight": 0,
             "fight_description": "John Castaneda",
-            "winner": null
+            "winner": "Draw"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Jamie Siraj",
-            "winner": null
+            "winner": "John Yannis"
         }
     ]
 }
