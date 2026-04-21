@@ -213,7 +213,7 @@
                 ]
             },
             "fighter_b": {
-                "name": "Juan Adrian Martinetti",
+                "name": "Adrian Luna Martinetti",
                 "dataset": [
                     {
                         "height": 68,
@@ -573,28 +573,28 @@
                 ]
             },
             "fighter_b": {
-                "name": "Lucas Rocha",
+                "name": "Cody Durden",
                 "dataset": [
                     {
-                        "height": 63,
+                        "height": 67,
                         "weight": 125.0,
-                        "reach": 64.0,
-                        "stance": "Orthodox",
-                        "dob": "Aug 12, 2000",
-                        "wins": 18,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 5.09,
-                        "career_str_acc": 49.0,
-                        "career_sapm": 3.67,
-                        "career_str_def": 56.0,
-                        "career_td_avg": 1.64,
-                        "career_td_acc": 75.0,
-                        "career_td_def": 76.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.5,
-                        "sub_rate": 0.0,
-                        "momentum": 2,
+                        "reach": 67.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 29, 1991",
+                        "wins": 17,
+                        "losses": 10,
+                        "draws": 1,
+                        "career_splm": 3.34,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 4.19,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 3.89,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 60.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.1667,
+                        "momentum": 0,
                         "result": "win"
                     }
                 ]
@@ -602,6 +602,126 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Jafel Filho",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Francis Marshall",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 03, 1999",
+                        "wins": 9,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.39,
+                        "career_str_acc": 33.0,
+                        "career_sapm": 4.03,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 2.86,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.25,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Lucas Brennan",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "",
+                        "dob": "Jun 03, 2000",
+                        "wins": 11,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Francis Marshall",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Max Griffin",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 29, 1985",
+                        "wins": 20,
+                        "losses": 12,
+                        "draws": 0,
+                        "career_splm": 3.76,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 3.7,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 1.28,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Victor Valenzuela",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 170.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 09, 1994",
+                        "wins": 13,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.36,
+                        "career_str_acc": 33.0,
+                        "career_sapm": 8.4,
+                        "career_str_def": 48.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Max Griffin",
             "winner": null
         },
         {
