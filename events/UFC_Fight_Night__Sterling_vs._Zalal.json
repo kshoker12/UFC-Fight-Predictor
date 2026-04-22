@@ -636,10 +636,10 @@
                 "name": "Lucas Brennan",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 70,
                         "weight": 155.0,
-                        "reach": null,
-                        "stance": "",
+                        "reach": 71.0,
+                        "stance": "Southpaw",
                         "dob": "Jun 03, 2000",
                         "wins": 11,
                         "losses": 2,
