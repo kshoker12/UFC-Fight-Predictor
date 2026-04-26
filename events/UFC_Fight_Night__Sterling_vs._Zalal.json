@@ -182,7 +182,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Rafa Garcia",
-            "winner": null
+            "winner": "Rafa Garcia"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Davey Grant",
-            "winner": null
+            "winner": "Davey Grant"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Montel Jackson",
-            "winner": null
+            "winner": "Raoni Barcelos"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Marcus Buchecha",
-            "winner": null
+            "winner": "Ryan Spann"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Rodolfo Vieira",
-            "winner": null
+            "winner": "Eric McConico"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Jackson McVey",
-            "winner": null
+            "winner": "Jackson McVey"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Mayra Bueno Silva",
-            "winner": null
+            "winner": "Michelle Montague"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Jafel Filho",
-            "winner": null
+            "winner": "Cody Durden"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Francis Marshall",
-            "winner": null
+            "winner": "Francis Marshall"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Max Griffin",
-            "winner": null
+            "winner": "Victor Valenzuela"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Talita Alencar",
-            "winner": null
+            "winner": "Talita Alencar"
         }
     ]
 }
