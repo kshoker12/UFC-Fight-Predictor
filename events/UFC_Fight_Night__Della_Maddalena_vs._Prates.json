@@ -186,6 +186,66 @@
         },
         {
             "fighter_a": {
+                "name": "Marwan Rahiki",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "May 10, 2002",
+                        "wins": 8,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 7.73,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 6.33,
+                        "career_str_def": 56.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ollie Schmid",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 145.0,
+                        "reach": null,
+                        "stance": "",
+                        "dob": "Dec 28, 2000",
+                        "wins": 4,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Marwan Rahiki",
+            "winner": null
+        },
+        {
+            "fighter_a": {
                 "name": "Shamil Gaziev",
                 "dataset": [
                     {
