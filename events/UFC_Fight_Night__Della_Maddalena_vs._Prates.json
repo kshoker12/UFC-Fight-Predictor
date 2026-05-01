@@ -216,9 +216,9 @@
                 "name": "Ollie Schmid",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 72,
                         "weight": 145.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Orthodox",
                         "dob": "Dec 28, 2000",
                         "wins": 4,
@@ -609,9 +609,9 @@
                 "name": "Ben Johnston",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 76,
                         "weight": 185.0,
-                        "reach": null,
+                        "reach": 76.0,
                         "stance": "Orthodox",
                         "dob": "Oct 11, 1990",
                         "wins": 5,
