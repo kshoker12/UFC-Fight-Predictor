@@ -62,7 +62,7 @@
             "division": "middleweight",
             "title_fight": 1,
             "fight_description": "Khamzat Chimaev",
-            "winner": null
+            "winner": "Sean Strickland"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "flyweight",
             "title_fight": 1,
             "fight_description": "Joshua Van",
-            "winner": null
+            "winner": "Joshua Van"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Alexander Volkov",
-            "winner": null
+            "winner": "Alexander Volkov"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Sean Brady",
-            "winner": null
+            "winner": "Sean Brady"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "King Green",
-            "winner": null
+            "winner": "King Green"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Ateba Gautier",
-            "winner": null
+            "winner": "Ateba Gautier"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Joel Alvarez",
-            "winner": null
+            "winner": "Yaroslav Amosov"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Grant Dawson",
-            "winner": null
+            "winner": "Grant Dawson"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Jim Miller",
-            "winner": null
+            "winner": "Jim Miller"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Roman Kopylov",
-            "winner": null
+            "winner": "Roman Kopylov"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Pat Sabatini",
-            "winner": null
+            "winner": "Pat Sabatini"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Baisangur Susurkaev",
-            "winner": null
+            "winner": "Baisangur Susurkaev"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Clayton Carpenter",
-            "winner": null
+            "winner": "Jose Ochoa"
         }
     ]
 }
