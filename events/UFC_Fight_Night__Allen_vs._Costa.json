@@ -213,33 +213,33 @@
                 ]
             },
             "fighter_b": {
-                "name": "Rodolfo Bellato",
+                "name": "Christian Edwards",
                 "dataset": [
                     {
-                        "height": 75,
+                        "height": null,
                         "weight": 205.0,
-                        "reach": 75.0,
-                        "stance": "Orthodox",
-                        "dob": "Feb 05, 1996",
-                        "wins": 13,
-                        "losses": 3,
-                        "draws": 1,
-                        "career_splm": 5.37,
-                        "career_str_acc": 60.0,
-                        "career_sapm": 5.86,
-                        "career_str_def": 46.0,
-                        "career_td_avg": 1.38,
-                        "career_td_acc": 35.0,
-                        "career_td_def": 94.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 1.0,
+                        "reach": null,
+                        "stance": "",
+                        "dob": "Nov 05, 1998",
+                        "wins": 8,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
                         "sub_rate": 0.0,
-                        "momentum": 1,
+                        "momentum": null,
                         "result": "win"
                     }
                 ]
             },
-            "division": "light heavyweight",
+            "division": "unknown",
             "title_fight": 0,
             "fight_description": "Modestas Bukauskas",
             "winner": null
@@ -422,6 +422,66 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Tuco Tokkos",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Tommy Gantt",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 09, 1993",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 1.08,
+                        "career_str_acc": 100.0,
+                        "career_sapm": 0.36,
+                        "career_str_def": 66.0,
+                        "career_td_avg": 10.78,
+                        "career_td_acc": 40.0,
+                        "career_td_def": null,
+                        "career_sub_avg": 5.4,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Artur Minev",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "",
+                        "dob": "--",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Tommy Gantt",
             "winner": null
         },
         {
