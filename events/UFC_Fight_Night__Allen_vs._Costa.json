@@ -216,10 +216,10 @@
                 "name": "Christian Edwards",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 77,
                         "weight": 205.0,
-                        "reach": null,
-                        "stance": "",
+                        "reach": 78.0,
+                        "stance": "Southpaw",
                         "dob": "Nov 05, 1998",
                         "wins": 8,
                         "losses": 4,
@@ -456,11 +456,11 @@
                 "name": "Artur Minev",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 69,
                         "weight": 155.0,
-                        "reach": null,
-                        "stance": "",
-                        "dob": "--",
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 27, 2003",
                         "wins": 7,
                         "losses": 0,
                         "draws": 0,
