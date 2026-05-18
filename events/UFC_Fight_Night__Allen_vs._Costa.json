@@ -62,7 +62,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Arnold Allen",
-            "winner": null
+            "winner": "Arnold Allen"
         },
         {
             "fighter_a": {
