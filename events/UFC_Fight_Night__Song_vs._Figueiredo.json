@@ -366,13 +366,13 @@
         },
         {
             "fighter_a": {
-                "name": "Yi Sak Lee",
+                "name": "YiSak Lee",
                 "dataset": [
                     {
                         "height": null,
                         "weight": 185.0,
                         "reach": null,
-                        "stance": "",
+                        "stance": "Orthodox",
                         "dob": "Jan 01, 2000",
                         "wins": 8,
                         "losses": 1,
@@ -421,7 +421,7 @@
             },
             "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Yi Sak Lee",
+            "fight_description": "YiSak Lee",
             "winner": null
         },
         {
@@ -434,7 +434,7 @@
                         "reach": 73.0,
                         "stance": "Orthodox",
                         "dob": "Sep 27, 1994",
-                        "wins": 34,
+                        "wins": 35,
                         "losses": 9,
                         "draws": 0,
                         "career_splm": 3.4,
@@ -639,7 +639,7 @@
                         "height": null,
                         "weight": 115.0,
                         "reach": null,
-                        "stance": "",
+                        "stance": "Switch",
                         "dob": "Jan 12, 1988",
                         "wins": 19,
                         "losses": 2,
