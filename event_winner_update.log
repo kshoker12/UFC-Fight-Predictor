@@ -1,0 +1,7 @@
+2026-06-13 01:38:53,033 INFO Updating winners for UFC_Fight_Night__Royval_vs._Kape.json
+2026-06-13 01:38:53,668 INFO Updated event=UFC Fight Night: Royval vs. Kape updated_fights=7 missing_matches=2
+2026-06-13 01:38:53,668 INFO Updating winners for UFC_Fight_Night__Song_vs._Figueiredo.json
+2026-06-13 01:38:53,939 INFO Updated event=UFC Fight Night: Song vs. Figueiredo updated_fights=9 missing_matches=4
+2026-06-13 01:38:53,941 INFO Updating winners for UFC_Freedom_250.json
+2026-06-13 01:38:54,148 INFO Updated event=UFC Freedom 250 updated_fights=0 missing_matches=0
+2026-06-13 01:38:54,149 INFO Done. processed=30 updated_events=3 skipped_complete=27 max_events=0

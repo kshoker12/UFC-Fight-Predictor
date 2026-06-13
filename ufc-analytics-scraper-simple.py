@@ -7,18 +7,72 @@ This scraper only extracts the essential data needed for fight predictions:
 - Match-specific data (title_fight, division, event info)
 """
 
+import hashlib
+import re
+import time as sleeptime
+from urllib.parse import urlparse
+
 import requests
 from bs4 import BeautifulSoup
 from difflib import get_close_matches
-import time as sleeptime
-import re
+
+_UFCSTATS_SESSION = None
+_UFCSTATS_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
+
+
+def _get_ufcstats_session() -> requests.Session:
+    global _UFCSTATS_SESSION
+    if _UFCSTATS_SESSION is None:
+        _UFCSTATS_SESSION = requests.Session()
+        _UFCSTATS_SESSION.headers.update({"User-Agent": _UFCSTATS_USER_AGENT})
+    return _UFCSTATS_SESSION
+
+
+def _solve_ufcstats_challenge(html: str):
+    """Solve ufcstats.com proof-of-work gate (sha256 prefix match)."""
+    match = re.search(r'var nonce="([^"]+)"', html)
+    if not match:
+        return None
+    nonce = match.group(1)
+    target = "00"  # matches site's JS: new Array(2 + 1).join('0')
+    n = 0
+    while True:
+        digest = hashlib.sha256(f"{nonce}:{n}".encode()).hexdigest()
+        if digest.startswith(target):
+            return nonce, n
+        n += 1
+
+
+def _ufcstats_get(url: str, **kwargs) -> requests.Response:
+    """
+    GET ufcstats.com with shared session cookies.
+
+    The site now serves a short-lived PoW challenge to non-browser clients.
+    We solve it once per session, then reuse the `_fmc` cookie for later requests.
+    """
+    session = _get_ufcstats_session()
+    kwargs.setdefault("timeout", 30)
+    response = session.get(url, **kwargs)
+    if "Checking your browser" in response.text or 'var nonce="' in response.text:
+        solved = _solve_ufcstats_challenge(response.text)
+        if solved is not None:
+            nonce, n = solved
+            parsed = urlparse(url)
+            base = f"{parsed.scheme}://{parsed.netloc}"
+            session.post(f"{base}/__c", data={"nonce": nonce, "n": str(n)}, timeout=30)
+            response = session.get(url, **kwargs)
+    response.raise_for_status()
+    return response
 
 
 def search_fighter_by_name_part(query):
     """Search for fighters by name part."""
     url = "http://ufcstats.com/statistics/fighters/search"
     params = {"query": query}
-    response = requests.get(url, params=params, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(url, params=params)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table', class_='b-statistics__table')
@@ -152,7 +206,7 @@ def extract_fighter_profile(fighter_url):
     - career_sub_avg: Submission Average per 15 min
     """
     print(f"  Fetching fighter profile from: {fighter_url}")
-    response = requests.get(fighter_url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(fighter_url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -270,7 +324,7 @@ def extract_fighter_record(fighter_url):
     
     Returns tuple (wins, losses, draws)
     """
-    response = requests.get(fighter_url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(fighter_url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -327,7 +381,7 @@ def count_ufc_fights(fighter_url):
     
     Returns the number of completed UFC fights (excluding upcoming fights).
     """
-    response = requests.get(fighter_url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(fighter_url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -362,7 +416,7 @@ def extract_fighter_finish_rates(fighter_url):
     - total_fights: Total number of completed fights
     - total_wins: Total number of wins
     """
-    response = requests.get(fighter_url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(fighter_url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -438,7 +492,7 @@ def get_specific_fighter_momentum(fighter_url):
     Returns:
     - Number of wins in last 3 fights (0-3), or None if fighter has less than 3 fights
     """
-    response = requests.get(fighter_url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(fighter_url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -545,7 +599,7 @@ def get_fighter_data_from_url(fighter_url, fighter_name=None):
     # Extract name from page if not provided
     if not fighter_name:
         try:
-            response = requests.get(fighter_url, headers={'User-Agent': 'Mozilla/5.0'})
+            response = _ufcstats_get(fighter_url)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             header = soup.find('h2', class_='b-content__title')
@@ -647,7 +701,7 @@ def get_fighter_data(fighter_name):
 def get_upcoming_events():
     """Get list of upcoming UFC events."""
     url = "http://ufcstats.com/statistics/events/upcoming"
-    response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -675,7 +729,7 @@ def get_upcoming_events():
 def get_past_events():
     """Get list of past/completed UFC events."""
     url = "http://ufcstats.com/statistics/events/completed"
-    response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -734,7 +788,7 @@ def get_event_fights(event_url):
     """
     print(f"\nExtracting fight data from event page...")
     print(f"Event URL: {event_url}")
-    response = requests.get(event_url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(event_url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
@@ -902,7 +956,7 @@ def get_event_data(event_url):
     print("=" * 80)
     print(f"Event URL: {event_url}")
     
-    response = requests.get(event_url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = _ufcstats_get(event_url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
