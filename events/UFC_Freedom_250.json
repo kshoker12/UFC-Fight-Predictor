@@ -182,7 +182,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Sean O'Malley",
-            "winner": null
+            "winner": "Sean O'Malley"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Josh Hokit",
-            "winner": null
+            "winner": "Josh Hokit"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Mauricio Ruffy",
-            "winner": null
+            "winner": "Mauricio Ruffy"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Bo Nickal",
-            "winner": null
+            "winner": "Bo Nickal"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Diego Lopes",
-            "winner": null
+            "winner": "Diego Lopes"
         }
     ]
 }
