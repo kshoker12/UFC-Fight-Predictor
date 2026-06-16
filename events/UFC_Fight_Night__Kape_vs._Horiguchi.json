@@ -426,66 +426,6 @@
         },
         {
             "fighter_a": {
-                "name": "Jhonata Diniz",
-                "dataset": [
-                    {
-                        "height": 76,
-                        "weight": 254.0,
-                        "reach": 79.0,
-                        "stance": "Orthodox",
-                        "dob": "Jun 23, 1991",
-                        "wins": 9,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 3.89,
-                        "career_str_acc": 56.0,
-                        "career_sapm": 3.62,
-                        "career_str_def": 56.0,
-                        "career_td_avg": 0.0,
-                        "career_td_acc": 0.0,
-                        "career_td_def": 70.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.5,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Jose Montanha",
-                "dataset": [
-                    {
-                        "height": null,
-                        "weight": 265.0,
-                        "reach": null,
-                        "stance": "",
-                        "dob": "Aug 25, 1996",
-                        "wins": 6,
-                        "losses": 1,
-                        "draws": 0,
-                        "career_splm": null,
-                        "career_str_acc": null,
-                        "career_sapm": null,
-                        "career_str_def": null,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": null,
-                        "career_sub_avg": null,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "heavyweight",
-            "title_fight": 0,
-            "fight_description": "Jhonata Diniz",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Allan Nascimento",
                 "dataset": [
                     {

@@ -62,7 +62,7 @@
             "division": "lightweight",
             "title_fight": 1,
             "fight_description": "Ilia Topuria",
-            "winner": null
+            "winner": "Justin Gaethje"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "heavyweight",
             "title_fight": 1,
             "fight_description": "Alex Pereira",
-            "winner": null
+            "winner": "Ciryl Gane"
         },
         {
             "fighter_a": {
