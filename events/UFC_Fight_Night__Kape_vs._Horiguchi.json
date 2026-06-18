@@ -126,66 +126,6 @@
         },
         {
             "fighter_a": {
-                "name": "Vinicius Oliveira",
-                "dataset": [
-                    {
-                        "height": 69,
-                        "weight": 145.0,
-                        "reach": 70.0,
-                        "stance": "Switch",
-                        "dob": "Nov 30, 1995",
-                        "wins": 23,
-                        "losses": 4,
-                        "draws": 0,
-                        "career_splm": 4.73,
-                        "career_str_acc": 43.0,
-                        "career_sapm": 2.7,
-                        "career_str_def": 57.0,
-                        "career_td_avg": 1.45,
-                        "career_td_acc": 46.0,
-                        "career_td_def": 70.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 0.4,
-                        "sub_rate": 0.0,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Andre Fili",
-                "dataset": [
-                    {
-                        "height": 71,
-                        "weight": 145.0,
-                        "reach": 74.0,
-                        "stance": "Orthodox",
-                        "dob": "Jun 25, 1990",
-                        "wins": 25,
-                        "losses": 13,
-                        "draws": 0,
-                        "career_splm": 3.88,
-                        "career_str_acc": 37.0,
-                        "career_sapm": 4.34,
-                        "career_str_def": 50.0,
-                        "career_td_avg": 2.32,
-                        "career_td_acc": 46.0,
-                        "career_td_def": 71.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 0.3077,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "featherweight",
-            "title_fight": 0,
-            "fight_description": "Vinicius Oliveira",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Hyder Amil",
                 "dataset": [
                     {
@@ -246,66 +186,6 @@
         },
         {
             "fighter_a": {
-                "name": "Andre Lima",
-                "dataset": [
-                    {
-                        "height": 67,
-                        "weight": 125.0,
-                        "reach": 67.0,
-                        "stance": "Orthodox",
-                        "dob": "Feb 04, 1999",
-                        "wins": 11,
-                        "losses": 0,
-                        "draws": 0,
-                        "career_splm": 4.06,
-                        "career_str_acc": 60.0,
-                        "career_sapm": 2.49,
-                        "career_str_def": 57.0,
-                        "career_td_avg": 1.36,
-                        "career_td_acc": 75.0,
-                        "career_td_def": 75.0,
-                        "career_sub_avg": 1.1,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.2,
-                        "momentum": 3,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Kevin Borjas",
-                "dataset": [
-                    {
-                        "height": 65,
-                        "weight": 125.0,
-                        "reach": 68.0,
-                        "stance": "Orthodox",
-                        "dob": "Dec 06, 1997",
-                        "wins": 10,
-                        "losses": 5,
-                        "draws": 0,
-                        "career_splm": 3.96,
-                        "career_str_acc": 44.0,
-                        "career_sapm": 5.64,
-                        "career_str_def": 49.0,
-                        "career_td_avg": 0.0,
-                        "career_td_acc": 0.0,
-                        "career_td_def": 70.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "flyweight",
-            "title_fight": 0,
-            "fight_description": "Andre Lima",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Melsik Baghdasaryan",
                 "dataset": [
                     {
@@ -362,6 +242,126 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Melsik Baghdasaryan",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Vinicius Oliveira",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Nov 30, 1995",
+                        "wins": 23,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.73,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 2.7,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 1.45,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Andre Fili",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 145.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 25, 1990",
+                        "wins": 25,
+                        "losses": 13,
+                        "draws": 0,
+                        "career_splm": 3.88,
+                        "career_str_acc": 37.0,
+                        "career_sapm": 4.34,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 2.32,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.3077,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Vinicius Oliveira",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Andre Lima",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 04, 1999",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 4.06,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 2.49,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 1.36,
+                        "career_td_acc": 75.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.2,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kevin Borjas",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 06, 1997",
+                        "wins": 10,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.96,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 5.64,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Andre Lima",
             "winner": null
         },
         {
@@ -546,66 +546,6 @@
         },
         {
             "fighter_a": {
-                "name": "Karol Rosa",
-                "dataset": [
-                    {
-                        "height": 65,
-                        "weight": 135.0,
-                        "reach": 67.0,
-                        "stance": "Orthodox",
-                        "dob": "Dec 30, 1994",
-                        "wins": 19,
-                        "losses": 7,
-                        "draws": 0,
-                        "career_splm": 5.88,
-                        "career_str_acc": 56.0,
-                        "career_sapm": 4.59,
-                        "career_str_def": 49.0,
-                        "career_td_avg": 1.17,
-                        "career_td_acc": 48.0,
-                        "career_td_def": 70.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Luana Santos",
-                "dataset": [
-                    {
-                        "height": 66,
-                        "weight": 135.0,
-                        "reach": 67.0,
-                        "stance": "Orthodox",
-                        "dob": "Apr 16, 2000",
-                        "wins": 10,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 2.99,
-                        "career_str_acc": 52.0,
-                        "career_sapm": 2.93,
-                        "career_str_def": 63.0,
-                        "career_td_avg": 2.17,
-                        "career_td_acc": 47.0,
-                        "career_td_def": 85.0,
-                        "career_sub_avg": 1.2,
-                        "ko_rate": 0.2,
-                        "sub_rate": 0.4,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "bantamweight",
-            "title_fight": 0,
-            "fight_description": "Karol Rosa",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Leon Shahbazyan",
                 "dataset": [
                     {
@@ -662,6 +602,66 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Leon Shahbazyan",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Karol Rosa",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 30, 1994",
+                        "wins": 19,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 5.88,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 4.59,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.17,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Luana Santos",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 16, 2000",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.99,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.93,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 2.17,
+                        "career_td_acc": 47.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 1.2,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Karol Rosa",
             "winner": null
         },
         {
