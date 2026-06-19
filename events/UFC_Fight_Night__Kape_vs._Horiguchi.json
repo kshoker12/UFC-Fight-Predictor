@@ -576,9 +576,9 @@
                 "name": "Levan Chokheli",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 72.0,
                         "stance": "Orthodox",
                         "dob": "Oct 02, 1996",
                         "wins": 14,
@@ -669,9 +669,9 @@
                 "name": "Shane Collins",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 69,
                         "weight": 145.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Orthodox",
                         "dob": "Mar 08, 2000",
                         "wins": 7,
@@ -696,7 +696,7 @@
                 "name": "Otari Tanzilovi",
                 "dataset": [
                     {
-                        "height": 70,
+                        "height": 69,
                         "weight": 145.0,
                         "reach": 70.0,
                         "stance": "Orthodox",
