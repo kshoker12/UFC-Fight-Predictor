@@ -62,7 +62,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Manel Kape",
-            "winner": null
+            "winner": "Manel Kape"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Ion Cutelaba",
-            "winner": null
+            "winner": "Navajo Stirling"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Hyder Amil",
-            "winner": null
+            "winner": "Christian Rodriguez"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Melsik Baghdasaryan",
-            "winner": null
+            "winner": "Murtazali Magomedov"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Vinicius Oliveira",
-            "winner": null
+            "winner": "Vinicius Oliveira"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Andre Lima",
-            "winner": null
+            "winner": "Kevin Borjas"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Bia Mesquita",
-            "winner": null
+            "winner": "Bia Mesquita"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Allan Nascimento",
-            "winner": null
+            "winner": "Mitch Raposo"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Gaston Bolanos",
-            "winner": null
+            "winner": "Gaston Bolanos"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Leon Shahbazyan",
-            "winner": null
+            "winner": "Levan Chokheli"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Karol Rosa",
-            "winner": null
+            "winner": "Luana Santos"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Shane Collins",
-            "winner": null
+            "winner": "Shane Collins"
         }
     ]
 }
