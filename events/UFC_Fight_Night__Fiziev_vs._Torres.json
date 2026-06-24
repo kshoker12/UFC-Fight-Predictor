@@ -369,9 +369,9 @@
                 "name": "Farman Hasanov",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 74.0,
                         "stance": "Orthodox",
                         "dob": "Aug 01, 1995",
                         "wins": 5,
@@ -636,9 +636,9 @@
                 "name": "Theodor Berggren",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 75.0,
                         "stance": "Switch",
                         "dob": "Apr 09, 2000",
                         "wins": 8,
@@ -729,9 +729,9 @@
                 "name": "Tahir Abdullayev",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 68,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 73.0,
                         "stance": "Orthodox",
                         "dob": "Feb 02, 1997",
                         "wins": 19,
@@ -756,9 +756,9 @@
                 "name": "Jefferson Nascimento",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 68,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 70.0,
                         "stance": "Orthodox",
                         "dob": "Nov 19, 1998",
                         "wins": 13,
