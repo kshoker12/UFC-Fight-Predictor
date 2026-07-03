@@ -786,28 +786,28 @@
         },
         {
             "fighter_a": {
-                "name": "Ode Osbourne",
+                "name": "Alessandro Costa",
                 "dataset": [
                     {
-                        "height": 67,
+                        "height": 64,
                         "weight": 125.0,
-                        "reach": 73.0,
-                        "stance": "Southpaw",
-                        "dob": "Jan 09, 1992",
-                        "wins": 13,
-                        "losses": 9,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 28, 1996",
+                        "wins": 16,
+                        "losses": 5,
                         "draws": 0,
-                        "career_splm": 2.94,
-                        "career_str_acc": 40.0,
-                        "career_sapm": 3.24,
-                        "career_str_def": 49.0,
-                        "career_td_avg": 0.94,
-                        "career_td_acc": 29.0,
-                        "career_td_def": 66.0,
+                        "career_splm": 3.86,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.7,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.77,
+                        "career_td_acc": 26.0,
+                        "career_td_def": 86.0,
                         "career_sub_avg": 0.4,
-                        "ko_rate": 0.5,
-                        "sub_rate": 0.1667,
-                        "momentum": 1,
+                        "ko_rate": 0.8,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
                         "result": "win"
                     }
                 ]
@@ -841,7 +841,7 @@
             },
             "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Ode Osbourne",
+            "fight_description": "Alessandro Costa",
             "winner": null
         }
     ]
