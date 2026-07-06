@@ -1,15 +1,15 @@
 fighter_1,fighter_2,fighter_1_probability,fighter_2_probability,predicted_winner
-Conor McGregor,Max Holloway,0.5418869870982937,0.45811301290170625,Conor McGregor
-Benoit Saint Denis,Paddy Pimblett,0.6096524161507632,0.39034758384923685,Benoit Saint Denis
-Cory Sandhagen,Mario Bautista,0.31372430580721294,0.686275694192787,Mario Bautista
-Brandon Royval,Lone'er Kavanagh,0.23393824573441602,0.766061754265584,Lone'er Kavanagh
-King Green,Terrance McKinney,0.39953518801945026,0.6004648119805498,Terrance McKinney
-Nikita Krylov,Robert Whittaker,0.5710839291712757,0.4289160708287243,Nikita Krylov
+Conor McGregor,Max Holloway,0.5418869870982932,0.4581130129017068,Conor McGregor
+Benoit Saint Denis,Paddy Pimblett,0.6096524161507643,0.39034758384923574,Benoit Saint Denis
+Cory Sandhagen,Mario Bautista,0.3137243058072159,0.6862756941927841,Mario Bautista
+Brandon Royval,Lone'er Kavanagh,0.23393824573441638,0.7660617542655836,Lone'er Kavanagh
+King Green,Terrance McKinney,0.3995351880194528,0.6004648119805471,Terrance McKinney
+Nikita Krylov,Robert Whittaker,0.5710839291712746,0.4289160708287254,Nikita Krylov
 Gable Steveson,Elisha Ellison,0.8852425426997479,0.11475745730025211,Gable Steveson
-Cody Garbrandt,Adrian Yanez,0.3098076957180522,0.6901923042819478,Adrian Yanez
-Luke Riley,Kai Kamaka III,0.813598551372969,0.186401448627031,Luke Riley
-Tracy Cortez,Wang Cong,0.3248573486876845,0.6751426513123155,Wang Cong
+Cody Garbrandt,Adrian Yanez,0.3098076957180537,0.6901923042819462,Adrian Yanez
+Luke Riley,Kai Kamaka III,0.8135985513729692,0.18640144862703079,Luke Riley
+Tracy Cortez,Wang Cong,0.3248573486876843,0.6751426513123158,Wang Cong
 Damian Pinas,Cesar Almeida,0.8281159124798677,0.1718840875201323,Damian Pinas
-Farid Basharat,Ethyn Ewing,0.7492108150930945,0.2507891849069055,Farid Basharat
-Ryan Gandra,Zach Reese,0.7845970876048136,0.21540291239518639,Ryan Gandra
+Farid Basharat,Ethyn Ewing,0.7492108150930936,0.2507891849069064,Farid Basharat
+Ryan Gandra,Zach Reese,0.7845970876048135,0.2154029123951865,Ryan Gandra
 Alessandro Costa,Cody Durden,0.6261208167391338,0.3738791832608662,Alessandro Costa
