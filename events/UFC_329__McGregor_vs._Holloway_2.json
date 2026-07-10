@@ -369,9 +369,9 @@
                 "name": "Gable Steveson",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 249.0,
-                        "reach": null,
+                        "reach": 74.0,
                         "stance": "Orthodox",
                         "dob": "May 31, 2000",
                         "wins": 3,
@@ -578,7 +578,7 @@
                     {
                         "height": 66,
                         "weight": 125.0,
-                        "reach": 66.0,
+                        "reach": 65.0,
                         "stance": "Southpaw",
                         "dob": "May 15, 1992",
                         "wins": 9,
@@ -696,9 +696,9 @@
                 "name": "John Garza",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 67,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 68.0,
                         "stance": "Orthodox",
                         "dob": "Oct 30, 2002",
                         "wins": 6,
