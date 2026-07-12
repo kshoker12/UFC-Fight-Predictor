@@ -1,0 +1,668 @@
+{
+    "name": "UFC Fight Night: Du Plessis vs. Usman",
+    "date": "July 18, 2026",
+    "location": "Oklahoma City, Oklahoma, USA",
+    "link": "http://ufcstats.com/event-details/f354c50b8d63d9b3",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Dricus Du Plessis",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 76.0,
+                        "stance": "Switch",
+                        "dob": "Jan 14, 1994",
+                        "wins": 23,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.18,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 4.33,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 2.22,
+                        "career_td_acc": 51.0,
+                        "career_td_def": 34.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.4444,
+                        "sub_rate": 0.2222,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kamaru Usman",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 76.0,
+                        "stance": "Switch",
+                        "dob": "May 11, 1987",
+                        "wins": 21,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.16,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 2.67,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 2.79,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 89.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0625,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Dricus Du Plessis",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Jared Cannonier",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Switch",
+                        "dob": "Mar 16, 1984",
+                        "wins": 18,
+                        "losses": 9,
+                        "draws": 0,
+                        "career_splm": 4.42,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 4.35,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.54,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 64.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6364,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Christian Leroy Duncan",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Switch",
+                        "dob": "Jul 24, 1995",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.43,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 2.59,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.33,
+                        "career_td_acc": 16.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.7143,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Jared Cannonier",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Chase Hooper",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 13, 1999",
+                        "wins": 16,
+                        "losses": 5,
+                        "draws": 1,
+                        "career_splm": 4.5,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.02,
+                        "career_str_def": 39.0,
+                        "career_td_avg": 2.43,
+                        "career_td_acc": 32.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 2.1,
+                        "ko_rate": 0.2222,
+                        "sub_rate": 0.4444,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mitch Ramirez",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 03, 1992",
+                        "wins": 8,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.51,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 3.98,
+                        "career_str_def": 37.0,
+                        "career_td_avg": 0.59,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 25.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Chase Hooper",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Tabatha Ricci",
+                "dataset": [
+                    {
+                        "height": 61,
+                        "weight": 115.0,
+                        "reach": 61.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 21, 1995",
+                        "wins": 12,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.0,
+                        "career_str_acc": 37.0,
+                        "career_sapm": 4.83,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.51,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 65.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.1429,
+                        "sub_rate": 0.1429,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Fatima Kline",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 115.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 12, 2000",
+                        "wins": 9,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.01,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.71,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.02,
+                        "career_td_acc": 58.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Tabatha Ricci",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Tommy McMillen",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 145.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 15, 1997",
+                        "wins": 10,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 9.87,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 5.54,
+                        "career_str_def": 58.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Alberto Montes",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "May 31, 1994",
+                        "wins": 12,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.26,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 4.44,
+                        "career_str_def": 60.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 77.0,
+                        "career_sub_avg": 6.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Tommy McMillen",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Austin Bashi",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 29, 2001",
+                        "wins": 14,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 1.75,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 2.34,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 7.81,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 62.0,
+                        "career_sub_avg": 1.7,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jose Delgado",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 145.0,
+                        "reach": 74.0,
+                        "stance": "Switch",
+                        "dob": "Apr 21, 1998",
+                        "wins": 11,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 7.48,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 4.95,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.51,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Austin Bashi",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Jean-Paul Lebosnoyani",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Switch",
+                        "dob": "Jan 27, 1999",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 4.77,
+                        "career_str_acc": 61.0,
+                        "career_sapm": 3.72,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 2.79,
+                        "career_td_acc": 30.0,
+                        "career_td_def": null,
+                        "career_sub_avg": 1.9,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Seokhyeon Ko",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 24, 1993",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.73,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 1.42,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 4.0,
+                        "career_td_acc": 63.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Jean-Paul Lebosnoyani",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Levi Rodrigues Jr.",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 15, 1996",
+                        "wins": 5,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 4.5,
+                        "career_str_acc": 78.0,
+                        "career_sapm": 2.1,
+                        "career_str_def": 22.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Felipe Franco",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 22, 2001",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 1.81,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.55,
+                        "career_str_def": 38.0,
+                        "career_td_avg": 3.02,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Levi Rodrigues Jr.",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Alden Coria",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 24, 1998",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.69,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 2.4,
+                        "career_str_def": 69.0,
+                        "career_td_avg": 1.75,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Stewart Nicoll",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 04, 1994",
+                        "wins": 8,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.63,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 5.84,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.63,
+                        "career_td_acc": 11.0,
+                        "career_td_def": 28.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Alden Coria",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "RJ Harris",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 258.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Oct 01, 1998",
+                        "wins": 5,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Alvin Hines",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 265.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 20, 1991",
+                        "wins": 7,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 5.47,
+                        "career_str_acc": 31.0,
+                        "career_sapm": 7.47,
+                        "career_str_def": 38.0,
+                        "career_td_avg": 1.0,
+                        "career_td_acc": 10.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "RJ Harris",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Anna Melisano",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 125.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "May 20, 1997",
+                        "wins": 6,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Dione Barbosa",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 125.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "May 08, 1992",
+                        "wins": 9,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.21,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.4,
+                        "career_str_def": 64.0,
+                        "career_td_avg": 2.4,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 1.7,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Anna Melisano",
+            "winner": null
+        }
+    ]
+}
