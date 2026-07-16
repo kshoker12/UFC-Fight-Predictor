@@ -663,6 +663,66 @@
             "title_fight": 0,
             "fight_description": "Anna Melisano",
             "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Ezra Elliott",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 145.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "May 18, 2000",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Damien Anderson",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 145.0,
+                        "reach": null,
+                        "stance": "Southpaw",
+                        "dob": "Jan 04, 1997",
+                        "wins": 5,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Ezra Elliott",
+            "winner": null
         }
     ]
 }
