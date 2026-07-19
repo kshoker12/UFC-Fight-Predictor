@@ -122,7 +122,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Jared Cannonier",
-            "winner": null
+            "winner": "Christian Leroy Duncan"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Chase Hooper",
-            "winner": null
+            "winner": "Chase Hooper"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Tabatha Ricci",
-            "winner": null
+            "winner": "Fatima Kline"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Tommy McMillen",
-            "winner": null
+            "winner": "Tommy McMillen"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Austin Bashi",
-            "winner": null
+            "winner": "Jose Delgado"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Jean-Paul Lebosnoyani",
-            "winner": null
+            "winner": "Jean-Paul Lebosnoyani"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Levi Rodrigues Jr.",
-            "winner": null
+            "winner": "Felipe Franco"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Ezra Elliott",
-            "winner": null
+            "winner": "Ezra Elliott"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Alden Coria",
-            "winner": null
+            "winner": "Alden Coria"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "RJ Harris",
-            "winner": null
+            "winner": "RJ Harris"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Anna Melisano",
-            "winner": null
+            "winner": "Dione Barbosa"
         }
     ]
 }

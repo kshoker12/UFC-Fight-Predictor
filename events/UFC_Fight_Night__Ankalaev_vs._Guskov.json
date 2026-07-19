@@ -1,0 +1,728 @@
+{
+    "name": "UFC Fight Night: Ankalaev vs. Guskov",
+    "date": "July 25, 2026",
+    "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "link": "http://ufcstats.com/event-details/681d07e328798ec0",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Magomed Ankalaev",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 02, 1992",
+                        "wins": 21,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 3.65,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.59,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.79,
+                        "career_td_acc": 22.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Bogdan Guskov",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 12, 1992",
+                        "wins": 18,
+                        "losses": 3,
+                        "draws": 1,
+                        "career_splm": 4.57,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 4.09,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.25,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Magomed Ankalaev",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Steve Erceg",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 27, 1995",
+                        "wins": 14,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.64,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 4.07,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.13,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 67.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ramazan Temirov",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 125.0,
+                        "reach": 63.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 31, 1997",
+                        "wins": 19,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.37,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 3.93,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 0.84,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Steve Erceg",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Islam Dulatov",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 02, 1998",
+                        "wins": 12,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 8.78,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 4.24,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 2.2,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Wellington Turman",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 22, 1996",
+                        "wins": 18,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 3.23,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.17,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 1.55,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 42.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3333,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Islam Dulatov",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Magomed Zaynukov",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 02, 1995",
+                        "wins": 8,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 15.67,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 4.8,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 2.0,
+                        "career_td_acc": 100.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Damian Rzepecki",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Nov 23, 2001",
+                        "wins": 10,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Magomed Zaynukov",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Rizvan Kuniev",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 240.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 10, 1992",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 1,
+                        "career_splm": 3.94,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 2.33,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.98,
+                        "career_td_acc": 75.0,
+                        "career_td_def": 93.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Tyrell Fortune",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 259.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 04, 1990",
+                        "wins": 18,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.0,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 3.13,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 3.0,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Rizvan Kuniev",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Abubakar Vagaev",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 170.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Apr 14, 1993",
+                        "wins": 24,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Saygid Izagakhmaev",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 03, 1994",
+                        "wins": 22,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 1.33,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 1.73,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 4.0,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Abubakar Vagaev",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Valter Walker",
+                "dataset": [
+                    {
+                        "height": 78,
+                        "weight": 244.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 14, 1997",
+                        "wins": 15,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 2.0,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.85,
+                        "career_str_def": 42.0,
+                        "career_td_avg": 5.74,
+                        "career_td_acc": 69.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 2.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Thomas Petersen",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 250.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 30, 1995",
+                        "wins": 11,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.1,
+                        "career_str_acc": 59.0,
+                        "career_sapm": 2.61,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 3.01,
+                        "career_td_acc": 43.0,
+                        "career_td_def": 87.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.25,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Valter Walker",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Uran Satybaldiev",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 205.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 10, 1994",
+                        "wins": 9,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 2.14,
+                        "career_str_acc": 25.0,
+                        "career_sapm": 3.66,
+                        "career_str_def": 44.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 1.7,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Dustin Jacoby",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 04, 1988",
+                        "wins": 22,
+                        "losses": 9,
+                        "draws": 1,
+                        "career_splm": 5.4,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 3.92,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.32,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 62.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6364,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Uran Satybaldiev",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Santiago Ponzinibbio",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 26, 1986",
+                        "wins": 31,
+                        "losses": 9,
+                        "draws": 0,
+                        "career_splm": 4.78,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 4.68,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 0.6,
+                        "career_td_acc": 27.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5833,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sam Patterson",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 170.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 30, 1996",
+                        "wins": 14,
+                        "losses": 3,
+                        "draws": 1,
+                        "career_splm": 2.62,
+                        "career_str_acc": 37.0,
+                        "career_sapm": 3.06,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.82,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 33.0,
+                        "career_sub_avg": 1.6,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.6,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Santiago Ponzinibbio",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Ismael Bonfim",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 28, 1995",
+                        "wins": 20,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 5.51,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 3.71,
+                        "career_str_def": 65.0,
+                        "career_td_avg": 1.06,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Axel Sola",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 17, 1997",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 1,
+                        "career_splm": 4.07,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 5.29,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 2.22,
+                        "career_td_acc": 36.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Ismael Bonfim",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Magomed Tuchalov",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 205.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Dec 30, 1999",
+                        "wins": 6,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Brendson Ribeiro",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 81.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 08, 1996",
+                        "wins": 17,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 3.04,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 3.91,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 0.85,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 21.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Magomed Tuchalov",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Nurullo Aliev",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 08, 2000",
+                        "wins": 11,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 2.72,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 1.63,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 2.12,
+                        "career_td_acc": 43.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mike Davis",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 07, 1992",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.73,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 5.23,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 2.4,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 60.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.2,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Nurullo Aliev",
+            "winner": null
+        }
+    ]
+}
