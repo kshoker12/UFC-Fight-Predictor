@@ -62,7 +62,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Dricus Du Plessis",
-            "winner": null
+            "winner": "Dricus Du Plessis"
         },
         {
             "fighter_a": {
