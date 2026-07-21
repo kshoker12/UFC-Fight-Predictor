@@ -426,33 +426,6 @@
         },
         {
             "fighter_a": {
-                "name": "Uran Satybaldiev",
-                "dataset": [
-                    {
-                        "height": 76,
-                        "weight": 205.0,
-                        "reach": 79.0,
-                        "stance": "Orthodox",
-                        "dob": "Aug 10, 1994",
-                        "wins": 9,
-                        "losses": 1,
-                        "draws": 0,
-                        "career_splm": 2.14,
-                        "career_str_acc": 25.0,
-                        "career_sapm": 3.66,
-                        "career_str_def": 44.0,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": 50.0,
-                        "career_sub_avg": 1.7,
-                        "ko_rate": 0.0,
-                        "sub_rate": 1.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
                 "name": "Dustin Jacoby",
                 "dataset": [
                     {
@@ -479,9 +452,36 @@
                     }
                 ]
             },
+            "fighter_b": {
+                "name": "Muhammad Said",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 205.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Jan 10, 1996",
+                        "wins": 9,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
             "division": "light heavyweight",
             "title_fight": 0,
-            "fight_description": "Uran Satybaldiev",
+            "fight_description": "Dustin Jacoby",
             "winner": null
         },
         {
@@ -722,6 +722,66 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Nurullo Aliev",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Cody Gibson",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 135.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 11, 1987",
+                        "wins": 22,
+                        "losses": 12,
+                        "draws": 0,
+                        "career_splm": 3.63,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.22,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.12,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Abdul Hussein",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 135.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Aug 02, 1997",
+                        "wins": 15,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Cody Gibson",
             "winner": null
         }
     ]
