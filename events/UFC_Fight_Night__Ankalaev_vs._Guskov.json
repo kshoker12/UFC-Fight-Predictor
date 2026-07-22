@@ -216,9 +216,9 @@
                 "name": "Damian Rzepecki",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 70,
                         "weight": 155.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Orthodox",
                         "dob": "Nov 23, 2001",
                         "wins": 10,
@@ -276,7 +276,7 @@
                 "name": "Tyrell Fortune",
                 "dataset": [
                     {
-                        "height": 72,
+                        "height": 75,
                         "weight": 259.0,
                         "reach": 75.0,
                         "stance": "Orthodox",
@@ -309,9 +309,9 @@
                 "name": "Abubakar Vagaev",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 73.0,
                         "stance": "Orthodox",
                         "dob": "Apr 14, 1993",
                         "wins": 24,
@@ -456,9 +456,9 @@
                 "name": "Muhammad Said",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 74,
                         "weight": 205.0,
-                        "reach": null,
+                        "reach": 73.0,
                         "stance": "Orthodox",
                         "dob": "Jan 10, 1996",
                         "wins": 9,
@@ -609,9 +609,9 @@
                 "name": "Magomed Tuchalov",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 75,
                         "weight": 205.0,
-                        "reach": null,
+                        "reach": 78.0,
                         "stance": "Orthodox",
                         "dob": "Dec 30, 1999",
                         "wins": 6,
@@ -756,9 +756,9 @@
                 "name": "Abdul Hussein",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 67,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 67.0,
                         "stance": "Orthodox",
                         "dob": "Aug 02, 1997",
                         "wins": 15,
