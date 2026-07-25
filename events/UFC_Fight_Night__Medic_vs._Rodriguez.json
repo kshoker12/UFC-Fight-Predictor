@@ -1,0 +1,728 @@
+{
+    "name": "UFC Fight Night: Medic vs. Rodriguez",
+    "date": "August 01, 2026",
+    "location": "Belgrade, Vojvodina, Serbia",
+    "link": "http://ufcstats.com/event-details/1a50e734bb54861a",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Uros Medic",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Apr 25, 1993",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.59,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 3.42,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 0.34,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Daniel Rodriguez",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 31, 1986",
+                        "wins": 20,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 7.2,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 5.4,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.51,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 64.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.2727,
+                        "sub_rate": 0.0909,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Uros Medic",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Jan Blachowicz",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 205.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 24, 1983",
+                        "wins": 29,
+                        "losses": 11,
+                        "draws": 2,
+                        "career_splm": 3.55,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 3.14,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.98,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.4167,
+                        "sub_rate": 0.1667,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Navajo Stirling",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 205.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 07, 1997",
+                        "wins": 10,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 6.24,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 2.62,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 0.86,
+                        "career_td_acc": 26.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Jan Blachowicz",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Aleksandar Rakic",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 205.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 06, 1992",
+                        "wins": 14,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 4.13,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.86,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.64,
+                        "career_td_acc": 21.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Marcin Tybura",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 249.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 09, 1985",
+                        "wins": 27,
+                        "losses": 11,
+                        "draws": 0,
+                        "career_splm": 3.56,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 3.26,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.3,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 70.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.3571,
+                        "sub_rate": 0.0714,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Aleksandar Rakic",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Dusko Todorovic",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "May 19, 1994",
+                        "wins": 13,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 4.73,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 4.4,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 1.77,
+                        "career_td_acc": 21.0,
+                        "career_td_def": 42.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.6,
+                        "sub_rate": 0.2,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Robert Valentin",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 31, 1995",
+                        "wins": 12,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 1.3,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 2.72,
+                        "career_str_def": 33.0,
+                        "career_td_avg": 0.59,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 1.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Dusko Todorovic",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Vlasto Cepo",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 185.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Jan 25, 1995",
+                        "wins": 14,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Gilbert Urbina",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 05, 1996",
+                        "wins": 7,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 5.57,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 4.62,
+                        "career_str_def": 44.0,
+                        "career_td_avg": 2.86,
+                        "career_td_acc": 44.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Vlasto Cepo",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Ludovit Klein",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "Feb 22, 1995",
+                        "wins": 24,
+                        "losses": 5,
+                        "draws": 1,
+                        "career_splm": 3.76,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.48,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.37,
+                        "career_td_acc": 51.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Tofiq Musayev",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 15, 1989",
+                        "wins": 23,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 1.84,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 1.74,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 2.3,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Ludovit Klein",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Oban Elliott",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 19, 1997",
+                        "wins": 12,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 3.62,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 2.24,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 1.52,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 52.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Michael Oliveira",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 170.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 21, 1998",
+                        "wins": 9,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 8.4,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 3.36,
+                        "career_str_def": 66.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Oban Elliott",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Mark Vologdin",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 135.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 18, 2000",
+                        "wins": 12,
+                        "losses": 4,
+                        "draws": 2,
+                        "career_splm": 6.93,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 10.0,
+                        "career_str_def": 40.0,
+                        "career_td_avg": 0.5,
+                        "career_td_acc": 14.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Josias Musasa",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 74.0,
+                        "stance": "Southpaw",
+                        "dob": "Oct 10, 1998",
+                        "wins": 8,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.19,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 4.39,
+                        "career_str_def": 36.0,
+                        "career_td_avg": 0.9,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Mark Vologdin",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Dennis Buzukja",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Oct 01, 1997",
+                        "wins": 12,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 4.21,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 4.79,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.62,
+                        "career_td_acc": 27.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Bogdan Grad",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 28, 1995",
+                        "wins": 15,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.06,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 5.06,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 4.22,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Dennis Buzukja",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Mateusz Rebecki",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 155.0,
+                        "reach": 66.0,
+                        "stance": "Southpaw",
+                        "dob": "Oct 03, 1992",
+                        "wins": 20,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.79,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 4.36,
+                        "career_str_def": 54.0,
+                        "career_td_avg": 3.05,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 53.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kyle Prepolec",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Aug 30, 1989",
+                        "wins": 18,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 3.25,
+                        "career_str_acc": 34.0,
+                        "career_sapm": 5.69,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 45.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Mateusz Rebecki",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Nina Milosevic",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 135.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Aug 08, 1996",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Hailey Cowan",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Southpaw",
+                        "dob": "Feb 12, 1992",
+                        "wins": 7,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 2.66,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 2.92,
+                        "career_str_def": 40.0,
+                        "career_td_avg": 1.95,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Nina Milosevic",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Jovan Leka",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 259.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 15, 2002",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 1.6,
+                        "career_str_acc": 75.0,
+                        "career_sapm": 0.6,
+                        "career_str_def": 43.0,
+                        "career_td_avg": 1.0,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 55.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Max Gimenis",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 256.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 14, 1993",
+                        "wins": 6,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.21,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 9.64,
+                        "career_str_def": 47.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Jovan Leka",
+            "winner": null
+        }
+    ]
+}
