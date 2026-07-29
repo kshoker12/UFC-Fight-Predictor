@@ -306,6 +306,66 @@
         },
         {
             "fighter_a": {
+                "name": "Milos Janicic",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "May 03, 1997",
+                        "wins": 19,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Noah Gugnon",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Oct 18, 2000",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Milos Janicic",
+            "winner": null
+        },
+        {
+            "fighter_a": {
                 "name": "Ludovit Klein",
                 "dataset": [
                     {
@@ -426,6 +486,33 @@
         },
         {
             "fighter_a": {
+                "name": "Borislav Nikolic",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 135.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Jan 29, 1993",
+                        "wins": 16,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
                 "name": "Mark Vologdin",
                 "dataset": [
                     {
@@ -452,36 +539,9 @@
                     }
                 ]
             },
-            "fighter_b": {
-                "name": "Josias Musasa",
-                "dataset": [
-                    {
-                        "height": 68,
-                        "weight": 135.0,
-                        "reach": 74.0,
-                        "stance": "Southpaw",
-                        "dob": "Oct 10, 1998",
-                        "wins": 8,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 3.19,
-                        "career_str_acc": 45.0,
-                        "career_sapm": 4.39,
-                        "career_str_def": 36.0,
-                        "career_td_avg": 0.9,
-                        "career_td_acc": 50.0,
-                        "career_td_def": 81.0,
-                        "career_sub_avg": 0.5,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
             "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Mark Vologdin",
+            "fight_description": "Borislav Nikolic",
             "winner": null
         },
         {
@@ -693,21 +753,21 @@
                 ]
             },
             "fighter_b": {
-                "name": "Max Gimenis",
+                "name": "Alexander Poppeck",
                 "dataset": [
                     {
                         "height": 74,
-                        "weight": 256.0,
-                        "reach": 75.0,
+                        "weight": 205.0,
+                        "reach": null,
                         "stance": "Orthodox",
-                        "dob": "Apr 14, 1993",
-                        "wins": 6,
-                        "losses": 2,
+                        "dob": "Apr 06, 1992",
+                        "wins": 21,
+                        "losses": 5,
                         "draws": 0,
-                        "career_splm": 3.21,
-                        "career_str_acc": 42.0,
-                        "career_sapm": 9.64,
-                        "career_str_def": 47.0,
+                        "career_splm": 4.01,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 9.81,
+                        "career_str_def": 33.0,
                         "career_td_avg": null,
                         "career_td_acc": null,
                         "career_td_def": null,
@@ -722,6 +782,66 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Jovan Leka",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Marina Spasic",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 115.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Jul 11, 1994",
+                        "wins": 7,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Stephanie Luciano",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 115.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 16, 1999",
+                        "wins": 7,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 5.2,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 3.04,
+                        "career_str_def": 64.0,
+                        "career_td_avg": 1.3,
+                        "career_td_acc": 71.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Marina Spasic",
             "winner": null
         }
     ]
