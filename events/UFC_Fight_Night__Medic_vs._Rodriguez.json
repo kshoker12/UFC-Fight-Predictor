@@ -249,9 +249,9 @@
                 "name": "Vlasto Cepo",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 72,
                         "weight": 185.0,
-                        "reach": null,
+                        "reach": 73.0,
                         "stance": "Orthodox",
                         "dob": "Jan 25, 1995",
                         "wins": 14,
@@ -309,9 +309,9 @@
                 "name": "Milos Janicic",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 155.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Orthodox",
                         "dob": "May 03, 1997",
                         "wins": 19,
@@ -336,9 +336,9 @@
                 "name": "Noah Gugnon",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 155.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Orthodox",
                         "dob": "Oct 18, 2000",
                         "wins": 9,
@@ -489,9 +489,9 @@
                 "name": "Borislav Nikolic",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 69,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 72.0,
                         "stance": "Orthodox",
                         "dob": "Jan 29, 1993",
                         "wins": 16,
@@ -669,9 +669,9 @@
                 "name": "Nina Milosevic",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 65,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 67.0,
                         "stance": "Orthodox",
                         "dob": "Aug 08, 1996",
                         "wins": 8,
@@ -758,7 +758,7 @@
                     {
                         "height": 74,
                         "weight": 205.0,
-                        "reach": null,
+                        "reach": 75.0,
                         "stance": "Orthodox",
                         "dob": "Apr 06, 1992",
                         "wins": 21,
@@ -789,9 +789,9 @@
                 "name": "Marina Spasic",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 64,
                         "weight": 115.0,
-                        "reach": null,
+                        "reach": 64.0,
                         "stance": "Orthodox",
                         "dob": "Jul 11, 1994",
                         "wins": 7,
