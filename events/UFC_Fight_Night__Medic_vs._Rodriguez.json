@@ -62,7 +62,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Uros Medic",
-            "winner": null
+            "winner": "Uros Medic"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Jan Blachowicz",
-            "winner": null
+            "winner": "Navajo Stirling"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Aleksandar Rakic",
-            "winner": null
+            "winner": "Aleksandar Rakic"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Dusko Todorovic",
-            "winner": null
+            "winner": "Robert Valentin"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Vlasto Cepo",
-            "winner": null
+            "winner": "Gilbert Urbina"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Milos Janicic",
-            "winner": null
+            "winner": "Noah Gugnon"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Ludovit Klein",
-            "winner": null
+            "winner": "Tofiq Musayev"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Oban Elliott",
-            "winner": null
+            "winner": "Michael Oliveira"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Borislav Nikolic",
-            "winner": null
+            "winner": "Borislav Nikolic"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Dennis Buzukja",
-            "winner": null
+            "winner": "Bogdan Grad"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Mateusz Rebecki",
-            "winner": null
+            "winner": "Mateusz Rebecki"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Nina Milosevic",
-            "winner": null
+            "winner": "Nina Milosevic"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Jovan Leka",
-            "winner": null
+            "winner": "Jovan Leka"
         },
         {
             "fighter_a": {
@@ -842,7 +842,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Marina Spasic",
-            "winner": null
+            "winner": "Stephanie Luciano"
         }
     ]
 }
