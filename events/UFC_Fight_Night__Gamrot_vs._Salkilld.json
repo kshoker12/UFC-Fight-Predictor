@@ -66,6 +66,186 @@
         },
         {
             "fighter_a": {
+                "name": "Diego Ferreira",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 18, 1985",
+                        "wins": 19,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.7,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 3.46,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.82,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.2,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Billy Quarantillo",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 08, 1988",
+                        "wins": 18,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 7.44,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 5.83,
+                        "career_str_def": 42.0,
+                        "career_td_avg": 1.47,
+                        "career_td_acc": 24.0,
+                        "career_td_def": 61.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.5714,
+                        "sub_rate": 0.1429,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Diego Ferreira",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Darren Elkins",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "May 16, 1984",
+                        "wins": 29,
+                        "losses": 12,
+                        "draws": 0,
+                        "career_splm": 3.4,
+                        "career_str_acc": 38.0,
+                        "career_sapm": 3.34,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 2.87,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 56.0,
+                        "career_sub_avg": 1.1,
+                        "ko_rate": 0.2105,
+                        "sub_rate": 0.1579,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Yadier del Valle",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Southpaw",
+                        "dob": "Jul 29, 1996",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.05,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 2.16,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 1.23,
+                        "career_td_acc": 42.0,
+                        "career_td_def": 58.0,
+                        "career_sub_avg": 2.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.6667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Darren Elkins",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Amanda Lemos",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 115.0,
+                        "reach": 65.0,
+                        "stance": "Southpaw",
+                        "dob": "May 22, 1987",
+                        "wins": 15,
+                        "losses": 6,
+                        "draws": 1,
+                        "career_splm": 2.75,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 3.01,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 1.02,
+                        "career_td_acc": 64.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.2222,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Alexia Thainara",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 115.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 20, 1995",
+                        "wins": 14,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.62,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 2.46,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 4.54,
+                        "career_td_acc": 57.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 1.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.25,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Amanda Lemos",
+            "winner": null
+        },
+        {
+            "fighter_a": {
                 "name": "Ty Miller",
                 "dataset": [
                     {
@@ -186,66 +366,6 @@
         },
         {
             "fighter_a": {
-                "name": "Diego Ferreira",
-                "dataset": [
-                    {
-                        "height": 69,
-                        "weight": 155.0,
-                        "reach": 74.0,
-                        "stance": "Orthodox",
-                        "dob": "Jan 18, 1985",
-                        "wins": 19,
-                        "losses": 7,
-                        "draws": 0,
-                        "career_splm": 4.7,
-                        "career_str_acc": 39.0,
-                        "career_sapm": 3.46,
-                        "career_str_def": 55.0,
-                        "career_td_avg": 0.82,
-                        "career_td_acc": 30.0,
-                        "career_td_def": 57.0,
-                        "career_sub_avg": 0.6,
-                        "ko_rate": 0.5,
-                        "sub_rate": 0.2,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Billy Quarantillo",
-                "dataset": [
-                    {
-                        "height": 70,
-                        "weight": 155.0,
-                        "reach": 70.0,
-                        "stance": "Orthodox",
-                        "dob": "Dec 08, 1988",
-                        "wins": 18,
-                        "losses": 7,
-                        "draws": 0,
-                        "career_splm": 7.44,
-                        "career_str_acc": 54.0,
-                        "career_sapm": 5.83,
-                        "career_str_def": 42.0,
-                        "career_td_avg": 1.47,
-                        "career_td_acc": 24.0,
-                        "career_td_def": 61.0,
-                        "career_sub_avg": 1.0,
-                        "ko_rate": 0.5714,
-                        "sub_rate": 0.1429,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "lightweight",
-            "title_fight": 0,
-            "fight_description": "Diego Ferreira",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Louie Sutherland",
                 "dataset": [
                     {
@@ -302,66 +422,6 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Louie Sutherland",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Darren Elkins",
-                "dataset": [
-                    {
-                        "height": 70,
-                        "weight": 145.0,
-                        "reach": 71.0,
-                        "stance": "Orthodox",
-                        "dob": "May 16, 1984",
-                        "wins": 29,
-                        "losses": 12,
-                        "draws": 0,
-                        "career_splm": 3.4,
-                        "career_str_acc": 38.0,
-                        "career_sapm": 3.34,
-                        "career_str_def": 51.0,
-                        "career_td_avg": 2.87,
-                        "career_td_acc": 34.0,
-                        "career_td_def": 56.0,
-                        "career_sub_avg": 1.1,
-                        "ko_rate": 0.2105,
-                        "sub_rate": 0.1579,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Yadier del Valle",
-                "dataset": [
-                    {
-                        "height": 69,
-                        "weight": 145.0,
-                        "reach": 69.0,
-                        "stance": "Southpaw",
-                        "dob": "Jul 29, 1996",
-                        "wins": 10,
-                        "losses": 1,
-                        "draws": 0,
-                        "career_splm": 4.05,
-                        "career_str_acc": 60.0,
-                        "career_sapm": 2.16,
-                        "career_str_def": 55.0,
-                        "career_td_avg": 1.23,
-                        "career_td_acc": 42.0,
-                        "career_td_def": 58.0,
-                        "career_sub_avg": 2.0,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.6667,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "featherweight",
-            "title_fight": 0,
-            "fight_description": "Darren Elkins",
             "winner": null
         },
         {
@@ -486,62 +546,122 @@
         },
         {
             "fighter_a": {
-                "name": "Amanda Lemos",
+                "name": "Manoel Sousa",
                 "dataset": [
                     {
-                        "height": 64,
-                        "weight": 115.0,
-                        "reach": 65.0,
-                        "stance": "Southpaw",
-                        "dob": "May 22, 1987",
-                        "wins": 15,
-                        "losses": 6,
-                        "draws": 1,
-                        "career_splm": 2.75,
-                        "career_str_acc": 55.0,
-                        "career_sapm": 3.01,
-                        "career_str_def": 45.0,
-                        "career_td_avg": 1.02,
-                        "career_td_acc": 64.0,
-                        "career_td_def": 63.0,
-                        "career_sub_avg": 0.7,
-                        "ko_rate": 0.3333,
-                        "sub_rate": 0.2222,
-                        "momentum": 1,
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 04, 1997",
+                        "wins": 14,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.15,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.71,
+                        "career_str_def": 51.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 60.0,
+                        "career_sub_avg": 1.6,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
                         "result": "win"
                     }
                 ]
             },
             "fighter_b": {
-                "name": "Alexia Thainara",
+                "name": "Richie Miranda",
                 "dataset": [
                     {
-                        "height": 64,
-                        "weight": 115.0,
-                        "reach": 67.0,
-                        "stance": "Orthodox",
-                        "dob": "Nov 20, 1995",
-                        "wins": 14,
+                        "height": null,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "Southpaw",
+                        "dob": "Aug 12, 1994",
+                        "wins": 13,
                         "losses": 1,
                         "draws": 0,
-                        "career_splm": 4.62,
-                        "career_str_acc": 43.0,
-                        "career_sapm": 2.46,
-                        "career_str_def": 59.0,
-                        "career_td_avg": 4.54,
-                        "career_td_acc": 57.0,
-                        "career_td_def": 100.0,
-                        "career_sub_avg": 1.8,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
                         "ko_rate": 0.0,
-                        "sub_rate": 0.25,
-                        "momentum": 3,
+                        "sub_rate": 0.0,
+                        "momentum": null,
                         "result": "win"
                     }
                 ]
             },
-            "division": "strawweight",
+            "division": "lightweight",
             "title_fight": 0,
-            "fight_description": "Amanda Lemos",
+            "fight_description": "Manoel Sousa",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Miles Johns",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 30, 1994",
+                        "wins": 15,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.36,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 2.99,
+                        "career_str_def": 65.0,
+                        "career_td_avg": 1.22,
+                        "career_td_acc": 26.0,
+                        "career_td_def": 77.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.2857,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jessie Rosas",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 135.0,
+                        "reach": null,
+                        "stance": "Southpaw",
+                        "dob": "Dec 04, 2002",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Miles Johns",
             "winner": null
         }
     ]
