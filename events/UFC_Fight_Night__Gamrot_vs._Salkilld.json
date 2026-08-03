@@ -393,16 +393,16 @@
                 ]
             },
             "fighter_b": {
-                "name": "Henrique Da Silva Lopes",
+                "name": "Jose Montanha",
                 "dataset": [
                     {
-                        "height": 75,
-                        "weight": 240.0,
+                        "height": 76,
+                        "weight": null,
                         "reach": null,
-                        "stance": "",
-                        "dob": "Mar 08, 1985",
-                        "wins": 5,
-                        "losses": 2,
+                        "stance": "Orthodox",
+                        "dob": "Aug 25, 1996",
+                        "wins": 6,
+                        "losses": 1,
                         "draws": 0,
                         "career_splm": null,
                         "career_str_acc": null,
