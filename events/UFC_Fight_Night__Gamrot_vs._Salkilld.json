@@ -246,7 +246,7 @@
         },
         {
             "fighter_a": {
-                "name": "Bill Ray Goff",
+                "name": "Billy Ray Goff",
                 "dataset": [
                     {
                         "height": 70,
@@ -301,7 +301,7 @@
             },
             "division": "welterweight",
             "title_fight": 0,
-            "fight_description": "Bill Ray Goff",
+            "fight_description": "Billy Ray Goff",
             "winner": null
         },
         {
@@ -662,6 +662,66 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Juliana Miller",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Gigi Canuto",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 115.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Nov 16, 2002",
+                        "wins": 7,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Carol Foro",
+                "dataset": [
+                    {
+                        "height": 62,
+                        "weight": 115.0,
+                        "reach": 61.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 21, 1997",
+                        "wins": 9,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 7.8,
+                        "career_str_acc": 55.0,
+                        "career_sapm": 7.67,
+                        "career_str_def": 58.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Gigi Canuto",
             "winner": null
         }
     ]
