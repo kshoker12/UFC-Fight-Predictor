@@ -458,7 +458,7 @@
                     {
                         "height": 76,
                         "weight": null,
-                        "reach": null,
+                        "reach": 76.0,
                         "stance": "Orthodox",
                         "dob": "Aug 25, 1996",
                         "wins": 6,
@@ -516,9 +516,9 @@
                 "name": "Richie Miranda",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 68,
                         "weight": 155.0,
-                        "reach": null,
+                        "reach": 75.0,
                         "stance": "Southpaw",
                         "dob": "Aug 12, 1994",
                         "wins": 13,
@@ -576,9 +576,9 @@
                 "name": "Jessie Rosas",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 67,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 68.0,
                         "stance": "Southpaw",
                         "dob": "Dec 04, 2002",
                         "wins": 8,
@@ -669,9 +669,9 @@
                 "name": "Gigi Canuto",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 62,
                         "weight": 115.0,
-                        "reach": null,
+                        "reach": 64.0,
                         "stance": "Orthodox",
                         "dob": "Nov 16, 2002",
                         "wins": 7,
