@@ -62,7 +62,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Mateusz Gamrot",
-            "winner": null
+            "winner": "Quillan Salkilld"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Diego Ferreira",
-            "winner": null
+            "winner": "Diego Ferreira"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Darren Elkins",
-            "winner": null
+            "winner": "Yadier del Valle"
         },
         {
             "fighter_a": {
