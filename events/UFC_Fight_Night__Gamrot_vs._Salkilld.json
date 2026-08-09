@@ -242,7 +242,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Amanda Lemos",
-            "winner": null
+            "winner": "Alexia Thainara"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Billy Ray Goff",
-            "winner": null
+            "winner": "Ty Miller"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Steven Asplund",
-            "winner": null
+            "winner": "Steven Asplund"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Diyar Nurgozhay",
-            "winner": null
+            "winner": "Diyar Nurgozhay"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Louie Sutherland",
-            "winner": null
+            "winner": "Jose Montanha"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Manoel Sousa",
-            "winner": null
+            "winner": "Manoel Sousa"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Miles Johns",
-            "winner": null
+            "winner": "Miles Johns"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Juliana Miller",
-            "winner": null
+            "winner": "Juliana Miller"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Gigi Canuto",
-            "winner": null
+            "winner": "Carol Foro"
         }
     ]
 }
