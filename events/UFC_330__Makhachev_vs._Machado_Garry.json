@@ -126,6 +126,66 @@
         },
         {
             "fighter_a": {
+                "name": "Charles Johnson",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 125.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Jan 10, 1991",
+                        "wins": 19,
+                        "losses": 9,
+                        "draws": 0,
+                        "career_splm": 4.54,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.88,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.47,
+                        "career_td_acc": 16.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jose Ochoa",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 31, 2000",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.16,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 2.99,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 0.3,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 65.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Charles Johnson",
+            "winner": null
+        },
+        {
+            "fighter_a": {
                 "name": "Mansur Abdul-Malik",
                 "dataset": [
                     {
