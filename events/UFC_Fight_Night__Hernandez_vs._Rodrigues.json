@@ -1,0 +1,788 @@
+{
+    "name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "date": "August 22, 2026",
+    "location": "Sacramento, California, USA",
+    "link": "http://ufcstats.com/event-details/a0a69dc9914ef6e1",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Anthony Hernandez",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 18, 1993",
+                        "wins": 15,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.57,
+                        "career_str_acc": 60.0,
+                        "career_sapm": 3.1,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 5.88,
+                        "career_td_acc": 48.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 1.6,
+                        "ko_rate": 0.2222,
+                        "sub_rate": 0.5556,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Gregory Rodrigues",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 17, 1992",
+                        "wins": 19,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 5.53,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.78,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 1.9,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 0.7,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Anthony Hernandez",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Serghei Spivac",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 260.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 24, 1995",
+                        "wins": 18,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 3.57,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 4.23,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 3.82,
+                        "career_td_acc": 59.0,
+                        "career_td_def": 63.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Vitor Petrino",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 225.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 28, 1997",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.24,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 2.71,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 2.6,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 79.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.25,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Serghei Spivac",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Reinier de Ridder",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 78.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 07, 1990",
+                        "wins": 21,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.47,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 2.36,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 2.56,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 40.0,
+                        "career_sub_avg": 0.6,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.5,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Roman Dolidze",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 15, 1988",
+                        "wins": 15,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.19,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 3.71,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 1.16,
+                        "career_td_acc": 43.0,
+                        "career_td_def": 32.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.5556,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Reinier de Ridder",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "MarQuel Mederos",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 30, 1996",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 1,
+                        "career_splm": 5.46,
+                        "career_str_acc": 58.0,
+                        "career_sapm": 4.58,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.23,
+                        "career_td_acc": 8.0,
+                        "career_td_def": 82.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mason Jones",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 26, 1995",
+                        "wins": 18,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 5.98,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 4.45,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 3.48,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.25,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "MarQuel Mederos",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Carli Judice",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 115.0,
+                        "reach": 68.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 02, 1999",
+                        "wins": 6,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 9.32,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 6.62,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 0.52,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jeisla Chaves",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 115.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 02, 1997",
+                        "wins": 8,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 4.97,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 4.2,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.5,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 62.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Carli Judice",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Kennedy Nzechukwu",
+                "dataset": [
+                    {
+                        "height": 77,
+                        "weight": 236.0,
+                        "reach": 83.0,
+                        "stance": "Southpaw",
+                        "dob": "Jun 13, 1992",
+                        "wins": 14,
+                        "losses": 6,
+                        "draws": 1,
+                        "career_splm": 4.96,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 4.58,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.5,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.7,
+                        "sub_rate": 0.1,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Shamil Gaziev",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 265.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 10, 1990",
+                        "wins": 14,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.94,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 4.92,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 1.06,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.25,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Kennedy Nzechukwu",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Wes Schultz",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 09, 1996",
+                        "wins": 9,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 2.91,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 3.11,
+                        "career_str_def": 43.0,
+                        "career_td_avg": 2.39,
+                        "career_td_acc": 21.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 3.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Jackson McVey",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "Mar 25, 1999",
+                        "wins": 7,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 6.51,
+                        "career_str_acc": 69.0,
+                        "career_sapm": 3.37,
+                        "career_str_def": 23.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 0.0,
+                        "career_sub_avg": 1.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Wes Schultz",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Chris Padilla",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 14, 1995",
+                        "wins": 17,
+                        "losses": 6,
+                        "draws": 1,
+                        "career_splm": 6.19,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 4.88,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.13,
+                        "career_td_acc": 28.0,
+                        "career_td_def": 80.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.25,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Nasrat Haqparast",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "Aug 22, 1995",
+                        "wins": 18,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 6.36,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 6.0,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 0.34,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 86.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Chris Padilla",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Gauge Young",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 14, 2000",
+                        "wins": 11,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 6.32,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 5.12,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 0.75,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 76.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Stan Dorsainvil",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 155.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "May 12, 2000",
+                        "wins": 5,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Gauge Young",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Jamall Emmers",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 145.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 24, 1989",
+                        "wins": 22,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 5.1,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.92,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.59,
+                        "career_td_acc": 53.0,
+                        "career_td_def": 81.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Lerryan Douglas",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 27, 1995",
+                        "wins": 14,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 8.67,
+                        "career_str_acc": 64.0,
+                        "career_sapm": 4.82,
+                        "career_str_def": 63.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Jamall Emmers",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Shanelle Dyer",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 115.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 23, 2001",
+                        "wins": 7,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 7.71,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 6.72,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.7,
+                        "career_td_acc": 8.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Elise Reed",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 115.0,
+                        "reach": 63.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 05, 1992",
+                        "wins": 8,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.41,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.26,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.46,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 53.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Shanelle Dyer",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Marcio Barbosa",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "May 22, 1998",
+                        "wins": 18,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 7.01,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 6.65,
+                        "career_str_def": 52.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ryan Kuse",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 145.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Jun 24, 1994",
+                        "wins": 9,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Marcio Barbosa",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Terrance Chatman",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 265.0,
+                        "reach": null,
+                        "stance": "",
+                        "dob": "May 05, 1997",
+                        "wins": 5,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Anthony Wint",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 235.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 14, 1995",
+                        "wins": 7,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 22.94,
+                        "career_str_acc": 72.0,
+                        "career_sapm": null,
+                        "career_str_def": 100.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "heavyweight",
+            "title_fight": 0,
+            "fight_description": "Terrance Chatman",
+            "winner": null
+        }
+    ]
+}

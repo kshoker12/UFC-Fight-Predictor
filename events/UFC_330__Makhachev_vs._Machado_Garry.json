@@ -542,7 +542,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Vicente Luque",
-            "winner": null
+            "winner": "Tresean Gore"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Rafael Tobias",
-            "winner": null
+            "winner": "Lucas Fernando"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Neil Magny",
-            "winner": null
+            "winner": "Neil Magny"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Jeremiah Wells",
-            "winner": null
+            "winner": "Jeremiah Wells"
         }
     ]
 }
