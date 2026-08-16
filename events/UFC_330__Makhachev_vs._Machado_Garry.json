@@ -362,7 +362,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Chidi Njokuani",
-            "winner": null
+            "winner": "Chidi Njokuani"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "unknown",
             "title_fight": 0,
             "fight_description": "Charles Johnson",
-            "winner": null
+            "winner": "Charles Johnson"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Donte Johnson",
-            "winner": null
+            "winner": "Donte Johnson"
         },
         {
             "fighter_a": {
