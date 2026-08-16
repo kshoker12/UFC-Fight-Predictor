@@ -62,7 +62,7 @@
             "division": "welterweight",
             "title_fight": 1,
             "fight_description": "Islam Makhachev",
-            "winner": null
+            "winner": "Islam Makhachev"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "strawweight",
             "title_fight": 1,
             "fight_description": "Mackenzie Dern",
-            "winner": null
+            "winner": "Mackenzie Dern"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Jalin Turner",
-            "winner": null
+            "winner": "Jalin Turner"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Mansur Abdul-Malik",
-            "winner": null
+            "winner": "Dustin Stoltzfus"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Edson Barboza",
-            "winner": null
+            "winner": "Esteban Ribovics"
         },
         {
             "fighter_a": {
