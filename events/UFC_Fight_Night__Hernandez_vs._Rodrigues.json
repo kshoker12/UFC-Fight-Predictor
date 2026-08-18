@@ -299,7 +299,7 @@
                     }
                 ]
             },
-            "division": "strawweight",
+            "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Carli Judice",
             "winner": null
@@ -312,7 +312,7 @@
                         "height": null,
                         "weight": 265.0,
                         "reach": null,
-                        "stance": "",
+                        "stance": "Orthodox",
                         "dob": "May 05, 1997",
                         "wins": 5,
                         "losses": 1,
