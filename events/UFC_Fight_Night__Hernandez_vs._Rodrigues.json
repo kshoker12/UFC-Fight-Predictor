@@ -306,33 +306,6 @@
         },
         {
             "fighter_a": {
-                "name": "Terrance Chatman",
-                "dataset": [
-                    {
-                        "height": null,
-                        "weight": 265.0,
-                        "reach": null,
-                        "stance": "Orthodox",
-                        "dob": "May 05, 1997",
-                        "wins": 5,
-                        "losses": 1,
-                        "draws": 0,
-                        "career_splm": null,
-                        "career_str_acc": null,
-                        "career_sapm": null,
-                        "career_str_def": null,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": null,
-                        "career_sub_avg": null,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
                 "name": "Anthony Wint",
                 "dataset": [
                     {
@@ -359,9 +332,36 @@
                     }
                 ]
             },
+            "fighter_b": {
+                "name": "Terrance Chatman",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 265.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "May 05, 1997",
+                        "wins": 5,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
             "division": "heavyweight",
             "title_fight": 0,
-            "fight_description": "Terrance Chatman",
+            "fight_description": "Anthony Wint",
             "winner": null
         },
         {
