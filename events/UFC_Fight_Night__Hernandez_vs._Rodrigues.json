@@ -336,9 +336,9 @@
                 "name": "Terrance Chatman",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 72,
                         "weight": 265.0,
-                        "reach": null,
+                        "reach": 76.0,
                         "stance": "Orthodox",
                         "dob": "May 05, 1997",
                         "wins": 5,
@@ -576,9 +576,9 @@
                 "name": "Ryan Kuse",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 68,
                         "weight": 145.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Orthodox",
                         "dob": "Jun 24, 1994",
                         "wins": 9,
@@ -636,9 +636,9 @@
                 "name": "Stan Dorsainvil",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 69,
                         "weight": 155.0,
-                        "reach": null,
+                        "reach": 76.0,
                         "stance": "Orthodox",
                         "dob": "May 12, 2000",
                         "wins": 5,
@@ -669,7 +669,7 @@
                 "name": "Wes Schultz",
                 "dataset": [
                     {
-                        "height": 73,
+                        "height": 72,
                         "weight": 185.0,
                         "reach": 77.0,
                         "stance": "Orthodox",
