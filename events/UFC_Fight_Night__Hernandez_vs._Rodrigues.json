@@ -302,7 +302,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Carli Judice",
-            "winner": null
+            "winner": "Carli Judice"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Anthony Wint",
-            "winner": null
+            "winner": "Anthony Wint"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Jamall Emmers",
-            "winner": null
+            "winner": "Jamall Emmers"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Kennedy Nzechukwu",
-            "winner": null
+            "winner": "Shamil Gaziev"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Chris Padilla",
-            "winner": null
+            "winner": "Chris Padilla"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Marcio Barbosa",
-            "winner": null
+            "winner": "Marcio Barbosa"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Gauge Young",
-            "winner": null
+            "winner": "Stan Dorsainvil"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Wes Schultz",
-            "winner": null
+            "winner": "Jackson McVey"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Shanelle Dyer",
-            "winner": null
+            "winner": "Shanelle Dyer"
         }
     ]
 }

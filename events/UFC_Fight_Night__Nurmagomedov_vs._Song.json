@@ -1,0 +1,788 @@
+{
+    "name": "UFC Fight Night: Nurmagomedov vs. Song",
+    "date": "August 29, 2026",
+    "location": "Shanghai, China",
+    "link": "http://ufcstats.com/event-details/9d61d8cb1c354867",
+    "fights": [
+        {
+            "fighter_a": {
+                "name": "Umar Nurmagomedov",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 03, 1996",
+                        "wins": 20,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.86,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 1.86,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 4.03,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 79.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.125,
+                        "sub_rate": 0.25,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Song Yadong",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 02, 1997",
+                        "wins": 23,
+                        "losses": 9,
+                        "draws": 1,
+                        "career_splm": 4.34,
+                        "career_str_acc": 43.0,
+                        "career_sapm": 3.81,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.82,
+                        "career_td_acc": 41.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.4167,
+                        "sub_rate": 0.1667,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Umar Nurmagomedov",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Yan Xiaonan",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 115.0,
+                        "reach": 63.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 16, 1989",
+                        "wins": 19,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 4.69,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.23,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 0.84,
+                        "career_td_acc": 73.0,
+                        "career_td_def": 64.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.1111,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Denise Gomes",
+                "dataset": [
+                    {
+                        "height": 62,
+                        "weight": 115.0,
+                        "reach": 63.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 30, 1999",
+                        "wins": 12,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.43,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 3.16,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 1.45,
+                        "career_td_acc": 34.0,
+                        "career_td_def": 66.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.4286,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Yan Xiaonan",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Aoriqileng",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 25, 1993",
+                        "wins": 26,
+                        "losses": 13,
+                        "draws": 0,
+                        "career_splm": 4.4,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 5.66,
+                        "career_str_def": 46.0,
+                        "career_td_avg": 1.11,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 59.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kai Asakura",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 31, 1993",
+                        "wins": 22,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 2.53,
+                        "career_str_acc": 34.0,
+                        "career_sapm": 3.34,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Aoriqileng",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Alex Perez",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 125.0,
+                        "reach": 65.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 21, 1992",
+                        "wins": 26,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 4.22,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.24,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 2.07,
+                        "career_td_acc": 45.0,
+                        "career_td_def": 74.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.4444,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sumudaerji",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 125.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 20, 1996",
+                        "wins": 19,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 4.4,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.29,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 0.76,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.1667,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Alex Perez",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Liu Ce",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 205.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Sep 04, 1996",
+                        "wins": 3,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Junior Tafa",
+                "dataset": [
+                    {
+                        "height": 75,
+                        "weight": 205.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 21, 1996",
+                        "wins": 7,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 3.53,
+                        "career_str_acc": 52.0,
+                        "career_sapm": 2.7,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Liu Ce",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Bilal Hasan",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Jul 16, 2001",
+                        "wins": 9,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 28.0,
+                        "career_str_acc": 80.0,
+                        "career_sapm": 4.0,
+                        "career_str_def": 57.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Nilson Rojas",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 125.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Apr 21, 1999",
+                        "wins": 9,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Bilal Hasan",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Namsrai Batbayar",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 29, 2000",
+                        "wins": 10,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.44,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.42,
+                        "career_str_def": 48.0,
+                        "career_td_avg": 2.85,
+                        "career_td_acc": 30.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.3333,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Andre Lima",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Feb 04, 1999",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.94,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 2.66,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 1.11,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.2,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Namsrai Batbayar",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Rei Tsuruya",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 22, 2002",
+                        "wins": 11,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 2.4,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 1.91,
+                        "career_str_def": 43.0,
+                        "career_td_avg": 5.03,
+                        "career_td_acc": 37.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 2.0,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Kevin Borjas",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 06, 1997",
+                        "wins": 11,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.87,
+                        "career_str_acc": 42.0,
+                        "career_sapm": 5.27,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
+            "title_fight": 0,
+            "fight_description": "Rei Tsuruya",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Jack Jenkins",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 68.0,
+                        "stance": "Switch",
+                        "dob": "Nov 03, 1993",
+                        "wins": 14,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.48,
+                        "career_str_acc": 61.0,
+                        "career_sapm": 2.95,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 1.98,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.4,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sean Woodson",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 145.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jun 07, 1992",
+                        "wins": 13,
+                        "losses": 2,
+                        "draws": 1,
+                        "career_splm": 5.57,
+                        "career_str_acc": 46.0,
+                        "career_sapm": 4.18,
+                        "career_str_def": 58.0,
+                        "career_td_avg": 0.58,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 84.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.375,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Jack Jenkins",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Xiao Long",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 135.0,
+                        "reach": 70.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 13, 1998",
+                        "wins": 27,
+                        "losses": 11,
+                        "draws": 0,
+                        "career_splm": 5.06,
+                        "career_str_acc": 47.0,
+                        "career_sapm": 3.85,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 0.74,
+                        "career_td_acc": 27.0,
+                        "career_td_def": 82.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Francesco Nuzzi",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 135.0,
+                        "reach": null,
+                        "stance": "Southpaw",
+                        "dob": "Aug 28, 1996",
+                        "wins": 11,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Xiao Long",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Lawrence Lui",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 04, 1996",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.72,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 3.32,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 5.3,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Hector Santiago",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 135.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Mar 21, 1993",
+                        "wins": 6,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Lawrence Lui",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Xiong Jingnan",
+                "dataset": [
+                    {
+                        "height": 64,
+                        "weight": 115.0,
+                        "reach": 63.0,
+                        "stance": "Switch",
+                        "dob": "Jan 12, 1988",
+                        "wins": 19,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.53,
+                        "career_str_acc": 34.0,
+                        "career_sapm": 8.13,
+                        "career_str_def": 38.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Julia Polastri",
+                "dataset": [
+                    {
+                        "height": 62,
+                        "weight": 115.0,
+                        "reach": 63.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 05, 1998",
+                        "wins": 14,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 6.22,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 5.18,
+                        "career_str_def": 59.0,
+                        "career_td_avg": 0.62,
+                        "career_td_acc": 80.0,
+                        "career_td_def": 57.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.3333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Xiong Jingnan",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Ding Meng",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 170.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 27, 1994",
+                        "wins": 35,
+                        "losses": 10,
+                        "draws": 0,
+                        "career_splm": 3.8,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 4.33,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.5,
+                        "career_td_acc": 50.0,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Cameron Nelson",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 170.0,
+                        "reach": null,
+                        "stance": "Orthodox",
+                        "dob": "Jul 28, 1998",
+                        "wins": 7,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Ding Meng",
+            "winner": null
+        }
+    ]
+}
