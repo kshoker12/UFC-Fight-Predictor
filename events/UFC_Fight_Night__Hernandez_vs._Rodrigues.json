@@ -62,7 +62,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Anthony Hernandez",
-            "winner": null
+            "winner": "Gregory Rodrigues"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Serghei Spivac",
-            "winner": null
+            "winner": "Vitor Petrino"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Reinier de Ridder",
-            "winner": null
+            "winner": "Reinier de Ridder"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "MarQuel Mederos",
-            "winner": null
+            "winner": "MarQuel Mederos"
         },
         {
             "fighter_a": {
