@@ -249,9 +249,9 @@
                 "name": "Liu Ce",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 75,
                         "weight": 205.0,
-                        "reach": null,
+                        "reach": 77.0,
                         "stance": "Orthodox",
                         "dob": "Sep 04, 1996",
                         "wins": 3,
@@ -336,9 +336,9 @@
                 "name": "Nilson Rojas",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 66,
                         "weight": 125.0,
-                        "reach": null,
+                        "reach": 63.0,
                         "stance": "Orthodox",
                         "dob": "Apr 21, 1999",
                         "wins": 9,
@@ -576,9 +576,9 @@
                 "name": "Francesco Nuzzi",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 66,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Southpaw",
                         "dob": "Aug 28, 1996",
                         "wins": 11,
@@ -636,9 +636,9 @@
                 "name": "Hector Santiago",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 65,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 68.0,
                         "stance": "Orthodox",
                         "dob": "Mar 21, 1993",
                         "wins": 6,
@@ -756,9 +756,9 @@
                 "name": "Cam Nelson",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 72.0,
                         "stance": "Orthodox",
                         "dob": "Jul 28, 1998",
                         "wins": 7,
