@@ -62,7 +62,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Umar Nurmagomedov",
-            "winner": null
+            "winner": "Song Yadong"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Yan Xiaonan",
-            "winner": null
+            "winner": "Denise Gomes"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Aoriqileng",
-            "winner": null
+            "winner": "Kai Asakura"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Alex Perez",
-            "winner": null
+            "winner": "Sumudaerji"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Liu Ce",
-            "winner": null
+            "winner": "Liu Ce"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Bilal Hasan",
-            "winner": null
+            "winner": "Bilal Hasan"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Namsrai Batbayar",
-            "winner": null
+            "winner": "Andre Lima"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Rei Tsuruya",
-            "winner": null
+            "winner": "Rei Tsuruya"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Jack Jenkins",
-            "winner": null
+            "winner": "Sean Woodson"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Xiao Long",
-            "winner": null
+            "winner": "Francesco Nuzzi"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Lawrence Lui",
-            "winner": null
+            "winner": "Hector Santiago"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Xiong Jingnan",
-            "winner": null
+            "winner": "Julia Polastri"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Ding Meng",
-            "winner": null
+            "winner": "Cam Nelson"
         }
     ]
 }
