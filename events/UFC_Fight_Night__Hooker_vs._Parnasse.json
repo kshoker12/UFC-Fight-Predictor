@@ -246,62 +246,62 @@
         },
         {
             "fighter_a": {
-                "name": "Morgan Charriere",
+                "name": "Kurtis Campbell",
                 "dataset": [
                     {
-                        "height": 68,
+                        "height": 69,
                         "weight": 145.0,
-                        "reach": 69.0,
-                        "stance": "Orthodox",
-                        "dob": "Oct 26, 1995",
-                        "wins": 21,
-                        "losses": 12,
-                        "draws": 1,
-                        "career_splm": 4.02,
-                        "career_str_acc": 50.0,
-                        "career_sapm": 4.51,
-                        "career_str_def": 53.0,
-                        "career_td_avg": 2.06,
-                        "career_td_acc": 46.0,
-                        "career_td_def": 83.0,
-                        "career_sub_avg": 0.3,
+                        "reach": 72.0,
+                        "stance": "Switch",
+                        "dob": "Jul 29, 2002",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.5,
+                        "career_str_acc": 48.0,
+                        "career_sapm": 2.63,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 8.76,
+                        "career_td_acc": 40.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": null,
                         "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Trevor Peek",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Switch",
+                        "dob": "Jan 09, 1995",
+                        "wins": 9,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 4.39,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.88,
+                        "career_str_def": 43.0,
+                        "career_td_avg": 1.45,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 52.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
                         "sub_rate": 0.0,
                         "momentum": 1,
                         "result": "win"
                     }
                 ]
             },
-            "fighter_b": {
-                "name": "Felipe Lima",
-                "dataset": [
-                    {
-                        "height": 66,
-                        "weight": 145.0,
-                        "reach": 68.0,
-                        "stance": "Orthodox",
-                        "dob": "May 07, 1998",
-                        "wins": 14,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 2.86,
-                        "career_str_acc": 45.0,
-                        "career_sapm": 2.91,
-                        "career_str_def": 64.0,
-                        "career_td_avg": 2.18,
-                        "career_td_acc": 27.0,
-                        "career_td_def": 85.0,
-                        "career_sub_avg": 0.7,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.5,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
             "division": "featherweight",
             "title_fight": 0,
-            "fight_description": "Morgan Charriere",
+            "fight_description": "Kurtis Campbell",
             "winner": null
         },
         {
@@ -366,6 +366,66 @@
         },
         {
             "fighter_a": {
+                "name": "Morgan Charriere",
+                "dataset": [
+                    {
+                        "height": 68,
+                        "weight": 145.0,
+                        "reach": 69.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 26, 1995",
+                        "wins": 21,
+                        "losses": 12,
+                        "draws": 1,
+                        "career_splm": 4.02,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 4.51,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 2.06,
+                        "career_td_acc": 46.0,
+                        "career_td_def": 83.0,
+                        "career_sub_avg": 0.3,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Felipe Lima",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 145.0,
+                        "reach": 68.0,
+                        "stance": "Orthodox",
+                        "dob": "May 07, 1998",
+                        "wins": 14,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 2.86,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.91,
+                        "career_str_def": 64.0,
+                        "career_td_avg": 2.18,
+                        "career_td_acc": 27.0,
+                        "career_td_def": 85.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Morgan Charriere",
+            "winner": null
+        },
+        {
+            "fighter_a": {
                 "name": "Mario Pinto",
                 "dataset": [
                     {
@@ -422,66 +482,6 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Mario Pinto",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Kurtis Campbell",
-                "dataset": [
-                    {
-                        "height": 69,
-                        "weight": 145.0,
-                        "reach": 72.0,
-                        "stance": "Switch",
-                        "dob": "Jul 29, 2002",
-                        "wins": 8,
-                        "losses": 1,
-                        "draws": 0,
-                        "career_splm": 3.5,
-                        "career_str_acc": 48.0,
-                        "career_sapm": 2.63,
-                        "career_str_def": 51.0,
-                        "career_td_avg": 8.76,
-                        "career_td_acc": 40.0,
-                        "career_td_def": 50.0,
-                        "career_sub_avg": null,
-                        "ko_rate": 1.0,
-                        "sub_rate": 0.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Trevor Peek",
-                "dataset": [
-                    {
-                        "height": 69,
-                        "weight": 145.0,
-                        "reach": 70.0,
-                        "stance": "Switch",
-                        "dob": "Jan 09, 1995",
-                        "wins": 9,
-                        "losses": 3,
-                        "draws": 0,
-                        "career_splm": 4.39,
-                        "career_str_acc": 53.0,
-                        "career_sapm": 3.88,
-                        "career_str_def": 43.0,
-                        "career_td_avg": 1.45,
-                        "career_td_acc": 50.0,
-                        "career_td_def": 52.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.6667,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "featherweight",
-            "title_fight": 0,
-            "fight_description": "Kurtis Campbell",
             "winner": null
         },
         {
@@ -573,28 +573,28 @@
                 ]
             },
             "fighter_b": {
-                "name": "Mairon Santos",
+                "name": "Pavel Andrusca",
                 "dataset": [
                     {
-                        "height": 67,
+                        "height": null,
                         "weight": 145.0,
-                        "reach": 72.0,
+                        "reach": null,
                         "stance": "Orthodox",
-                        "dob": "Jun 10, 2000",
-                        "wins": 18,
-                        "losses": 1,
+                        "dob": "May 08, 2002",
+                        "wins": 8,
+                        "losses": 0,
                         "draws": 0,
-                        "career_splm": 3.33,
-                        "career_str_acc": 48.0,
-                        "career_sapm": 2.24,
-                        "career_str_def": 65.0,
-                        "career_td_avg": 0.0,
-                        "career_td_acc": 0.0,
-                        "career_td_def": 69.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.5,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
                         "sub_rate": 0.0,
-                        "momentum": 3,
+                        "momentum": null,
                         "result": "win"
                     }
                 ]
