@@ -36,9 +36,9 @@
                 "name": "Salahdine Parnasse",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 70,
                         "weight": 155.0,
-                        "reach": null,
+                        "reach": 71.0,
                         "stance": "Southpaw",
                         "dob": "Dec 04, 1997",
                         "wins": 23,
@@ -576,9 +576,9 @@
                 "name": "Pavel Andrusca",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 67,
                         "weight": 145.0,
-                        "reach": null,
+                        "reach": 66.0,
                         "stance": "Orthodox",
                         "dob": "May 08, 2002",
                         "wins": 8,
@@ -609,9 +609,9 @@
                 "name": "Michael Aljarouj",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 65,
                         "weight": 125.0,
-                        "reach": null,
+                        "reach": 66.0,
                         "stance": "Orthodox",
                         "dob": "Aug 21, 1997",
                         "wins": 13,
@@ -636,9 +636,9 @@
                 "name": "Fabia Sintes",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 67,
                         "weight": 125.0,
-                        "reach": null,
+                        "reach": 65.0,
                         "stance": "Orthodox",
                         "dob": "Jul 27, 1994",
                         "wins": 11,
@@ -731,7 +731,7 @@
                     {
                         "height": 75,
                         "weight": 185.0,
-                        "reach": 77.0,
+                        "reach": 76.0,
                         "stance": "Orthodox",
                         "dob": "Apr 04, 1995",
                         "wins": 10,
@@ -789,9 +789,9 @@
                 "name": "Delphine Benouaich",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 63,
                         "weight": 115.0,
-                        "reach": null,
+                        "reach": 63.0,
                         "stance": "Orthodox",
                         "dob": "Mar 21, 1995",
                         "wins": 7,
