@@ -62,7 +62,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Dan Hooker",
-            "winner": null
+            "winner": "Salahdine Parnasse"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Fares Ziam",
-            "winner": null
+            "winner": "Axel Sola"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Michael Page",
-            "winner": null
+            "winner": "Michael Page"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Daniil Donchenko",
-            "winner": null
+            "winner": "Daniil Donchenko"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Kurtis Campbell",
-            "winner": null
+            "winner": "Kurtis Campbell"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Losene Keita",
-            "winner": null
+            "winner": "Losene Keita"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Morgan Charriere",
-            "winner": null
+            "winner": "Felipe Lima"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Mario Pinto",
-            "winner": null
+            "winner": "Mario Pinto"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Oumar Sy",
-            "winner": null
+            "winner": "Modestas Bukauskas"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Nathaniel Wood",
-            "winner": null
+            "winner": "Pavel Andrusca"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Michael Aljarouj",
-            "winner": null
+            "winner": "Fabia Sintes"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Nora Cornolle",
-            "winner": null
+            "winner": "Nora Cornolle"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Matthieu Duclos",
-            "winner": null
+            "winner": "Matthieu Duclos"
         },
         {
             "fighter_a": {
@@ -842,7 +842,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Delphine Benouaich",
-            "winner": null
+            "winner": "Delphine Benouaich"
         }
     ]
 }
