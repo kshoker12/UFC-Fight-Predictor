@@ -419,7 +419,7 @@
                     }
                 ]
             },
-            "division": "flyweight",
+            "division": "unknown",
             "title_fight": 0,
             "fight_description": "Tim Elliott",
             "winner": null
@@ -638,7 +638,7 @@
                     {
                         "height": 69,
                         "weight": 155.0,
-                        "reach": 70.0,
+                        "reach": 71.0,
                         "stance": "Orthodox",
                         "dob": "Mar 07, 2000",
                         "wins": 28,
@@ -669,9 +669,9 @@
                 "name": "Sean King III",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 71,
                         "weight": 145.0,
-                        "reach": null,
+                        "reach": 72.0,
                         "stance": "Orthodox",
                         "dob": "Oct 17, 2003",
                         "wins": 6,
