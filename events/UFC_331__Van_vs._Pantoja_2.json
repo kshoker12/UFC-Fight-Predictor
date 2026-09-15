@@ -186,66 +186,6 @@
         },
         {
             "fighter_a": {
-                "name": "Renato Moicano",
-                "dataset": [
-                    {
-                        "height": 71,
-                        "weight": 155.0,
-                        "reach": 72.0,
-                        "stance": "Orthodox",
-                        "dob": "May 21, 1989",
-                        "wins": 21,
-                        "losses": 7,
-                        "draws": 1,
-                        "career_splm": 4.1,
-                        "career_str_acc": 49.0,
-                        "career_sapm": 3.55,
-                        "career_str_def": 59.0,
-                        "career_td_avg": 1.68,
-                        "career_td_acc": 40.0,
-                        "career_td_def": 64.0,
-                        "career_sub_avg": 0.6,
-                        "ko_rate": 0.1538,
-                        "sub_rate": 0.5385,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Brian Ortega",
-                "dataset": [
-                    {
-                        "height": 68,
-                        "weight": 155.0,
-                        "reach": 69.0,
-                        "stance": "Switch",
-                        "dob": "Feb 21, 1991",
-                        "wins": 16,
-                        "losses": 5,
-                        "draws": 0,
-                        "career_splm": 3.84,
-                        "career_str_acc": 37.0,
-                        "career_sapm": 6.38,
-                        "career_str_def": 49.0,
-                        "career_td_avg": 0.93,
-                        "career_td_acc": 25.0,
-                        "career_td_def": 54.0,
-                        "career_sub_avg": 0.9,
-                        "ko_rate": 0.375,
-                        "sub_rate": 0.5,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "lightweight",
-            "title_fight": 0,
-            "fight_description": "Renato Moicano",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Alonzo Menifield",
                 "dataset": [
                     {
