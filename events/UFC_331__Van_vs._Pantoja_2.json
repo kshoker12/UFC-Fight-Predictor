@@ -186,66 +186,6 @@
         },
         {
             "fighter_a": {
-                "name": "Alonzo Menifield",
-                "dataset": [
-                    {
-                        "height": 72,
-                        "weight": 205.0,
-                        "reach": 76.0,
-                        "stance": "Orthodox",
-                        "dob": "Oct 18, 1987",
-                        "wins": 18,
-                        "losses": 6,
-                        "draws": 1,
-                        "career_splm": 3.84,
-                        "career_str_acc": 53.0,
-                        "career_sapm": 3.81,
-                        "career_str_def": 51.0,
-                        "career_td_avg": 0.48,
-                        "career_td_acc": 31.0,
-                        "career_td_def": 78.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 0.5385,
-                        "sub_rate": 0.1538,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Iwo Baraniewski",
-                "dataset": [
-                    {
-                        "height": 72,
-                        "weight": 205.0,
-                        "reach": 73.0,
-                        "stance": "Orthodox",
-                        "dob": "Nov 20, 1998",
-                        "wins": 9,
-                        "losses": 0,
-                        "draws": 0,
-                        "career_splm": 11.35,
-                        "career_str_acc": 57.0,
-                        "career_sapm": 8.65,
-                        "career_str_def": 52.0,
-                        "career_td_avg": 0.0,
-                        "career_td_acc": 0.0,
-                        "career_td_def": 100.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 1.0,
-                        "sub_rate": 0.0,
-                        "momentum": 3,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "light heavyweight",
-            "title_fight": 0,
-            "fight_description": "Alonzo Menifield",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Gable Steveson",
                 "dataset": [
                     {
@@ -302,6 +242,66 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Gable Steveson",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Alonzo Menifield",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 205.0,
+                        "reach": 76.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 18, 1987",
+                        "wins": 18,
+                        "losses": 6,
+                        "draws": 1,
+                        "career_splm": 3.84,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.81,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 0.48,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 78.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.5385,
+                        "sub_rate": 0.1538,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Iwo Baraniewski",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 205.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 20, 1998",
+                        "wins": 9,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 11.35,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 8.65,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Alonzo Menifield",
             "winner": null
         },
         {
