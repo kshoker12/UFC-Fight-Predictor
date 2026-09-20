@@ -122,7 +122,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Arman Tsarukyan",
-            "winner": null
+            "winner": "Arman Tsarukyan"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Patricio Pitbull",
-            "winner": null
+            "winner": "Patricio Pitbull"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Gable Steveson",
-            "winner": null
+            "winner": "Sean Sharaf"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Alonzo Menifield",
-            "winner": null
+            "winner": "Alonzo Menifield"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Marlon Vera",
-            "winner": null
+            "winner": "Marlon Vera"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Tai Tuivasa",
-            "winner": null
+            "winner": "Robelis Despaigne"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Michael Aswell Jr.",
-            "winner": null
+            "winner": "Michael Aswell Jr."
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Ryan Gandra",
-            "winner": null
+            "winner": "Ryan Gandra"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Edmen Shahbazyan",
-            "winner": null
+            "winner": "Edmen Shahbazyan"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Casey O'Neill",
-            "winner": null
+            "winner": "Casey O'Neill"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Giga Chikadze",
-            "winner": null
+            "winner": "Joanderson Brito"
         }
     ]
 }
