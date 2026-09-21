@@ -62,7 +62,7 @@
             "division": "flyweight",
             "title_fight": 1,
             "fight_description": "Joshua Van",
-            "winner": null
+            "winner": "Joshua Van"
         },
         {
             "fighter_a": {
