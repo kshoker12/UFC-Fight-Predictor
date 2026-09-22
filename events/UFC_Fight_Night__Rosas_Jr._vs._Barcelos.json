@@ -311,7 +311,7 @@
                     {
                         "height": 75,
                         "weight": 205.0,
-                        "reach": 75.0,
+                        "reach": 77.0,
                         "stance": "Orthodox",
                         "dob": "Feb 05, 1996",
                         "wins": 13,
@@ -602,6 +602,66 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "John Castaneda",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Mickey Gall",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 170.0,
+                        "reach": 74.0,
+                        "stance": "Switch",
+                        "dob": "Jan 22, 1992",
+                        "wins": 7,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 3.5,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 4.72,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.15,
+                        "career_td_acc": 32.0,
+                        "career_td_def": 37.0,
+                        "career_sub_avg": 1.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.8333,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sedriques Dumas",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 06, 1995",
+                        "wins": 10,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 1.97,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 2.64,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.3,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 33.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.25,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Mickey Gall",
             "winner": null
         },
         {
