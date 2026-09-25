@@ -66,62 +66,122 @@
         },
         {
             "fighter_a": {
-                "name": "Rodolfo Vieira",
+                "name": "Norma Dumont",
                 "dataset": [
                     {
-                        "height": 72,
-                        "weight": 185.0,
-                        "reach": 73.0,
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 67.0,
                         "stance": "Orthodox",
-                        "dob": "Sep 25, 1989",
-                        "wins": 11,
-                        "losses": 5,
+                        "dob": "Oct 01, 1990",
+                        "wins": 13,
+                        "losses": 3,
                         "draws": 0,
-                        "career_splm": 3.43,
-                        "career_str_acc": 54.0,
-                        "career_sapm": 4.28,
-                        "career_str_def": 49.0,
-                        "career_td_avg": 2.87,
-                        "career_td_acc": 22.0,
-                        "career_td_def": 60.0,
-                        "career_sub_avg": 0.9,
+                        "career_splm": 3.85,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 2.33,
+                        "career_str_def": 64.0,
+                        "career_td_avg": 1.43,
+                        "career_td_acc": 54.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.0,
                         "ko_rate": 0.0,
-                        "sub_rate": 0.8333,
-                        "momentum": 1,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
                         "result": "win"
                     }
                 ]
             },
             "fighter_b": {
-                "name": "Robert Bryczek",
+                "name": "Ailin Perez",
                 "dataset": [
                     {
-                        "height": 72,
-                        "weight": 185.0,
-                        "reach": 75.0,
-                        "stance": "Orthodox",
-                        "dob": "Jul 04, 1990",
-                        "wins": 18,
-                        "losses": 7,
+                        "height": 65,
+                        "weight": 135.0,
+                        "reach": 66.0,
+                        "stance": "Switch",
+                        "dob": "Oct 05, 1994",
+                        "wins": 13,
+                        "losses": 2,
                         "draws": 0,
-                        "career_splm": 2.8,
-                        "career_str_acc": 37.0,
-                        "career_sapm": 4.51,
-                        "career_str_def": 55.0,
-                        "career_td_avg": 0.36,
-                        "career_td_acc": 100.0,
-                        "career_td_def": 71.0,
-                        "career_sub_avg": 0.4,
-                        "ko_rate": 1.0,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
+                        "career_splm": 2.88,
+                        "career_str_acc": 56.0,
+                        "career_sapm": 1.58,
+                        "career_str_def": 56.0,
+                        "career_td_avg": 4.9,
+                        "career_td_acc": 49.0,
+                        "career_td_def": 72.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.1667,
+                        "momentum": 3,
                         "result": "win"
                     }
                 ]
             },
-            "division": "middleweight",
+            "division": "bantamweight",
             "title_fight": 0,
-            "fight_description": "Rodolfo Vieira",
+            "fight_description": "Norma Dumont",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Luis Hernandez",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 185.0,
+                        "reach": 73.0,
+                        "stance": "Southpaw",
+                        "dob": "Aug 22, 1996",
+                        "wins": 8,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 11.14,
+                        "career_str_acc": 57.0,
+                        "career_sapm": 6.32,
+                        "career_str_def": 39.0,
+                        "career_td_avg": 2.49,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 2.5,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Sedriques Dumas",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 79.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 06, 1995",
+                        "wins": 10,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 1.97,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 2.64,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.3,
+                        "career_td_acc": 31.0,
+                        "career_td_def": 33.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.25,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Luis Hernandez",
             "winner": null
         },
         {
@@ -306,6 +366,66 @@
         },
         {
             "fighter_a": {
+                "name": "Rodolfo Vieira",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Sep 25, 1989",
+                        "wins": 11,
+                        "losses": 5,
+                        "draws": 0,
+                        "career_splm": 3.43,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 4.28,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 2.87,
+                        "career_td_acc": 22.0,
+                        "career_td_def": 60.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.8333,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Robert Bryczek",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 75.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 04, 1990",
+                        "wins": 18,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 2.8,
+                        "career_str_acc": 37.0,
+                        "career_sapm": 4.51,
+                        "career_str_def": 55.0,
+                        "career_td_avg": 0.36,
+                        "career_td_acc": 100.0,
+                        "career_td_def": 71.0,
+                        "career_sub_avg": 0.4,
+                        "ko_rate": 1.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Rodolfo Vieira",
+            "winner": null
+        },
+        {
+            "fighter_a": {
                 "name": "Rodolfo Bellato",
                 "dataset": [
                     {
@@ -486,66 +606,6 @@
         },
         {
             "fighter_a": {
-                "name": "Norma Dumont",
-                "dataset": [
-                    {
-                        "height": 67,
-                        "weight": 135.0,
-                        "reach": 67.0,
-                        "stance": "Orthodox",
-                        "dob": "Oct 01, 1990",
-                        "wins": 13,
-                        "losses": 3,
-                        "draws": 0,
-                        "career_splm": 3.85,
-                        "career_str_acc": 50.0,
-                        "career_sapm": 2.33,
-                        "career_str_def": 64.0,
-                        "career_td_avg": 1.43,
-                        "career_td_acc": 54.0,
-                        "career_td_def": 71.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Ailin Perez",
-                "dataset": [
-                    {
-                        "height": 65,
-                        "weight": 135.0,
-                        "reach": 66.0,
-                        "stance": "Switch",
-                        "dob": "Oct 05, 1994",
-                        "wins": 13,
-                        "losses": 2,
-                        "draws": 0,
-                        "career_splm": 2.88,
-                        "career_str_acc": 56.0,
-                        "career_sapm": 1.58,
-                        "career_str_def": 56.0,
-                        "career_td_avg": 4.9,
-                        "career_td_acc": 49.0,
-                        "career_td_def": 72.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.1667,
-                        "momentum": 3,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "bantamweight",
-            "title_fight": 0,
-            "fight_description": "Norma Dumont",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "John Castaneda",
                 "dataset": [
                     {
@@ -602,66 +662,6 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "John Castaneda",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Mickey Gall",
-                "dataset": [
-                    {
-                        "height": 74,
-                        "weight": 170.0,
-                        "reach": 74.0,
-                        "stance": "Switch",
-                        "dob": "Jan 22, 1992",
-                        "wins": 7,
-                        "losses": 7,
-                        "draws": 0,
-                        "career_splm": 3.5,
-                        "career_str_acc": 49.0,
-                        "career_sapm": 4.72,
-                        "career_str_def": 49.0,
-                        "career_td_avg": 1.15,
-                        "career_td_acc": 32.0,
-                        "career_td_def": 37.0,
-                        "career_sub_avg": 1.6,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.8333,
-                        "momentum": 0,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Sedriques Dumas",
-                "dataset": [
-                    {
-                        "height": 74,
-                        "weight": 185.0,
-                        "reach": 79.0,
-                        "stance": "Orthodox",
-                        "dob": "Aug 06, 1995",
-                        "wins": 10,
-                        "losses": 5,
-                        "draws": 0,
-                        "career_splm": 1.97,
-                        "career_str_acc": 44.0,
-                        "career_sapm": 2.64,
-                        "career_str_def": 53.0,
-                        "career_td_avg": 1.3,
-                        "career_td_acc": 31.0,
-                        "career_td_def": 33.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.25,
-                        "momentum": 0,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "middleweight",
-            "title_fight": 0,
-            "fight_description": "Mickey Gall",
             "winner": null
         },
         {
