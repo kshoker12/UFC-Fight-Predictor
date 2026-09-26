@@ -240,7 +240,7 @@
                 ]
             },
             "division": "bantamweight",
-            "title_fight": 1,
+            "title_fight": 0,
             "fight_description": "Mahammadali Osmanli",
             "winner": null
         },
@@ -300,7 +300,7 @@
                 ]
             },
             "division": "strawweight",
-            "title_fight": 1,
+            "title_fight": 0,
             "fight_description": "Melissa Amaya",
             "winner": null
         },
