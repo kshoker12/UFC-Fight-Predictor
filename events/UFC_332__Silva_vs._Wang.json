@@ -606,6 +606,66 @@
         },
         {
             "fighter_a": {
+                "name": "Jacobe Smith",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Southpaw",
+                        "dob": "Jan 17, 1996",
+                        "wins": 12,
+                        "losses": 0,
+                        "draws": 0,
+                        "career_splm": 6.89,
+                        "career_str_acc": 67.0,
+                        "career_sapm": 2.78,
+                        "career_str_def": 47.0,
+                        "career_td_avg": 7.78,
+                        "career_td_acc": 91.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.7,
+                        "ko_rate": 0.75,
+                        "sub_rate": 0.25,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Bruce Whitehead",
+                "dataset": [
+                    {
+                        "height": null,
+                        "weight": 170.0,
+                        "reach": null,
+                        "stance": "Switch",
+                        "dob": "Dec 14, 1996",
+                        "wins": 8,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Jacobe Smith",
+            "winner": null
+        },
+        {
+            "fighter_a": {
                 "name": "Rafael Dos Anjos",
                 "dataset": [
                     {
