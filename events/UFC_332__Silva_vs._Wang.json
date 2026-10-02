@@ -189,9 +189,9 @@
                 "name": "Roberto Soldic",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 70,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 73.0,
                         "stance": "Southpaw",
                         "dob": "Jan 25, 1995",
                         "wins": 21,
@@ -456,9 +456,9 @@
                 "name": "Anthony Romero",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 65,
                         "weight": 145.0,
-                        "reach": null,
+                        "reach": 66.0,
                         "stance": "Southpaw",
                         "dob": "--",
                         "wins": 7,
@@ -516,9 +516,9 @@
                 "name": "Lucas Armand",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 74,
                         "weight": 264.0,
-                        "reach": null,
+                        "reach": 78.0,
                         "stance": "Orthodox",
                         "dob": "Oct 26, 1995",
                         "wins": 6,
@@ -636,9 +636,9 @@
                 "name": "Bruce Whitehead",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 70,
                         "weight": 170.0,
-                        "reach": null,
+                        "reach": 73.0,
                         "stance": "Switch",
                         "dob": "Dec 14, 1996",
                         "wins": 8,
@@ -816,9 +816,9 @@
                 "name": "Eric Nolan",
                 "dataset": [
                     {
-                        "height": 74,
+                        "height": 72,
                         "weight": 170.0,
-                        "reach": 74.0,
+                        "reach": 73.0,
                         "stance": "Orthodox",
                         "dob": "Sep 13, 1997",
                         "wins": 8,
