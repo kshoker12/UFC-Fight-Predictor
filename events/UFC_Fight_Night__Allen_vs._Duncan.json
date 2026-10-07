@@ -246,66 +246,6 @@
         },
         {
             "fighter_a": {
-                "name": "Julius Walker",
-                "dataset": [
-                    {
-                        "height": 76,
-                        "weight": 205.0,
-                        "reach": 78.0,
-                        "stance": "Orthodox",
-                        "dob": "Jul 16, 1999",
-                        "wins": 7,
-                        "losses": 3,
-                        "draws": 0,
-                        "career_splm": 3.72,
-                        "career_str_acc": 53.0,
-                        "career_sapm": 4.18,
-                        "career_str_def": 42.0,
-                        "career_td_avg": 4.07,
-                        "career_td_acc": 38.0,
-                        "career_td_def": 100.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Gerald Meerschaert",
-                "dataset": [
-                    {
-                        "height": 73,
-                        "weight": 205.0,
-                        "reach": 77.0,
-                        "stance": "Southpaw",
-                        "dob": "Dec 18, 1987",
-                        "wins": 37,
-                        "losses": 22,
-                        "draws": 0,
-                        "career_splm": 2.95,
-                        "career_str_acc": 45.0,
-                        "career_sapm": 3.44,
-                        "career_str_def": 53.0,
-                        "career_td_avg": 1.7,
-                        "career_td_acc": 29.0,
-                        "career_td_def": 40.0,
-                        "career_sub_avg": 1.5,
-                        "ko_rate": 0.0833,
-                        "sub_rate": 0.9167,
-                        "momentum": 0,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "light heavyweight",
-            "title_fight": 0,
-            "fight_description": "Julius Walker",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Malcolm Wellmaker",
                 "dataset": [
                     {
@@ -362,6 +302,66 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Malcolm Wellmaker",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Julius Walker",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 205.0,
+                        "reach": 78.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 16, 1999",
+                        "wins": 7,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.72,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 4.18,
+                        "career_str_def": 42.0,
+                        "career_td_avg": 4.07,
+                        "career_td_acc": 38.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Gerald Meerschaert",
+                "dataset": [
+                    {
+                        "height": 73,
+                        "weight": 205.0,
+                        "reach": 77.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 18, 1987",
+                        "wins": 37,
+                        "losses": 22,
+                        "draws": 0,
+                        "career_splm": 2.95,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 3.44,
+                        "career_str_def": 53.0,
+                        "career_td_avg": 1.7,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 40.0,
+                        "career_sub_avg": 1.5,
+                        "ko_rate": 0.0833,
+                        "sub_rate": 0.9167,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "light heavyweight",
+            "title_fight": 0,
+            "fight_description": "Julius Walker",
             "winner": null
         },
         {
