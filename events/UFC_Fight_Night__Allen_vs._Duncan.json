@@ -62,7 +62,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Brendan Allen",
-            "winner": null
+            "winner": "Brendan Allen"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Matheus Camilo",
-            "winner": null
+            "winner": "Jai Herbert"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Loopy Godinez",
-            "winner": null
+            "winner": "Loopy Godinez"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Andre Fili",
-            "winner": null
+            "winner": "Andre Fili"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Malcolm Wellmaker",
-            "winner": null
+            "winner": "Otari Tanzilovi"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Julius Walker",
-            "winner": null
+            "winner": "Julius Walker"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Francisco Prado",
-            "winner": null
+            "winner": "Francisco Prado"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Niko Price",
-            "winner": null
+            "winner": "Niko Price"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Felipe Franco",
-            "winner": null
+            "winner": "Brendson Ribeiro"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Allen Frye Jr.",
-            "winner": null
+            "winner": "Allen Frye Jr."
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Alice Pereira",
-            "winner": null
+            "winner": "Alice Pereira"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Ernesta Kareckaite",
-            "winner": null
+            "winner": "Draw"
         }
     ]
 }
