@@ -489,9 +489,9 @@
                 "name": "Javad Mahjoub",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 73,
                         "weight": null,
-                        "reach": null,
+                        "reach": 76.0,
                         "stance": "Orthodox",
                         "dob": "May 26, 1991",
                         "wins": 5,
@@ -516,9 +516,9 @@
                 "name": "Joel Faglier",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 74,
                         "weight": null,
-                        "reach": null,
+                        "reach": 73.0,
                         "stance": "Orthodox",
                         "dob": "Jan 18, 2001",
                         "wins": 6,
@@ -576,9 +576,9 @@
                 "name": "Mackenzie Stiller",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 62,
                         "weight": 125.0,
-                        "reach": null,
+                        "reach": 62.0,
                         "stance": "Orthodox",
                         "dob": "Jul 15, 1999",
                         "wins": 6,
