@@ -62,7 +62,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Joaquin Buckley",
-            "winner": null
+            "winner": "Mike Malott"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Erin Blanchfield",
-            "winner": null
+            "winner": "Jasmine Jasudavicius"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Kyle Nelson",
-            "winner": null
+            "winner": "Cristian Perez"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Marc-Andre Barriault",
-            "winner": null
+            "winner": "Marc-Andre Barriault"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Louis Jourdain",
-            "winner": null
+            "winner": "Timmy Cuamba"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Mandel Nallo",
-            "winner": null
+            "winner": "Mandel Nallo"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Tanner Boser",
-            "winner": null
+            "winner": "Tanner Boser"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Julien Leblanc",
-            "winner": null
+            "winner": "Nick Galanti"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Javad Mahjoub",
-            "winner": null
+            "winner": "Joel Faglier"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Katlyn Cerminara",
-            "winner": null
+            "winner": "Katlyn Cerminara"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Chad Anheliger",
-            "winner": null
+            "winner": "Steven Koslow"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Melissa Croden",
-            "winner": null
+            "winner": "Chelsea Chandler"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Cody Chovancek",
-            "winner": null
+            "winner": "SuYoung You"
         }
     ]
 }
