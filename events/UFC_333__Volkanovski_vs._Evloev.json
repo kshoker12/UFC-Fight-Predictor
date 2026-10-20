@@ -663,6 +663,186 @@
             "title_fight": 0,
             "fight_description": "Abubakar Vagaev",
             "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Bolaji Oki",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 73.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 15, 1995",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 6.42,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 5.12,
+                        "career_str_def": 61.0,
+                        "career_td_avg": 1.02,
+                        "career_td_acc": 57.0,
+                        "career_td_def": 75.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.3333,
+                        "sub_rate": 0.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Daniel Santos",
+                "dataset": [
+                    {
+                        "height": 67,
+                        "weight": 145.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Mar 12, 1995",
+                        "wins": 14,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 5.15,
+                        "career_str_acc": 40.0,
+                        "career_sapm": 5.38,
+                        "career_str_def": 50.0,
+                        "career_td_avg": 2.6,
+                        "career_td_acc": 33.0,
+                        "career_td_def": 73.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Bolaji Oki",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Kody Steele",
+                "dataset": [
+                    {
+                        "height": 69,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Apr 21, 1995",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 3.85,
+                        "career_str_acc": 32.0,
+                        "career_sapm": 6.2,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 1.07,
+                        "career_td_acc": 25.0,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": 0.5,
+                        "ko_rate": 0.5,
+                        "sub_rate": 0.5,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Noah Gugnon",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Oct 18, 2000",
+                        "wins": 10,
+                        "losses": 2,
+                        "draws": 0,
+                        "career_splm": 3.7,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 4.44,
+                        "career_str_def": 68.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": 11.1,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Kody Steele",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Iasmin Lucindo",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 115.0,
+                        "reach": 66.0,
+                        "stance": "Orthodox",
+                        "dob": "Jan 08, 2002",
+                        "wins": 18,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 3.22,
+                        "career_str_acc": 45.0,
+                        "career_sapm": 2.8,
+                        "career_str_def": 62.0,
+                        "career_td_avg": 2.28,
+                        "career_td_acc": 55.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.1,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.2,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Nicolle Caliari",
+                "dataset": [
+                    {
+                        "height": 63,
+                        "weight": 115.0,
+                        "reach": 62.0,
+                        "stance": "Orthodox",
+                        "dob": "Nov 04, 1996",
+                        "wins": 9,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 2.88,
+                        "career_str_acc": 39.0,
+                        "career_sapm": 5.59,
+                        "career_str_def": 52.0,
+                        "career_td_avg": 3.38,
+                        "career_td_acc": 29.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 1.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "strawweight",
+            "title_fight": 0,
+            "fight_description": "Iasmin Lucindo",
+            "winner": null
         }
     ]
 }
