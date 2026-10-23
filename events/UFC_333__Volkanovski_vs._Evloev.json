@@ -576,9 +576,9 @@
                 "name": "Asaf Chopurov",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 67,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 67.0,
                         "stance": "Orthodox",
                         "dob": "Nov 17, 2001",
                         "wins": 11,
