@@ -62,7 +62,7 @@
             "division": "featherweight",
             "title_fight": 1,
             "fight_description": "Alexander Volkanovski",
-            "winner": null
+            "winner": "Alexander Volkanovski"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "bantamweight",
             "title_fight": 1,
             "fight_description": "Petr Yan",
-            "winner": null
+            "winner": "Petr Yan"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Lone'er Kavanagh",
-            "winner": null
+            "winner": "Lone'er Kavanagh"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "heavyweight",
             "title_fight": 0,
             "fight_description": "Alexander Volkov",
-            "winner": null
+            "winner": "Alexander Volkov"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Aaron Pico",
-            "winner": null
+            "winner": "Aaron Pico"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Azamat Murzakanov",
-            "winner": null
+            "winner": "Dominick Reyes"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "light heavyweight",
             "title_fight": 0,
             "fight_description": "Nikita Krylov",
-            "winner": null
+            "winner": "Abdul Rakhman Yakhyaev"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Abus Magomedov",
-            "winner": null
+            "winner": "Abus Magomedov"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Grant Dawson",
-            "winner": null
+            "winner": "Grant Dawson"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Colby Thicknesse",
-            "winner": null
+            "winner": "Colby Thicknesse"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Abubakar Vagaev",
-            "winner": null
+            "winner": "Abubakar Vagaev"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Bolaji Oki",
-            "winner": null
+            "winner": "Daniel Santos"
         },
         {
             "fighter_a": {
@@ -782,7 +782,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Kody Steele",
-            "winner": null
+            "winner": "Kody Steele"
         },
         {
             "fighter_a": {
@@ -842,7 +842,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Iasmin Lucindo",
-            "winner": null
+            "winner": "Iasmin Lucindo"
         }
     ]
 }
