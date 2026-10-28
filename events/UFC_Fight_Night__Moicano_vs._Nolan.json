@@ -281,7 +281,7 @@
                         "reach": 74.0,
                         "stance": "Orthodox",
                         "dob": "Aug 01, 1995",
-                        "wins": 6,
+                        "wins": 5,
                         "losses": 0,
                         "draws": 0,
                         "career_splm": 1.4,
@@ -362,66 +362,6 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Francis Marshall",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Azamat Bekoev",
-                "dataset": [
-                    {
-                        "height": 72,
-                        "weight": 185.0,
-                        "reach": 72.0,
-                        "stance": "Orthodox",
-                        "dob": "Dec 30, 1995",
-                        "wins": 20,
-                        "losses": 5,
-                        "draws": 0,
-                        "career_splm": 4.57,
-                        "career_str_acc": 52.0,
-                        "career_sapm": 6.83,
-                        "career_str_def": 31.0,
-                        "career_td_avg": 3.48,
-                        "career_td_acc": 43.0,
-                        "career_td_def": 62.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 1.0,
-                        "sub_rate": 0.0,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Andre Petroski",
-                "dataset": [
-                    {
-                        "height": 72,
-                        "weight": 185.0,
-                        "reach": 73.0,
-                        "stance": "Switch",
-                        "dob": "Jun 12, 1991",
-                        "wins": 13,
-                        "losses": 6,
-                        "draws": 0,
-                        "career_splm": 2.75,
-                        "career_str_acc": 49.0,
-                        "career_sapm": 2.99,
-                        "career_str_def": 51.0,
-                        "career_td_avg": 3.13,
-                        "career_td_acc": 52.0,
-                        "career_td_def": 86.0,
-                        "career_sub_avg": 1.2,
-                        "ko_rate": 0.125,
-                        "sub_rate": 0.25,
-                        "momentum": 0,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "middleweight",
-            "title_fight": 0,
-            "fight_description": "Azamat Bekoev",
             "winner": null
         },
         {
@@ -542,6 +482,66 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Julian Erosa",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Zach Reese",
+                "dataset": [
+                    {
+                        "height": 76,
+                        "weight": 185.0,
+                        "reach": 77.0,
+                        "stance": "Switch",
+                        "dob": "Mar 24, 1994",
+                        "wins": 10,
+                        "losses": 4,
+                        "draws": 0,
+                        "career_splm": 4.47,
+                        "career_str_acc": 54.0,
+                        "career_sapm": 4.0,
+                        "career_str_def": 43.0,
+                        "career_td_avg": 2.74,
+                        "career_td_acc": 61.0,
+                        "career_td_def": 52.0,
+                        "career_sub_avg": 1.2,
+                        "ko_rate": 0.2,
+                        "sub_rate": 0.4,
+                        "momentum": 1,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Mickey Gall",
+                "dataset": [
+                    {
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 74.0,
+                        "stance": "Switch",
+                        "dob": "Jan 22, 1992",
+                        "wins": 7,
+                        "losses": 7,
+                        "draws": 0,
+                        "career_splm": 3.5,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 4.72,
+                        "career_str_def": 49.0,
+                        "career_td_avg": 1.15,
+                        "career_td_acc": 32.0,
+                        "career_td_def": 37.0,
+                        "career_sub_avg": 1.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.8333,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
+            "title_fight": 0,
+            "fight_description": "Zach Reese",
             "winner": null
         },
         {
@@ -722,66 +722,6 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Lucia Szabova",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Zach Reese",
-                "dataset": [
-                    {
-                        "height": 76,
-                        "weight": 185.0,
-                        "reach": 77.0,
-                        "stance": "Switch",
-                        "dob": "Mar 24, 1994",
-                        "wins": 10,
-                        "losses": 4,
-                        "draws": 0,
-                        "career_splm": 4.47,
-                        "career_str_acc": 54.0,
-                        "career_sapm": 4.0,
-                        "career_str_def": 43.0,
-                        "career_td_avg": 2.74,
-                        "career_td_acc": 61.0,
-                        "career_td_def": 52.0,
-                        "career_sub_avg": 1.2,
-                        "ko_rate": 0.2,
-                        "sub_rate": 0.4,
-                        "momentum": 1,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Mickey Gall",
-                "dataset": [
-                    {
-                        "height": 74,
-                        "weight": 185.0,
-                        "reach": 74.0,
-                        "stance": "Switch",
-                        "dob": "Jan 22, 1992",
-                        "wins": 7,
-                        "losses": 7,
-                        "draws": 0,
-                        "career_splm": 3.5,
-                        "career_str_acc": 49.0,
-                        "career_sapm": 4.72,
-                        "career_str_def": 49.0,
-                        "career_td_avg": 1.15,
-                        "career_td_acc": 32.0,
-                        "career_td_def": 37.0,
-                        "career_sub_avg": 1.6,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.8333,
-                        "momentum": 0,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "middleweight",
-            "title_fight": 0,
-            "fight_description": "Zach Reese",
             "winner": null
         }
     ]
