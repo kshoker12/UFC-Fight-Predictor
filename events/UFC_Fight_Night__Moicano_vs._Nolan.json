@@ -669,9 +669,9 @@
                 "name": "Lucia Szabova",
                 "dataset": [
                     {
-                        "height": null,
+                        "height": 67,
                         "weight": 135.0,
-                        "reach": null,
+                        "reach": 67.0,
                         "stance": "Orthodox",
                         "dob": "Dec 23, 1997",
                         "wins": 12,
