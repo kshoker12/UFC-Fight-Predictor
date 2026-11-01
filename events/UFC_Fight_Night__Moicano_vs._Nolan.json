@@ -62,7 +62,7 @@
             "division": "lightweight",
             "title_fight": 0,
             "fight_description": "Renato Moicano",
-            "winner": null
+            "winner": "Tom Nolan"
         },
         {
             "fighter_a": {
@@ -122,7 +122,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Randy Brown",
-            "winner": null
+            "winner": "Jacobe Smith"
         },
         {
             "fighter_a": {
@@ -182,7 +182,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Ode Osbourne",
-            "winner": null
+            "winner": "Cody Durden"
         },
         {
             "fighter_a": {
@@ -242,7 +242,7 @@
             "division": "bantamweight",
             "title_fight": 0,
             "fight_description": "Yana Santos",
-            "winner": null
+            "winner": "Luana Santos"
         },
         {
             "fighter_a": {
@@ -302,7 +302,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Jean-Paul Lebosnoyani",
-            "winner": null
+            "winner": "Jean-Paul Lebosnoyani"
         },
         {
             "fighter_a": {
@@ -362,7 +362,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Francis Marshall",
-            "winner": null
+            "winner": "Dakota Hope"
         },
         {
             "fighter_a": {
@@ -422,7 +422,7 @@
             "division": "welterweight",
             "title_fight": 0,
             "fight_description": "Rodrigo Sezinando",
-            "winner": null
+            "winner": "Rodrigo Sezinando"
         },
         {
             "fighter_a": {
@@ -482,7 +482,7 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Julian Erosa",
-            "winner": null
+            "winner": "Julian Erosa"
         },
         {
             "fighter_a": {
@@ -542,7 +542,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Zach Reese",
-            "winner": null
+            "winner": "Zach Reese"
         },
         {
             "fighter_a": {
@@ -602,7 +602,7 @@
             "division": "middleweight",
             "title_fight": 0,
             "fight_description": "Nick Klein",
-            "winner": null
+            "winner": "Joe Kropschot"
         },
         {
             "fighter_a": {
@@ -662,7 +662,7 @@
             "division": "strawweight",
             "title_fight": 0,
             "fight_description": "Talita Alencar",
-            "winner": null
+            "winner": "Piera Rodriguez"
         },
         {
             "fighter_a": {
@@ -722,7 +722,7 @@
             "division": "flyweight",
             "title_fight": 0,
             "fight_description": "Lucia Szabova",
-            "winner": null
+            "winner": "Lucia Szabova"
         }
     ]
 }
