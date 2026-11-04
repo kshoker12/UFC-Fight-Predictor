@@ -186,66 +186,6 @@
         },
         {
             "fighter_a": {
-                "name": "Seokhyeon Ko",
-                "dataset": [
-                    {
-                        "height": 70,
-                        "weight": 170.0,
-                        "reach": 71.0,
-                        "stance": "Southpaw",
-                        "dob": "Sep 24, 1993",
-                        "wins": 13,
-                        "losses": 3,
-                        "draws": 0,
-                        "career_splm": 3.15,
-                        "career_str_acc": 50.0,
-                        "career_sapm": 1.93,
-                        "career_str_def": 62.0,
-                        "career_td_avg": 3.0,
-                        "career_td_acc": 52.0,
-                        "career_td_def": 50.0,
-                        "career_sub_avg": 0.2,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Wellington Turman",
-                "dataset": [
-                    {
-                        "height": 72,
-                        "weight": 170.0,
-                        "reach": 72.0,
-                        "stance": "Orthodox",
-                        "dob": "Jul 22, 1996",
-                        "wins": 18,
-                        "losses": 8,
-                        "draws": 0,
-                        "career_splm": 3.23,
-                        "career_str_acc": 51.0,
-                        "career_sapm": 4.17,
-                        "career_str_def": 45.0,
-                        "career_td_avg": 1.55,
-                        "career_td_acc": 20.0,
-                        "career_td_def": 42.0,
-                        "career_sub_avg": 0.8,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.3333,
-                        "momentum": 0,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "welterweight",
-            "title_fight": 0,
-            "fight_description": "Seokhyeon Ko",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Billy Elekana",
                 "dataset": [
                     {
@@ -306,62 +246,182 @@
         },
         {
             "fighter_a": {
-                "name": "Mantas Kondratavicius",
+                "name": "Priscila Cachoeira",
                 "dataset": [
                     {
-                        "height": 74,
-                        "weight": 185.0,
-                        "reach": 75.0,
+                        "height": 67,
+                        "weight": 135.0,
+                        "reach": 65.0,
                         "stance": "Orthodox",
-                        "dob": "Jul 17, 1999",
+                        "dob": "Aug 19, 1988",
+                        "wins": 13,
+                        "losses": 9,
+                        "draws": 0,
+                        "career_splm": 4.35,
+                        "career_str_acc": 44.0,
+                        "career_sapm": 7.45,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 0.37,
+                        "career_td_acc": 50.0,
+                        "career_td_def": 69.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.8,
+                        "sub_rate": 0.0,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Nina Milosevic",
+                "dataset": [
+                    {
+                        "height": 65,
+                        "weight": 135.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 08, 1996",
                         "wins": 9,
                         "losses": 1,
                         "draws": 0,
-                        "career_splm": 4.97,
-                        "career_str_acc": 65.0,
-                        "career_sapm": 1.3,
-                        "career_str_def": 57.0,
-                        "career_td_avg": 2.8,
-                        "career_td_acc": 60.0,
-                        "career_td_def": 91.0,
-                        "career_sub_avg": 0.9,
-                        "ko_rate": 0.5,
+                        "career_splm": 5.7,
+                        "career_str_acc": 53.0,
+                        "career_sapm": 3.53,
+                        "career_str_def": 72.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": 100.0,
+                        "career_sub_avg": null,
+                        "ko_rate": 1.0,
                         "sub_rate": 0.0,
                         "momentum": null,
                         "result": "win"
                     }
                 ]
             },
-            "fighter_b": {
-                "name": "Andre Petroski",
+            "division": "bantamweight",
+            "title_fight": 0,
+            "fight_description": "Priscila Cachoeira",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Mitch Raposo",
                 "dataset": [
                     {
-                        "height": 72,
-                        "weight": 185.0,
-                        "reach": 73.0,
+                        "height": 65,
+                        "weight": 125.0,
+                        "reach": 64.0,
                         "stance": "Switch",
-                        "dob": "Jun 12, 1991",
-                        "wins": 13,
-                        "losses": 6,
+                        "dob": "Oct 16, 1998",
+                        "wins": 11,
+                        "losses": 3,
                         "draws": 0,
-                        "career_splm": 2.75,
-                        "career_str_acc": 49.0,
-                        "career_sapm": 2.99,
-                        "career_str_def": 51.0,
-                        "career_td_avg": 3.13,
-                        "career_td_acc": 52.0,
-                        "career_td_def": 86.0,
-                        "career_sub_avg": 1.2,
-                        "ko_rate": 0.125,
-                        "sub_rate": 0.25,
-                        "momentum": 0,
+                        "career_splm": 1.91,
+                        "career_str_acc": 38.0,
+                        "career_sapm": 2.92,
+                        "career_str_def": 60.0,
+                        "career_td_avg": 1.98,
+                        "career_td_acc": 36.0,
+                        "career_td_def": 68.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
                         "result": "win"
                     }
                 ]
             },
-            "division": "middleweight",
+            "fighter_b": {
+                "name": "Marcos Degli",
+                "dataset": [
+                    {
+                        "height": 66,
+                        "weight": 125.0,
+                        "reach": 67.0,
+                        "stance": "Orthodox",
+                        "dob": "May 13, 2000",
+                        "wins": 15,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 1.95,
+                        "career_str_acc": 67.0,
+                        "career_sapm": 0.51,
+                        "career_str_def": 75.0,
+                        "career_td_avg": 4.61,
+                        "career_td_acc": 50.0,
+                        "career_td_def": null,
+                        "career_sub_avg": 4.6,
+                        "ko_rate": 0.0,
+                        "sub_rate": 1.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "flyweight",
             "title_fight": 0,
-            "fight_description": "Mantas Kondratavicius",
+            "fight_description": "Mitch Raposo",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Keiichiro Nakamura",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 145.0,
+                        "reach": 70.0,
+                        "stance": "Southpaw",
+                        "dob": "Dec 02, 1998",
+                        "wins": 8,
+                        "losses": 1,
+                        "draws": 0,
+                        "career_splm": 4.48,
+                        "career_str_acc": 41.0,
+                        "career_sapm": 4.28,
+                        "career_str_def": 63.0,
+                        "career_td_avg": 0.0,
+                        "career_td_acc": 0.0,
+                        "career_td_def": 78.0,
+                        "career_sub_avg": 0.0,
+                        "ko_rate": 0.6667,
+                        "sub_rate": 0.0,
+                        "momentum": 3,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Ollie Schmid",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 145.0,
+                        "reach": 71.0,
+                        "stance": "Orthodox",
+                        "dob": "Dec 28, 2000",
+                        "wins": 4,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.23,
+                        "career_str_acc": 30.0,
+                        "career_sapm": 7.9,
+                        "career_str_def": 45.0,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "featherweight",
+            "title_fight": 0,
+            "fight_description": "Keiichiro Nakamura",
             "winner": null
         },
         {
@@ -486,66 +546,6 @@
         },
         {
             "fighter_a": {
-                "name": "Mitch Raposo",
-                "dataset": [
-                    {
-                        "height": 65,
-                        "weight": 125.0,
-                        "reach": 64.0,
-                        "stance": "Switch",
-                        "dob": "Oct 16, 1998",
-                        "wins": 11,
-                        "losses": 3,
-                        "draws": 0,
-                        "career_splm": 1.91,
-                        "career_str_acc": 38.0,
-                        "career_sapm": 2.92,
-                        "career_str_def": 60.0,
-                        "career_td_avg": 1.98,
-                        "career_td_acc": 36.0,
-                        "career_td_def": 68.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": 2,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Marcos Degli",
-                "dataset": [
-                    {
-                        "height": 66,
-                        "weight": 125.0,
-                        "reach": 67.0,
-                        "stance": "Orthodox",
-                        "dob": "May 13, 2000",
-                        "wins": 15,
-                        "losses": 3,
-                        "draws": 0,
-                        "career_splm": 1.95,
-                        "career_str_acc": 67.0,
-                        "career_sapm": 0.51,
-                        "career_str_def": 75.0,
-                        "career_td_avg": 4.61,
-                        "career_td_acc": 50.0,
-                        "career_td_def": null,
-                        "career_sub_avg": 4.6,
-                        "ko_rate": 0.0,
-                        "sub_rate": 1.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "flyweight",
-            "title_fight": 0,
-            "fight_description": "Mitch Raposo",
-            "winner": null
-        },
-        {
-            "fighter_a": {
                 "name": "Jose Delano",
                 "dataset": [
                     {
@@ -602,66 +602,6 @@
             "division": "featherweight",
             "title_fight": 0,
             "fight_description": "Jose Delano",
-            "winner": null
-        },
-        {
-            "fighter_a": {
-                "name": "Keiichiro Nakamura",
-                "dataset": [
-                    {
-                        "height": 70,
-                        "weight": 145.0,
-                        "reach": 70.0,
-                        "stance": "Southpaw",
-                        "dob": "Dec 02, 1998",
-                        "wins": 8,
-                        "losses": 1,
-                        "draws": 0,
-                        "career_splm": 4.48,
-                        "career_str_acc": 41.0,
-                        "career_sapm": 4.28,
-                        "career_str_def": 63.0,
-                        "career_td_avg": 0.0,
-                        "career_td_acc": 0.0,
-                        "career_td_def": 78.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.6667,
-                        "sub_rate": 0.0,
-                        "momentum": 3,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Ollie Schmid",
-                "dataset": [
-                    {
-                        "height": 72,
-                        "weight": 145.0,
-                        "reach": 71.0,
-                        "stance": "Orthodox",
-                        "dob": "Dec 28, 2000",
-                        "wins": 4,
-                        "losses": 3,
-                        "draws": 0,
-                        "career_splm": 3.23,
-                        "career_str_acc": 30.0,
-                        "career_sapm": 7.9,
-                        "career_str_def": 45.0,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": null,
-                        "career_sub_avg": null,
-                        "ko_rate": 0.0,
-                        "sub_rate": 0.0,
-                        "momentum": null,
-                        "result": "win"
-                    }
-                ]
-            },
-            "division": "featherweight",
-            "title_fight": 0,
-            "fight_description": "Keiichiro Nakamura",
             "winner": null
         },
         {
@@ -726,62 +666,122 @@
         },
         {
             "fighter_a": {
-                "name": "Priscila Cachoeira",
+                "name": "Mantas Kondratavicius",
                 "dataset": [
                     {
-                        "height": 67,
-                        "weight": 135.0,
-                        "reach": 65.0,
+                        "height": 74,
+                        "weight": 185.0,
+                        "reach": 75.0,
                         "stance": "Orthodox",
-                        "dob": "Aug 19, 1988",
-                        "wins": 13,
-                        "losses": 9,
-                        "draws": 0,
-                        "career_splm": 4.35,
-                        "career_str_acc": 44.0,
-                        "career_sapm": 7.45,
-                        "career_str_def": 45.0,
-                        "career_td_avg": 0.37,
-                        "career_td_acc": 50.0,
-                        "career_td_def": 69.0,
-                        "career_sub_avg": 0.0,
-                        "ko_rate": 0.8,
-                        "sub_rate": 0.0,
-                        "momentum": 0,
-                        "result": "win"
-                    }
-                ]
-            },
-            "fighter_b": {
-                "name": "Nina Milosevic",
-                "dataset": [
-                    {
-                        "height": 65,
-                        "weight": 135.0,
-                        "reach": 67.0,
-                        "stance": "Orthodox",
-                        "dob": "Aug 08, 1996",
+                        "dob": "Jul 17, 1999",
                         "wins": 9,
                         "losses": 1,
                         "draws": 0,
-                        "career_splm": 5.7,
-                        "career_str_acc": 53.0,
-                        "career_sapm": 3.53,
-                        "career_str_def": 72.0,
-                        "career_td_avg": null,
-                        "career_td_acc": null,
-                        "career_td_def": 100.0,
-                        "career_sub_avg": null,
-                        "ko_rate": 1.0,
+                        "career_splm": 4.97,
+                        "career_str_acc": 65.0,
+                        "career_sapm": 1.3,
+                        "career_str_def": 57.0,
+                        "career_td_avg": 2.8,
+                        "career_td_acc": 60.0,
+                        "career_td_def": 91.0,
+                        "career_sub_avg": 0.9,
+                        "ko_rate": 0.5,
                         "sub_rate": 0.0,
                         "momentum": null,
                         "result": "win"
                     }
                 ]
             },
-            "division": "bantamweight",
+            "fighter_b": {
+                "name": "Andre Petroski",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 185.0,
+                        "reach": 73.0,
+                        "stance": "Switch",
+                        "dob": "Jun 12, 1991",
+                        "wins": 13,
+                        "losses": 6,
+                        "draws": 0,
+                        "career_splm": 2.75,
+                        "career_str_acc": 49.0,
+                        "career_sapm": 2.99,
+                        "career_str_def": 51.0,
+                        "career_td_avg": 3.13,
+                        "career_td_acc": 52.0,
+                        "career_td_def": 86.0,
+                        "career_sub_avg": 1.2,
+                        "ko_rate": 0.125,
+                        "sub_rate": 0.25,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "middleweight",
             "title_fight": 0,
-            "fight_description": "Priscila Cachoeira",
+            "fight_description": "Mantas Kondratavicius",
+            "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Seokhyeon Ko",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 170.0,
+                        "reach": 71.0,
+                        "stance": "Southpaw",
+                        "dob": "Sep 24, 1993",
+                        "wins": 13,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": 3.15,
+                        "career_str_acc": 50.0,
+                        "career_sapm": 1.93,
+                        "career_str_def": 62.0,
+                        "career_td_avg": 3.0,
+                        "career_td_acc": 52.0,
+                        "career_td_def": 50.0,
+                        "career_sub_avg": 0.2,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": 2,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "Wellington Turman",
+                "dataset": [
+                    {
+                        "height": 72,
+                        "weight": 170.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 22, 1996",
+                        "wins": 18,
+                        "losses": 8,
+                        "draws": 0,
+                        "career_splm": 3.23,
+                        "career_str_acc": 51.0,
+                        "career_sapm": 4.17,
+                        "career_str_def": 45.0,
+                        "career_td_avg": 1.55,
+                        "career_td_acc": 20.0,
+                        "career_td_def": 42.0,
+                        "career_sub_avg": 0.8,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.3333,
+                        "momentum": 0,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "welterweight",
+            "title_fight": 0,
+            "fight_description": "Seokhyeon Ko",
             "winner": null
         },
         {
