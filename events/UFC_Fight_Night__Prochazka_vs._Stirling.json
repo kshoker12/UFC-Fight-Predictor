@@ -663,6 +663,66 @@
             "title_fight": 0,
             "fight_description": "Diyar Nurgozhay",
             "winner": null
+        },
+        {
+            "fighter_a": {
+                "name": "Shoaib Yousaf",
+                "dataset": [
+                    {
+                        "height": 70,
+                        "weight": 155.0,
+                        "reach": 72.0,
+                        "stance": "Orthodox",
+                        "dob": "Aug 07, 1995",
+                        "wins": 14,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "fighter_b": {
+                "name": "John Mitchell",
+                "dataset": [
+                    {
+                        "height": 71,
+                        "weight": 155.0,
+                        "reach": 74.0,
+                        "stance": "Orthodox",
+                        "dob": "Jul 21, 1995",
+                        "wins": 11,
+                        "losses": 3,
+                        "draws": 0,
+                        "career_splm": null,
+                        "career_str_acc": null,
+                        "career_sapm": null,
+                        "career_str_def": null,
+                        "career_td_avg": null,
+                        "career_td_acc": null,
+                        "career_td_def": null,
+                        "career_sub_avg": null,
+                        "ko_rate": 0.0,
+                        "sub_rate": 0.0,
+                        "momentum": null,
+                        "result": "win"
+                    }
+                ]
+            },
+            "division": "lightweight",
+            "title_fight": 0,
+            "fight_description": "Shoaib Yousaf",
+            "winner": null
         }
     ]
 }
